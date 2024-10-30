@@ -1,5 +1,7 @@
 # 28 vs 32 spokes
 
+![Riding the Scor 2030 on a misty day in the Swiss Jura](/assets/IMG_5594.JPG "Title")
+
 This starts with a lovestory. Last fall I fell in love with a Scor 2030 on a non-intended test ride and impulsively decided to buy a frame. However, I was looking for some ways to shave some weight off the build. The test bike I rode had a Maxxis Dissector/Rekon tire combo that contributed to the playful nature of the 2030 but did not inspire confidence at all on steeper terrain. It was obvious to me that it needed better tires but I didn’t want the weight penalty that comes together with it.
 
 Until recently all my wheel builds would consist of DT Swiss XM481 rims, with either 240 or 350 hubs, 32 spoke count, DT Swiss Competition spokes (2.0/1.8) and brass nipples. I wanted the same rim, so the only option at hand was to reduce spoke count, use lighter (thinner) spokes and aluminium nipples. So I went down that rabbit hole and ordered DT Swiss Competition Race spokes (2.0/1.6), Sapim aluminium nipples and 28-hole rims.
