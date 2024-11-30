@@ -19,7 +19,7 @@ Feel free to call me a weight-wheenie, but in my mind the bike industry is curre
 
 Two very mediative evening sessions of wheel-building later I was contemplating a freshly built wheelset. Another two evenings of wrenching later the entire bike was assembled and ready for a first ride. It left me somewhat puzzled. The Scor 2030 climbed slower than my Transition Sentinel which had heavier wheels. Now when I say slower I mean slower by feel not by numbers (I’m in the anti-Strava camp).
 
-How is this possible? The Scor had lighter wheels, less suspension, good climbing efficiency and was a touch lighter overall as well (although the frame of the Sentinel iself is significantly ligher).
+How is this possible? The Scor had lighter wheels, less suspension, good climbing efficiency and was a touch lighter overall as well (although the frame of the Sentinel itself is significantly lighter).
 
 First, let’s dig into the numbers.
 
