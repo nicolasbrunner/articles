@@ -1,4 +1,4 @@
-# 28 vs 32 spokes
+# Nerding out on spoke count
 
 ![Riding the Scor 2030 on a misty day in the Swiss Jura](/assets/IMG_5594.JPG)
 
