@@ -83,5 +83,5 @@ Lucky to live in a small town at the foot uf the Jura mountain range in Switzerl
 ![](/assets/IMG_5480.JPG)
 ![](/assets/IMG_3911.JPG)
 ![](/assets/IMG_3912.JPG)
-![](/assets/IMG_5135.JPG)
-![](/assets/IMG_5150.JPG)
+![](/assets/IMG_5135.jpg)
+![](/assets/IMG_5150.jpg)
