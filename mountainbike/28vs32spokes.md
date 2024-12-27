@@ -72,4 +72,14 @@ To wrap it up, you might have noticed the heavy use of words like ‘slightly’
 Up to this day I have spent many hours riding both wheelsets on different bikes and none of them ever needed any re-tensioning or significant re-truing (aside from a few broken spokes when sticks would get in the wheel). For my weight and riding style - think surgeon instead of butcher - I dont’ fear that the 28-spoke wheel will have a shorter lifespan.
 
 ## About the author
-Lucky to live in a small town at the foot uf the Jura mountain range in Switzerland with lots of old hiking trails and some hand-built trails right at my doorstep. Very happy being able to follow my passions: Being a dad, working as a software developer half of the week, showing friends our beautiful mountains as a mountainbike guide in summer and coaching aspiring ski instructors in winter. I love all aspects of cycling, but my hearth will sparkle most on multi-day adventures discovering unknown alpine terrain and trails.
+Lucky to live in a small town at the foot uf the Jura mountain range in Switzerland with lots of old hiking trails and some hand-built trails right at my doorstep. I try my best at following my passions: Being a dad, working as a software developer half of the week, showing friends our beautiful mountains as a mountainbike guide in summer and coaching aspiring ski instructors in winter. I love all aspects of cycling, but my hearth will sparkle most on multi-day adventures discovering unknown alpine terrain and trails.
+
+## Additional photos
+![](/assets/IMG_5155.jpg)
+![](/assets/IMG_5220.JPG)
+![](/assets/IMG_5207.HEIC)
+![](/assets/IMG_5185.HEIC)
+![](/assets/IMG_5474.JPG)
+![](/assets/IMG_5480.JPG)
+![](/assets/IMG_3911.JPG)
+![](/assets/IMG_3912.JPG)
