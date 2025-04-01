@@ -17,7 +17,17 @@ Now don’t get me wrong, I’ve been on many different tires over the last few 
 
 When Schwalbe came out with their new Radial casing and all reviews were glowing in favor, I knew I needed to give them a try. So without thinking too much, I ordered a set of Schwalbe Albert Trail Pro Radial tires, Ultra Soft for the front and Soft for the rear.
 
-Image of Scor 2030 with Maxxis tires / Image of Scor 2030 with Radial tires / or all tire combons with spoiler alert on Magic Mary
+![Go-to tire choice mounted on my Scor 2030.](/assets/schwalberadial/F2A5864F-9602-40B6-BF5D-F247644076C7_1_201_a.heic)
+*My go-to tire choice so far: Minion DHF 2.5 EXO MaxxGrip (front) and Minion DHR II 2.4 MaxxTerra (rear).*
+
+![Tire iteration #1 mounted on my Scor 2030.](/assets/schwalberadial/8277C1FA-61C7-4131-9C2E-41DC41986C5F_1_201_a.heic)
+**Iteration #1: Albert Trail Pro Radial 2.5 Ultra Soft (front) and Soft (rear).*. Spoiler alert: Don't look at the next image.*
+
+![Tire iteration #2.](/assets/schwalberadial/CC561682-B35E-4B9F-858A-B56DDCB1D078_1_201_a.heic)
+**Iteration #2: Magic mary Trail Pro Radial 2.5 Ultra Soft (front) and Albert Trail Pro Radial 2.5 Soft (rear).*
+
+![Tire iteration #3.](/assets/schwalberadial/972ECEFB-DA0F-4384-A886-4C14B47F1B45_1_201_a.heic)
+**Iteration #3: Magic mary Trail Pro Radial 2.5 Ultra Soft (front) and Minion DHR II 2.4 MaxxTerra (rear).*
 
 There are 2 things where I’d like those tires to improve my riding experience compared to my beloved DHF/DHR. First, the grip on our wet off-camber roots is equal to zero even with MaxxGrip. Grabbing a brake when riding over such roots leads to instant disaster. So just a little more grip there would be nice.
 
@@ -31,7 +41,14 @@ Installation on DT Swiss XM481 rims went super-smooth. My usual routine of remov
 
 They do look a bit narrower and rounder than a DHF 2.5 once installed. The caliper confirms what you can see: Same width as a DHR II 2.4 and narrower than the a DHF 2.5. Otherwise I really like the stealth look from the side, but am not a big fan of the purple (Ultra Soft) or orange (Soft) line running around the entire tire.
 
-Image of Maxxis/Schwalbe tire thread pattern side-by-side
+![DHF 2.5 and Schwalbe Albert 2.5 thread pattern.](/assets/schwalberadial/2A161A3E-7AED-4974-8A6D-8D1863C7A865.heic)
+*DHF 2.5 and Schwalbe Albert 2.5.*
+
+![DHR II 2.4 and Schwalbe Albert 2.5 thread pattern.](/assets/schwalberadial/94EF3936-9C7E-4AD7-88E7-F600D382A85A.heic)
+*DHR II 2.4 and Schwalbe Albert 2.5.*
+
+![DHF 2.5 and Schwalbe Magic Mary 2.5 thread pattern.](/assets/schwalberadial/EA2E0F99-5E24-40FB-8CF0-AE534F779EF8_1_201_a.heic)
+*DHF 2.5 and Schwalbe Magic Mary 2.5.*
 
 I was initially planning on starting with back-to-back testing when the tires are still fresh, but curiosity took over. I aired them up to the same pressure as I would with my Maxxis tires and went on a quick 1.5h lunch-ride. A longer fireroad climb (around 500m vert) followed by a downhill along a ridge consisting of a rather flat, very technical and tight trail paved with weird rocks and off-camber roots with lots of mini-climbs inbetween. Many would not consider it flowy but it’s one of my favorites trails in winter and I often find myself sessioning a few spots to clear it all. The tires provided beautiful grip on a damp, cold (slightly above freezing) but not extremely wet trail. They also seemed to clear mud better (there is a short steep muddy section at the bottom) than my Minions. I attribute this only to the tire’s ability to deform more, since the spacing is definitely smaller than on the Minions. This was off to a promising start.
 
