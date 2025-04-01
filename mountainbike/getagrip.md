@@ -58,6 +58,9 @@ Overnight, we were “blessed” with rain and snow. Conditions were around free
 
 I also started to notice more drag. On rides that involved more riding to the trails on roads, it definitely felt like more effort was needed to maintain a certain speed. The moment I switched back to my Maxxis tires felt like being released from a boat anchor. Quick accelerations simply felt more rewarding on them. This was less noticeable on unpaved steady fireroad climbs and even less for technical climbing, so this might be less of an issue for you. The flipside of this is, that the Schwalbe Radial tires provide exceptional grip for technical climbing.
 
+![Bringing an additional set of tires to the woods with a backpack.](/assets/schwalberadial/1C1204E5-F15D-4239-A230-7E529AAB07D9_1_201_a.heic)
+*Back-to-back testing Swiss style.*
+
 Then finally spring knocked on the door: 10 days of perfect weather. Sunshine all day and warm enough to ride in shorts and a shirt. Perfect dirt, increased speeds and more trail options. The kind of conditions that make you feel like superman (especially after 5 months of winter riding). I took the opportunity to work less and ride more. And on both tire combinations.
 
 In those conditions, obviously both tires performed beautifully but in different ways. The Radial tires would mute the trail more and are less fatiguing on the hands. The Maxxis tires on the other hand felt bouncier, for the better and for the worse. They are very fun when pushing out of corners or when pushing down on the handlebars to pop the front wheel. They simply rebound more and that makes for a very fun and lively feeling. Then again, the Radial tires feel more comfortable over very rocky terrain. Using the same tire pressure, they mute the terrain a lot more, vibrate less and are less fatiguing. They also provide slightly better grip and I felt I needed to pay less attention to brake modulation in the steeps. This became especially clear when doing back-to-back laps and switching between tires after each run.
@@ -80,3 +83,11 @@ Enter the Schwalbe Magic Mary. Since I was frustrated with the side-grip of the 
 Wrapping it up, this is not one of those games, where there is a clear winner. I personally feel like the Albert Radial tires are an excellent choice for beginner/intermediate riders, as they provide a lot of grip and comfort. The Magic Mary provides just a bit less comfort but offers more side-grip. It has become my new front tire of choice, especially for wet conditions. The DHF/DHR II combo feels more exciting to me when conditions are prime, roll better and provide excellent side-grip. I will continue riding them in dry conditions.
 
 Also I feel like tire choice has become even more complex: Apart from different rubber compounds, thread patterns and casings, enter another variable: casing cord orientation. Thanks Schwalbe for making it more interesting and complex at the same time.
+
+## Additional photos
+![](/assets/schwalberadial/4F7B8090-A5B1-4B2D-B1B9-E35219D6337A_1_201_a.jpeg)
+![](/assets/schwalberadial/35227099-1104-442F-8010-F538588D5244_1_201_a.jpeg)
+![](/assets/schwalberadial/A5085F9C-07F4-4136-BA51-80C61F6FA88C_1_201_a.jpeg)
+![](/assets/schwalberadial/4F7B8090-A5B1-4B2D-B1B9-E35219D6337A_1_201_a.jpeg)
+![](/assets/schwalberadial/4F7B8090-A5B1-4B2D-B1B9-E35219D6337A_1_201_a.jpeg)
+
