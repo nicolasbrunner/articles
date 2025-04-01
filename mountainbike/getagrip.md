@@ -4,7 +4,8 @@ Image of Schwalbe tires leaning against wall
 
 I have a confession to make. When it comes to tires, I’m very conservative. This is somewhat painful admitting to myself. I mean, wouldn’t we all like to be open-minded people, constantly trying out new things and welcoming change instead of fearfully clamping to the few things we know work or are at least tolerable?
 
-Image of me jumping on trail
+![Riding the Alberts in the Swiss Jura](/assets/schwalberadial/9F258009-6E11-4801-9309-CB1D2C083A45_1_201_a.jpeg)
+*Grippy tires for the win.*
 
 That good old Maxxis Minion DHF & DHR II combo just seems to work for me and the terrain I ride. Excellent braking traction and heaps of cornering grip are on the menu. Yes, the DHR II might not be the fastest rolling tire on the planet, but you get used to it and stop noticing.
 
@@ -44,17 +45,20 @@ Then finally spring knocked on the door: 10 days of perfect weather. Sunshine al
 
 In those conditions, obviously both tires performed beautifully but in different ways. The Radial tires would mute the trail more and are less fatiguing on the hands. The Maxxis tires on the other hand felt bouncier, for the better and for the worse. They are very fun when pushing out of corners or when pushing down on the handlebars to pop the front wheel. They simply rebound more and that makes for a very fun and lively feeling. Then again, the Radial tires feel more comfortable over very rocky terrain. Using the same tire pressure, they mute the terrain a lot more, vibrate less and are less fatiguing. They also provide slightly better grip and I felt I needed to pay less attention to brake modulation in the steeps. This became especially clear when doing back-to-back laps and switching between tires after each run.
 
-Image with backpack on riding
+![Riding the Alberts in the Swiss Jura](/assets/schwalberadial/DSC00209.jpeg)
+*The Alberts provide excellent comfort and braking traction on a rocky and rooty trail like this one.*
+
+![Riding the Alberts in the Swiss Jura](/assets/schwalberadial/AA78A65B-7EE1-4B10-9450-C0A36B093638_1_201_a.jpeg)
+*While the Minions provide more rebound and invite you to play around more.*
 
 Speaking of back-to-back testing I did also experiment with increasing tire pressure, since everyone seems to suggest that for Radial tires. When increasing my usual pressures by 0.25bar front and rear, grip remained excellent. However the tires lost some of their comfort and you would feel the trail more. Since I did not experience any pinch flats or tire squirming with the “lower” pressures, I went back to my usual pressures.
 
 Now there is one area I found the Schwalbe Albert tires to be lacking: In off-camber gnar (relatively speaking) I felt more confident on the Maxxis tires. They would simply hold on better to off-camber rocks. On one of the forgotten hiking trails in my backyard, there is a section with many off-camber rocks where you then need to nose-pivot to turn downhill. This is always a move that makes me a bit nervous. I was not able to do it on the Schwalbe Albert tires.
 
-Image leaning bike over: more side-grip with Maxxis
+![Riding the Alberts in the Swiss Jura](/assets/schwalberadial/DSC00562.jpeg)
+*Side-grip on the Alberts has been underwhelming for my taste.*
 
 Enter the Schwalbe Magic Mary. Since I was frustrated with the side-grip of the Alberts but liked them otherwise, I decided to order a Magic Mary Radial for the front and still continue to run the Albert in the rear. Finally, I was able to trust my front wheel again in off-camber sections. Tighter loamy turns without a berm made the difference between the Magic Mary and the Albert very apparent. The Magic Mary in the front was very happy when leaned over while the Albert in the rear would loose traction way earlier and brake free. Obviously having the rear loosing side-traction sooner than the front is not exactly the best feeling in the world, so I decided to switch the rear tire back to a Minion DHR II. It might grind some people's gears to have mismatching tire brands front and rear, but performance-wise it was a revelation. Improved rolling resistance, excellent side-grip front and rear and the comfort of a radial casing on the more important wheel.
-
-TODO: Check Magic Mary Radial for side-grip!!!!!!
 
 Wrapping it up, this is not one of those games, where there is a clear winner. I personally feel like the Albert Radial tires are an excellent choice for beginner/intermediate riders, as they provide a lot of grip and comfort. The Magic Mary provides just a bit less comfort but offers more side-grip. It has become my new front tire of choice, especially for wet conditions. The DHF/DHR II combo feels more exciting to me when conditions are prime, roll better and provide excellent side-grip. I will continue riding them in dry conditions.
 
