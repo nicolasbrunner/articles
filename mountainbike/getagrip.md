@@ -12,13 +12,11 @@ I used to run a Maxxis Shorty on the front in the winter for a few seasons. But 
 
 So my little safe space consisted of a Maxxis DHF 2.5 Maxxgrip front and DHR II 2.4 MaxxTerra rear both in EXO casing. Yep that's right, EXO casing. I weigh 76kg naked and run 1.35bar front / 1.65bar rear, no inserts. According to the wisdom of many reviews and comment sections my tires should explode just by looking at them but they just work for me. I’ve had exactly 2 pinch flats last year. Both were very much rider error and easily repairable trailside. I have tested heavier casings but I don’t feel they allow me to drop pressures significantly without becoming squirmy when pushing into corners.
 
-Image of Scor 2030 with Maxxis tires
-
 Now don’t get me wrong, I’ve been on many different tires over the last few years. Just not on my personal bikes, where the tire would be the only variable changing. Still, I knew that I needed to get out of my comfort zone and open my mind to other tire options. 
 
 When Schwalbe came out with their new Radial casing and all reviews were glowing in favor, I knew I needed to give them a try. So without thinking too much, I ordered a set of Schwalbe Albert Trail Pro Radial tires, Ultra Soft for the front and Soft for the rear.
 
-Image of Scor 2030 with Radial tires / or all tire combons with spoiler alert on Magic Mary
+Image of Scor 2030 with Maxxis tires / Image of Scor 2030 with Radial tires / or all tire combons with spoiler alert on Magic Mary
 
 There are 2 things where I’d like those tires to improve my riding experience compared to my beloved DHF/DHR. First, the grip on our wet off-camber roots is equal to zero even with MaxxGrip. Grabbing a brake when riding over such roots leads to instant disaster. So just a little more grip there would be nice.
 
