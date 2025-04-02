@@ -24,7 +24,7 @@ When Schwalbe came out with their new Radial casing and all reviews were glowing
 *Iteration #1: Albert Trail Pro Radial 2.5 Ultra Soft (front) and Soft (rear).*. Spoiler alert: Don't look at the next image.*
 
 ![Tire iteration #2.](/assets/schwalberadial/CC561682-B35E-4B9F-858A-B56DDCB1D078_1_201_a.heic)
-*Iteration #2: Magic mary Trail Pro Radial 2.5 Ultra Soft (front) and Albert Trail Pro Radial 2.5 Soft (rear).*
+*Iteration #2: Magic Mary Trail Pro Radial 2.5 Ultra Soft (front) and Albert Trail Pro Radial 2.5 Soft (rear).*
 
 ![Tire iteration #3.](/assets/schwalberadial/972ECEFB-DA0F-4384-A886-4C14B47F1B45_1_201_a.heic)
 *Iteration #3: Magic mary Trail Pro Radial 2.5 Ultra Soft (front) and Minion DHR II 2.4 MaxxTerra (rear).*
@@ -35,7 +35,14 @@ Second, the MaxxGrip compound is very noisy. No I don’t notice it when riding 
 
 And then, there’s maybe a third, more budget-oriented wish. I’m generally very happy with the durability of my Maxxis Minion tires. And yet, when I retire them, it’s always because the side-knobs start to deteriorate while the center knobs still look fine. If the side-knobs would hold up just a bit better, that would be a big plus.
 
-Image of maxxis tire at end of life
+![Albert Trail Pro Radial 2.5 Ultra Soft weighs 1154g](/assets/schwalberadial/27A0C2A1-5374-44F7-8DBC-22DE298AB7E7.heic)
+*Schwalbe Albert Trail Pro Radial 2.5 Ultra Soft (and Soft) weight.*
+
+![Magic Mary Trail Pro Radial 2.5 Ultra Soft weighs 1113g](/assets/schwalberadial/67526425-4066-46A1-A997-28E03A885DB1.heic)
+*Schwalbe Magic Mary Trail Pro Radial 2.5 Ultra Soft weighs a bit less.*
+
+![Minion DHF 2.5 EXO MaxxGrip weighs 1113g](/assets/schwalberadial/8CEECB9B-6AD6-4091-B22A-5A36BF71C8B1.heic)
+*Maxxis Minion DHF 2.5 EXO MaxxGrip weighs exactly the same as the Magic Mary.*
 
 Installation on DT Swiss XM481 rims went super-smooth. My usual routine of removing the valve cores, spraying water with a few drops of baby shampoo on the sidewalls, and then releasing the air of a pressurized tubeless pump installed both tires first try. No need to help massage the tire into position as I sometimes need to do with Maxxis tires. Nice! 
 
