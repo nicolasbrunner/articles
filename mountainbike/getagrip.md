@@ -1,6 +1,7 @@
 # Get a grip!
 
 ![Schwalbe Magic Mary Radial and Albert Radial](/assets/schwalberadial/777A9312-48B7-4BC6-B37A-4798BA93383A_1_201_a.heic)
+Words/Still Photos: **Nicolas Brunner** / Action Photos: **Reto Kurmann**
 
 I have a confession to make. When it comes to tires, I’m very conservative. This is somewhat painful admitting to myself. I mean, wouldn’t we all like to be open-minded people, constantly trying out new things and welcoming change instead of fearfully clamping to the few things we know work or are at least tolerable?
 
