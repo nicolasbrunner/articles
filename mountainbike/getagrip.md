@@ -1,6 +1,6 @@
 # Get a grip!
 
-![Schwalbe Magic Mary Radial and Albert Radial](/assets/schwalberadial/777A9312-48B7-4BC6-B37A-4798BA93383A_1_201_a.jpeg)
+![Schwalbe Magic Mary Radial and Albert Radial](/assets/schwalberadial/777A9312-48B7-4BC6-B37A-4798BA93383A_1_201_a.heic)
 
 I have a confession to make. When it comes to tires, I’m very conservative. This is somewhat painful admitting to myself. I mean, wouldn’t we all like to be open-minded people, constantly trying out new things and welcoming change instead of fearfully clamping to the few things we know work or are at least tolerable?
 
@@ -21,13 +21,13 @@ When Schwalbe came out with their new Radial casing and all reviews were glowing
 *My go-to tire choice so far: Minion DHF 2.5 EXO MaxxGrip (front) and Minion DHR II 2.4 MaxxTerra (rear).*
 
 ![Tire iteration #1 mounted on my Scor 2030.](/assets/schwalberadial/8277C1FA-61C7-4131-9C2E-41DC41986C5F_1_201_a.heic)
-**Iteration #1: Albert Trail Pro Radial 2.5 Ultra Soft (front) and Soft (rear).*. Spoiler alert: Don't look at the next image.*
+*Iteration #1: Albert Trail Pro Radial 2.5 Ultra Soft (front) and Soft (rear).*. Spoiler alert: Don't look at the next image.*
 
 ![Tire iteration #2.](/assets/schwalberadial/CC561682-B35E-4B9F-858A-B56DDCB1D078_1_201_a.heic)
-**Iteration #2: Magic mary Trail Pro Radial 2.5 Ultra Soft (front) and Albert Trail Pro Radial 2.5 Soft (rear).*
+*Iteration #2: Magic mary Trail Pro Radial 2.5 Ultra Soft (front) and Albert Trail Pro Radial 2.5 Soft (rear).*
 
 ![Tire iteration #3.](/assets/schwalberadial/972ECEFB-DA0F-4384-A886-4C14B47F1B45_1_201_a.heic)
-**Iteration #3: Magic mary Trail Pro Radial 2.5 Ultra Soft (front) and Minion DHR II 2.4 MaxxTerra (rear).*
+*Iteration #3: Magic mary Trail Pro Radial 2.5 Ultra Soft (front) and Minion DHR II 2.4 MaxxTerra (rear).*
 
 There are 2 things where I’d like those tires to improve my riding experience compared to my beloved DHF/DHR. First, the grip on our wet off-camber roots is equal to zero even with MaxxGrip. Grabbing a brake when riding over such roots leads to instant disaster. So just a little more grip there would be nice.
 
@@ -78,16 +78,14 @@ Now there is one area I found the Schwalbe Albert tires to be lacking: In off-ca
 ![Riding the Alberts in the Swiss Jura](/assets/schwalberadial/DSC00562.jpeg)
 *Side-grip on the Alberts has been underwhelming for my taste.*
 
-Enter the Schwalbe Magic Mary. Since I was frustrated with the side-grip of the Alberts but liked them otherwise, I decided to order a Magic Mary Radial for the front and still continue to run the Albert in the rear. Finally, I was able to trust my front wheel again in off-camber sections. Tighter loamy turns without a berm made the difference between the Magic Mary and the Albert very apparent. The Magic Mary in the front was very happy when leaned over while the Albert in the rear would loose traction way earlier and brake free. Obviously having the rear loosing side-traction sooner than the front is not exactly the best feeling in the world, so I decided to switch the rear tire back to a Minion DHR II. It might grind some people's gears to have mismatching tire brands front and rear, but performance-wise it was a revelation. Improved rolling resistance, excellent side-grip front and rear and the comfort of a radial casing on the more important wheel.
+Enter the Schwalbe Magic Mary. Since I was frustrated with the side-grip of the Alberts but liked them otherwise, I decided to order a Magic Mary Radial for the front and still continue to run the Albert in the rear. Finally, I was able to trust my front wheel again in off-camber sections. Tighter loamy turns without a berm made the difference between the Magic Mary and the Albert very apparent. The Magic Mary in the front was very happy when leaned over while the Albert in the rear would loose traction way earlier and brake free. Obviously having the rear loosing side-traction sooner than the front is not exactly the best feeling in the world, so I decided to switch the rear tire back to a Minion DHR II. It might grind some people's gears to have mismatching tire brands front and rear, but performance-wise it was a revelation. Improved rolling resistance, excellent side-grip front and rear and the comfort of a radial casing on the more important front wheel. Feel free to recommend me a matching rear tire from Schwalbe. Right now I'm tempted to try the Big Betty?
 
-Wrapping it up, this is not one of those games, where there is a clear winner. I personally feel like the Albert Radial tires are an excellent choice for beginner/intermediate riders, as they provide a lot of grip and comfort. The Magic Mary provides just a bit less comfort but offers more side-grip. It has become my new front tire of choice, especially for wet conditions. The DHF/DHR II combo feels more exciting to me when conditions are prime, roll better and provide excellent side-grip. I will continue riding them in dry conditions.
+Wrapping it up, this is not one of those games, where there is a clear winner. I personally feel like the Albert Radial tires are an excellent choice for beginner/intermediate riders, as they provide a lot of grip and comfort. The Magic Mary provides just a bit less comfort but offers more side-grip. It has become my new front tire of choice, especially for wet conditions. The DHF/DHR II combo feels more exciting when conditions are prime, roll better and provide excellent side-grip. I will continue riding them in dry conditions.
 
-Also I feel like tire choice has become even more complex: Apart from different rubber compounds, thread patterns and casings, enter another variable: casing cord orientation. Thanks Schwalbe for making it more interesting and complex at the same time.
+Also I feel like tire choice has become even more complex. Apart from different rubber compounds, thread patterns and casings, we now have to deal with another variable: casing cord orientation. Thanks Schwalbe for making it more interesting and complex at the same time.
 
 ## Additional photos
 ![](/assets/schwalberadial/4F7B8090-A5B1-4B2D-B1B9-E35219D6337A_1_201_a.jpeg)
 ![](/assets/schwalberadial/35227099-1104-442F-8010-F538588D5244_1_201_a.jpeg)
 ![](/assets/schwalberadial/A5085F9C-07F4-4136-BA51-80C61F6FA88C_1_201_a.jpeg)
-![](/assets/schwalberadial/4F7B8090-A5B1-4B2D-B1B9-E35219D6337A_1_201_a.jpeg)
-![](/assets/schwalberadial/4F7B8090-A5B1-4B2D-B1B9-E35219D6337A_1_201_a.jpeg)
 
