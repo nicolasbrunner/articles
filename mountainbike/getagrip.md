@@ -21,7 +21,7 @@ When Schwalbe came out with their new Radial casing and all reviews were glowing
 *My go-to tire choice so far: Minion DHF 2.5 EXO MaxxGrip (front) and Minion DHR II 2.4 MaxxTerra (rear).*
 
 ![Tire iteration #1 mounted on my Scor 2030.](/assets/schwalberadial/8277C1FA-61C7-4131-9C2E-41DC41986C5F_1_201_a.heic)
-*Iteration #1: Albert Trail Pro Radial 2.5 Ultra Soft (front) and Soft (rear).*. Spoiler alert: Don't look at the next image.*
+*Iteration #1: Albert Trail Pro Radial 2.5 Ultra Soft (front) and Soft (rear). Spoiler alert: Don't look at the next image.*
 
 ![Tire iteration #2.](/assets/schwalberadial/CC561682-B35E-4B9F-858A-B56DDCB1D078_1_201_a.heic)
 *Iteration #2: Magic Mary Trail Pro Radial 2.5 Ultra Soft (front) and Albert Trail Pro Radial 2.5 Soft (rear).*
@@ -58,8 +58,6 @@ They do look a bit narrower and rounder than a DHF 2.5 once installed. The calip
 *DHF 2.5 and Schwalbe Magic Mary 2.5.*
 
 I was initially planning on starting with back-to-back testing when the tires are still fresh, but curiosity took over. I aired them up to the same pressure as I would with my Maxxis tires and went on a quick 1.5h lunch-ride. A longer fireroad climb (around 500m vert) followed by a downhill along a ridge consisting of a rather flat, very technical and tight trail paved with weird rocks and off-camber roots with lots of mini-climbs inbetween. Many would not consider it flowy but it’s one of my favorites trails in winter and I often find myself sessioning a few spots to clear it all. The tires provided beautiful grip on a damp, cold (slightly above freezing) but not extremely wet trail. They also seemed to clear mud better (there is a short steep muddy section at the bottom) than my Minions. I attribute this only to the tire’s ability to deform more, since the spacing is definitely smaller than on the Minions. This was off to a promising start.
-
-Image of riding over roots
 
 Overnight, we were “blessed” with rain and snow. Conditions were around freezing and quite damp. The type of damp where it’s impossible to wear glasses uphill, because they would start fogging instantly. Grip on smaller roots was very good for the conditions and an improvement over my Maxxis tires. However, on wet rocks it was the opposite, and I had the impression to slide more. My only reasoning to this, is that the Radial tires can deform more over small roots and allow for more contact with grippier parts of the trail (dirt). MaxxGripp rubber on the other hand seemed to be grippier than the UltraSoft rubber from Schwalbe in those slimy conditions.
 
