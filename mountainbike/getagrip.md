@@ -34,6 +34,12 @@ There are 2 things where I’d like those tires to improve my riding experience 
 
 Second, the MaxxGrip compound is very noisy. No I don’t notice it when riding down on the trail, but when accessing trails on paved roads, it is very loud. That’s a small nit-pick but some days it really bugs me.
 
+![Maxxis DHF after a few months of riding](/assets/schwalberadial/DHF_used.jpeg)
+*DHF in retirement condition: Side knobs wear quicker than center knobs.*
+
+![Maxxis DHR after a few months of riding](/assets/schwalberadial/DHF_used.jpeg)
+*DHR in retirement condition: Same same.*
+
 And then, there’s maybe a third, more budget-oriented wish. I’m generally very happy with the durability of my Maxxis Minion tires. And yet, when I retire them, it’s always because the side-knobs start to deteriorate while the center knobs still look fine. If the side-knobs would hold up just a bit better, that would be a big plus.
 
 ![Albert Trail Pro Radial 2.5 Ultra Soft weighs 1154g](/assets/schwalberadial/27A0C2A1-5374-44F7-8DBC-22DE298AB7E7.heic)
