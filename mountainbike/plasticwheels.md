@@ -89,3 +89,8 @@ This might not be a very glowing write-up and yet I bet that many would really e
 They are well built, comparably light and very enjoyable on tamer terrain. I’ve had absolutely zero durability issues with them and love that they come with J-Bend spokes and a 6-bolt rotor mount. They seem to be bombproof and I was never able to hear any pinging on the first rides.
 
 Now I’m left wondering: Can another carbon wheelset deliver the best of both worlds - lightweight efficiency and a comfortable, damped ride on chunky descents? Or can I safely return to my aluminium rims and keep my old-man-yelling at plastic attitude?
+
+## About the author
+
+I'm lucky to live in a small town at the foot of the Jura mountain range in Switzerland with lots of old hiking trails and some hand-built trails right at my doorstep. I try my best at following my passions: being a dad, working as a software developer half of the week, showing friends our beautiful mountains as a mountain bike guide in summer and coaching aspiring ski instructors in the winter. I love all aspects of cycling, but my heart will sparkle most on multi-day adventures discovering unknown alpine terrain and trails.
+![Mountainbiking in the alps](/assets/Author-min.jpeg)
