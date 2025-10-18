@@ -3,7 +3,7 @@
 ![Schwalbe Magic Mary Radial and Albert Radial](/assets/schwalberadial/777A9312-48B7-4BC6-B37A-4798BA93383A_1_201_a.heic)
 Words/Still Photos: **Nicolas Brunner** / Action Photos: **Nicolas Brunner (self-shot)**
 
-Ever since I got a kid, I start to grow an aversion against anything plastic. See, every time we go to the toy library ("Ludothek" is the very nice german word for it) he is magically drawn to those shiny plastic toys and ignores the "beautiful" wooden toys I would like him to choose. Now, this is fine and I don't try to influence him. Still, the old man inside me grumbles at the toy industry, because those plastic toys will eventually break and end up as food for our maritime friends. And yes, of course LEGO is an exception.
+Ever since I got a kid, I started to grow an aversion against anything plastic. See, every time we go to the toy library ("Ludothek" is the very nice german word for it) he is magically drawn to those shiny plastic toys and ignores the "beautiful" wooden toys I would like him to choose. Now, this is fine and I don't try to influence him. Still, the old man inside me grumbles at the toy industry. Those plastic toys will eventually break and end up as food for our maritime friends. And yes, of course LEGO is an exception.
 
 Speaking of the toy industry, this raises a dilemna I face for the adult toys we all love so much.
 
@@ -26,7 +26,7 @@ You can probably guess where this is heading by now. I finally decided to throw 
 
 ## When the dopamine rush takes over
 
-Now, I also like to visit adult toy libraries. And no, I'm not speaking of the other kind of adult toy - the kind of toy we like to bring to our woods. And since sometimes I can't resist the dopamine rush when they make you think you nailed a fantastic deal, I bought a pair of Roval Traverse SL II 29 wheels. What really sold me wasn’t the rims themselves, but the DT Swiss 240 EXP Classic hubs they came with—my go-to choice when building custom wheels. My logic? If I didn’t like the ride or managed to break the rims, I’d still have hubs I could reuse.
+Now, I also like to visit adult toy libraries. And no, I'm not speaking of the other kind of adult toy - I'm speaking about the kind of toy we like to bring to our woods. And since sometimes I can't resist the dopamine rush when they make you think you nailed a fantastic deal, I bought a pair of Roval Traverse SL II 29 wheels. What really sold me wasn’t the rims themselves, but the DT Swiss 240 EXP Classic hubs they came with—my go-to choice when building custom wheels. My logic? If I didn’t like the ride or managed to break the rims, I’d still have hubs I could reuse.
 
 Roval Traverse SL II 29 in a nutshell:
 
