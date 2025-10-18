@@ -1,7 +1,7 @@
 # Evil plastic for the win?
 
-![Schwalbe Magic Mary Radial and Albert Radial](/assets/schwalberadial/777A9312-48B7-4BC6-B37A-4798BA93383A_1_201_a.heic)
-Words/Still Photos: **Nicolas Brunner** / Action Photos: **Nicolas Brunner (self-shot)**
+![Roval Traverse SL II 29](/assets/Rim-min.jpeg)
+Words & Photos: **Nicolas Brunner (photos are self-shot)**
 
 Ever since I got a kid, I started to grow an aversion against anything plastic. See, every time we go to the toy library ("Ludothek" is the very nice german word for it) he is magically drawn to those shiny plastic toys and ignores the "beautiful" wooden toys I would like him to choose. Now, this is fine and I don't try to influence him. Still, the old man inside me grumbles at the toy industry. Those plastic toys will eventually break and end up as food for our maritime friends. And yes, of course LEGO is an exception.
 
@@ -37,9 +37,16 @@ Roval Traverse SL II 29 in a nutshell:
 * Proprietary tubeless valve (more on that in a minute)
 * Measured weight: 774g front, 887g rear (1661g total)
 
+![DT Swiss 240 EXP Classic hubs](/assets/Hub-min.jpeg)
+![Packaging content](/assets/Accessories-min.jpeg)
+![Front wheel weight](/assets/WeightFront-min.jpeg)
+![Back wheel weight](/assets/WeightBack-min.jpeg)
+
 When the wheels were delivered to my door, I was pleasantly surprised: Replacement spokes and nipples were included. I tend to bend one or two spokes a year when sticks find their way into my wheels, so it is nice to have spares ready. The wheels also came with a quality control sheet where the spoke tensions and the worker id were specified (apparently numbers > names in the corporate world). Being the nerd I am, I didn’t immediately mount tires and ride off into the sunset. Instead, I threw the wheels in my truing stand for inspection. Now, I’m not a wheel building expert - I simply enjoy building my own wheels - but as far as I can tell, build quality was solid - spoke tension was consistent and the wheels ran true. Oh, and the wheelset shaves 200g of weight where it matters most compared to my aluminium wheels with the same number of spokes. I am also a big fan of the very minimalistic branding - I prefer not to be a moving advertisement.
 
 When I finally tried to mount some tires and go for a ride, I quickly started yelling inappropriate words. There was no way I could get the tire to seal properly. Usually this is a no-brainer with my tubeless pump (Topeak JoeBlow Booster). I simply remove the valve core, pump up the container of my pump, add a little bit of soapy water to the sidewalls of the tire if I feel funny and let the air boost seat the tire. With the Roval Traverse SL wheels, I failed miserably. The issue was not the rim-tire interface but the damn valve.
+
+![Proprietary tubeless valve](/assets/Valve-min.jpeg)
 
 Specialized designed a proprietary valve for their carbon wheels. Instead of a locknut, the valve threads directly into the rim. It’s a clever way to save a few grams, and you can still run a traditional tubeless valve if you want. However the presta valve body is tapered towards the top. But specialized’s valve body tapers at the top, and that meant neither my pump nor a friend’s Bontrager tubeless pump could form an airtight seal with the valve core removed This is a real design flaw in my opinion - and one that could easily be fixed in a future version. An air compressor with a Schrader pump head (firmly held down) finally did the trick.
 
@@ -49,15 +56,22 @@ Obviously we were off to a bad start. But I’d happily forgive them, if they wo
 
 My first ride was one of my favorite summer loops. On the climbs, the difference was immediate: Acceleration felt snappier and more energetic. A promising start!
 
+![Climbing on the Roval wheelset](/assets/Climbing-min.jpeg)
+
 But then came the first descent - a chunky rock garden with some tight turns. I guess what many of our friends west of the atlantic ocean would call “weird euro chunk”. This is a trail where short travel high-pivot bikes like the Forbidden Druid really shine and a real test for the compliance of the rims. However this day, it did not feel great at all. Fatigue set in faster than usual, and holding a line took noticeably more effort. Thankfully, the second descent was smoother - loamy, hand-built, and with good flow. Sometimes steep, sometimes fast, sometimes slow and with the occasional drop or jump. Here, the wheels felt great again. I didn’t notice any major difference from my aluminum setup, and they tracked well through corners and felt good on the jumps.
 
 A few rides later, my initial impressions still held up. They feel fantastic when climbing - especially on fireroad climbs or on paved access roads. I don't know if I'm faster on them, but it feels as if a little bit less effort is needed to spin those wheels up the mountain. They also shine on techy climbs where quick bursts of acceleration are key. Traction when climbing is perfectly fine - I am unable to feel a difference to my aluminium rims. 
 
 The same applies to mellower faster trails I do not really notice any difference to my aluminium wheels and they feel perfectly fine. But when the trail gets rowdier and you really have to focus to hold your line and sometimes simply plow through stuff, they feel harsh. My derailleur even seems to bounce around more, leading to increased chainslap and noise.
 
+![Descending on the Roval wheelset](/assets/Descending2-min.jpeg)
+![Descending on the Roval wheelset](/assets/Descending1-min.jpeg)
+
 Sometimes differences can be very nuanced and it’s hard to tell if your brain is playing you tricks with placebo. This wasn’t one of those times. The contrast was very pronounced. On climbs: big win. On rowdy descents: not so much. Back-to-back testing confirmed it: My aluminum rims feel significantly more muted and comfortable. For those who have had the chance to ride the new Schwalbe Radial tires: The difference feels very similar.
 
 I’m totally fine with this for quick lunch rides, where efficiency matters more than comfort. But for multi-day alpine epics with long descents? No way. I feel more confident dropping into a gnarly line with my good old aluminium rims. And even though they require a bit more effort to climb to the top, they will allow me to recover better on the downs.
+
+![Climbing on the Roval wheelset](/assets/BackToBackTesting-min.jpeg)
 
 ## It all depends on the perspective
 
@@ -66,6 +80,3 @@ This might not be a very glowing write-up and yet I bet that many would really e
 They are well built, comparably light and very enjoyable on tamer terrain. I’ve had absolutely zero durability issues with them and love that they come with J-Bend spokes and a 6-bolt rotor mount. They seem to be bombproof and I was never able to hear any pinging on the first rides.
 
 Now I’m left wondering: Can another carbon wheelset deliver the best of both worlds - lightweight efficiency and a comfortable, damped ride on chunky descents? Or can I safely return to my aluminium rims and keep my old-man-yelling at plastic attitude?
-
-## Additional photos
-![](/assets/schwalberadial/4F7B8090-A5B1-4B2D-B1B9-E35219D6337A_1_201_a.jpeg)
