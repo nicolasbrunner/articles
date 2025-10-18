@@ -26,7 +26,7 @@ You can probably guess where this is heading by now. I finally decided to throw 
 
 ## When the dopamine rush takes over
 
-Now, I also like to visit adult toy libraries. And no, I'm not speaking of the other kind of adult toy - I'm speaking about the kind of toy we like to bring to our woods. And since sometimes I can't resist the dopamine rush when they make you think you nailed a fantastic deal, I bought a pair of Roval Traverse SL II 29 wheels. What really sold me wasn’t the rims themselves, but the DT Swiss 240 EXP Classic hubs they came with—my go-to choice when building custom wheels. My logic? If I didn’t like the ride or managed to break the rims, I’d still have hubs I could reuse.
+Now, I also like to visit adult toy libraries. And no, I'm not speaking of the other kind of adult toy - I'm speaking about the kind of toy we love to bring to the woods. And since sometimes I can't resist the dopamine rush when they make you think you nailed a fantastic deal, I bought a pair of Roval Traverse SL II 29 wheels. What really sold me wasn’t the rims themselves, but the DT Swiss 240 EXP Classic hubs they came with—my go-to choice when building custom wheels. My logic? If I didn’t like the ride or managed to break the rims, I’d still have hubs I could reuse.
 
 Roval Traverse SL II 29 in a nutshell:
 
@@ -53,7 +53,7 @@ When I finally tried to mount some tires and go for a ride, I quickly started ye
 ![Proprietary tubeless valve](/assets/Valve-min.jpeg)
 *This proprietary valve caused me a lot of troubles.*
 
-Specialized designed a proprietary valve for their carbon wheels. Instead of a locknut, the valve threads directly into the rim. It’s a clever way to save a few grams, and you can still run a traditional tubeless valve if you want. However the presta valve body is tapered towards the top. But specialized’s valve body tapers at the top, and that meant neither my pump nor a friend’s Bontrager tubeless pump could form an airtight seal with the valve core removed This is a real design flaw in my opinion - and one that could easily be fixed in a future version. An air compressor with a Schrader pump head (firmly held down) finally did the trick.
+Specialized designed a proprietary valve for their carbon wheels. Instead of a locknut, the valve threads directly into the rim. It’s a clever way to save a few grams, and you can still run a traditional tubeless valve if you want. However, the presta valve body is tapered towards the top and that meant neither my pump nor a friend’s Bontrager tubeless pump could form an airtight seal with the valve core removed This is a real design flaw in my opinion - and one that could easily be fixed in a future version. An air compressor with a Schrader pump head (firmly held down) finally did the trick.
 
 ## Fantastic plastic?
 
@@ -68,7 +68,7 @@ But then came the first descent - a chunky rock garden with some tight turns. I 
 
 A few rides later, my initial impressions still held up. They feel fantastic when climbing - especially on fireroad climbs or on paved access roads. I don't know if I'm faster on them, but it feels as if a little bit less effort is needed to spin those wheels up the mountain. They also shine on techy climbs where quick bursts of acceleration are key. Traction when climbing is perfectly fine - I am unable to feel a difference to my aluminium rims. 
 
-The same applies to mellower faster trails I do not really notice any difference to my aluminium wheels and they feel perfectly fine. But when the trail gets rowdier and you really have to focus to hold your line and sometimes simply plow through stuff, they feel harsh. My derailleur even seems to bounce around more, leading to increased chainslap and noise.
+The same applies to mellower faster trails, where I do not really notice any difference to my aluminium wheels and they feel perfectly fine. But when the trail gets rowdier and you really have to focus to hold your line and sometimes simply plow through stuff, they feel harsh. My derailleur even seems to bounce around more, leading to increased chainslap and noise.
 
 ![Descending on the Roval wheelset](/assets/Descending2-min.jpeg)
 *Enjoying the Roval wheels on a smoother trail...*
