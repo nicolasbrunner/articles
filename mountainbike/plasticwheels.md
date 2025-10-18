@@ -1,4 +1,4 @@
-# Evil plastic for the win?
+# Thoughts from a carbon wheel virgin
 
 ![Roval Traverse SL II 29](/assets/Rim-min.jpeg)
 Words & Photos: **Nicolas Brunner (photos are self-shot)**
