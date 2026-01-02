@@ -4,7 +4,7 @@
 ![Roval Traverse SL II 29](/assets/Rim-min.jpeg)
 Words & Photos: **Nicolas Brunner (photos are self-shot)**
 
-Nobody wants to be the “old-man-yelling-at-[insert-whatever-you-want]”. Yet, here I am about to yell my frustration at the paths modern drivetrain manufacturers have decided to take. As an excuse for my yelling, I’ll also try to be constructive and contribute my thoughts on where I’d take a different path back in history to modify the future. And no, it’s not all about electronic shifty bits, those are only part of the equation. This is about making bikes cheaper, lighter and more robust at the same time. Sounds impossible? Well, hang on!
+Nobody wants to be the old-man-yelling-at-the-bike-industry. Yet, here I am, about to describe my frustration with the paths modern drivetrain manufacturers have decided to take. As an excuse for my yelling, I’ll also try to be constructive and contribute my thoughts on where I’d take a different path back in history to modify the future. And no, it’s not all about electronic shifty bits, those are only part of the equation. This is about making bikes cheaper, lighter and more robust at the same time. Sounds impossible? Well, hang on!
 
 To give a bit of context, I seriously started mountainbiking around 2010. At that point in time, I was a student and bought a used Lapierre Spicy with a 3x Shimano drivetrain. I didn’t really care about the drivetrain, I mean it simply kind of worked. But boy oh boy have we come far since.
 
@@ -14,9 +14,9 @@ When Sram released their first 1x11 drivetrains, I was immediatly hooked. It mad
 
 The introduction of Sram Eagle was a bit of a love-hate affair for me. As someone who didn’t want the additional range, I disliked the additional weight and the looks added by the 50-tooth dinner plate. Also, and I think more importantly, setup was a lot more finicky. You also lost some ground-clearance with the derailleur gaining in size. The real game changer however, was the narrow-wide front chainring. From now on, chain drops became a once or twice a year situation even without a chain guide. I’m sure this is more of a testament to my timid riding style and there are still people in need of a chain guide - but for me they became obsolete with Sram Eagle. 
 
-I also hear you telling me that not needing the additional range is an elitist statement. And while I see your point, I don’t necessarily agree. I think that many people would be served just as well by a 400% range and going for a smaller chain ring in front.
+I also hear you telling me that not needing the additional range is an elitist statement. And while I see your point, I don’t necessarily agree. Many people would be served just as well by a 400% range and going for a smaller chain ring in front.
 
-Then Shimano reclaimed the range crown and obviously Sram wanted to respond and simply increased their dinner plate from 50 to 52 teeth. Having owned a 52 teeth cassette from Sram for a brief period of time I think this was really a bad move. Not because of 52 teeth per se, but the jump from the 42 to the 52 tooth ring is simply too big. I never “felt” right when shifting down and I was always super-cautious to just feather the pedals when shifting.
+Then Shimano reclaimed the range crown and obviously Sram wanted to respond and simply increased their dinner plate from 50 to 52 teeth. Having owned a 52 teeth cassette from Sram for a brief period of time this was really a bad move in my humble opinion. Not because of 52 teeth per se, but the jump from the 42 to the 52 tooth ring is simply too big. It never “felt” right when shifting down and I was always super-cautious to just feather the pedals when shifting.
 
 At more or less the same time, Sram blew many minds with the launch of their first electronic drivetrain system called AXS. As a software engineer and technology interested person, I had to own one as soon as it came out. I went for the X01 version and it served a happy life on a Kona Process 153 for three years, until an unknown thief decided that it needed a new owner. It never missed a shift and worked great, with ample battery life and a comparably easy setup. I also liked the looks of ditching a cable (well two, if you also factor in wireless dropper posts). I never, never had an issue with it.
 
@@ -28,7 +28,7 @@ This is a principle that is very dear to me. I spend a lot of time coaching youn
 
 [Photograph of Sentinel]
 
-So when Sram released their next generation of electronic drivetrains called Transmission, I was curious but not really interested. After having ridden it on multiple test bikes, I must even say, that I prefer the previous non-Transmission version due to its faster shifting. It probably makes a lot of sense for e-bikes where there is more load involved while shifting, but personally I was very unimpressed.
+So when Sram released their next generation of electronic drivetrains called Transmission, I was curious but not really interested. After having ridden it on multiple test bikes, I prefer the previous non-Transmission version due to its faster shifting. Transmission probably makes a lot of sense for e-bikes where there is more load involved while shifting, but personally I was very unimpressed.
 
 Yet, it becomes increasingly difficult to find a complete bike without electronic shifting. Especially if you want decent brakes and suspension. And since Shimano has now also joined the electronic fanboy camp it has become nearly impossible.
 
@@ -43,17 +43,17 @@ With all that said, I decided to reconsider, what I really look for in a drivetr
 * Around 400% range
 * Not crazy expensive (I’ll happily buy more expensive cassettes and chains if they are more durable)
 
-If weight was no concern, I’d happily buy a Shimano LinkGlide drivetrain. My wife has a cheap Cues version of it on her commuter e-bike and it’s great.
+If weight was no concern, I’d happily buy a Shimano LinkGlide drivetrain. My partner has a cheap Cues version of it on her commuter e-bike and it’s great.
 
-But since I care about the weight of my drivetrain, my current drivetrain of choice is a min-max between different manufacturers and time periods. The heart of the drivetrain is a Sram 11-speed X01/XX1 cassette propelled by a Sram Eagle X01/XX1 chain (simply because they are easier to find) matched with a narrow-wide Eagle chainring. The 11-speed cassette provides ample range for my taste while keeping the weight down. The narrow-wide Eagle chainring on the other hand helps with chain retention. Responsible for shifting is a Shimano XT 11-speed short-cage derailleur matched with a XT 11-speed Shifter. Cog spacing is identical between Shimano and Sram 11-speed cassettes (before LinkGlide), so this works great.
+But since I do care about the weight of my drivetrain, I went with a min-max setup including different manufacturers and time periods. The heart of the drivetrain is a Sram 11-speed X01 cassette propelled by a Sram Eagle XX1 chain and matched with a narrow-wide Eagle chainring. The 11-speed cassette provides ample range for my taste while keeping the weight down. The narrow-wide Eagle chainring on the other hand helps with chain retention. Responsible for shifting is a Shimano XT 11-speed short-cage derailleur matched with a XT 11-speed Shifter. Cog spacing is identical between Shimano and Sram 11-speed cassettes (before LinkGlide), so this works great.
 
 [Photos of 11-speed setup, shifter hack for i-Spec]
 
-What I like best about this, is how easy 11-speed is to setup compared to 12-speed. It’s a lot less finicky. It’s also less likely to get hit by a rock because of it’s smaller derailleur shape.
+What I like best about this, is how easy 11-speed is to setup compared to 12-speed. It’s a lot less finicky and less likely to get hit by a rock because of it’s smaller derailleur shape.
 
-Now, do I really notice the 100g weight difference between the 11-speed and 12-speed X01/XX1 cassette? I doubt it. But the 11-speed cassette looks better and can be found cheaper.
+Now, do I really notice the 100g weight difference between the 11-speed and 12-speed X01/XX1 cassette? I doubt it. But the 11-speed one can be found cheaper and looks better once installed. Finally, my rear disk brake is bigger again.
 
-What else can I say on the riding experience? I mean it just works. It shifts well and fast, even though the Shimano Shifter has a bit too much travel for my liking. It’s also very silent, more so than a full Eagle setup (shorter cage derailleur). I think I also notice less pedal kickback, though that could very well be placebo playing its tricks.
+What else can I say on the riding experience? I mean it just works. Shifting is crisp and fast. It's also pleasantly silent, more so than a full Eagle setup. I asssume this is due to the shorter cage of the derailleur. Pedal kickback is also less noticeable, though that could very well be placebo playing its tricks. In the last half a year of riding it in winter conditions, it has seen zero maintenance. The chain and cassette are still mint and show almost no wear. I will say though, that I clean my chain after every ride with a cloth and re-lube it. The only small nitpick is the long shifter lever. I'd prefer it to be shorter, necessitating less thumb movement to shift down.
 
 [Photo of riding]
 
@@ -61,7 +61,7 @@ For a short period of time, I have even used the above 11-speed drivetrain with 
 
 [Photo of 11-speed with AXS]
 
-Sure, what Madrone, Vivo and others are doing seems great. It’s just really hard to swallow the price tag, when you can find an XT derailleur for the price of an iPhone charger.
+Sure, you can also go with Madrone, Vivo or others. What they are doing seems great. It’s just really hard to swallow the price tag, when you can find an XT derailleur for the price of an iPhone charger.
 
 Speaking of chargers, there’s obviously no battery to charge. Even though I never really cared about that part on my AXS drivetrains, it’s still a benefit, especially on week-long trips.
 
