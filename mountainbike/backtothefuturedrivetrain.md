@@ -5,7 +5,7 @@ Words & Photos: **Nicolas Brunner (photos are self-shot)**
 
 Nobody wants to be the old-man-yelling-at-the-bike-industry. Yet, here I am, about to describe my frustration with the paths modern drivetrain manufacturers have decided to take. As an excuse for my yelling, I’ll also try to be constructive and contribute my thoughts on where I’d take a different path back in history to modify the future. And no, it’s not all about electronic shifty bits, those are only part of the equation. This is about making bikes cheaper, lighter and more robust at the same time. Sounds impossible? Well, hang on!
 
-![Enjoying the ride](/assets/drivetrain/DSC020012.jpeg)
+![Enjoying the ride](/assets/drivetrain/DSC02012.jpeg)
 
 To give a bit of context, I seriously started mountainbiking around 2010. At that point in time, I was a student and bought a used Lapierre Spicy with a 3x Shimano drivetrain. I didn’t really care about the drivetrain, I mean it simply kind of worked. But boy oh boy have we come far since.
 
@@ -25,7 +25,7 @@ Then Shimano reclaimed the range crown and obviously Sram wanted to respond and 
 At more or less the same time, Sram blew many minds with the launch of their first electronic drivetrain system called AXS. As a software engineer and technology interested person, I had to own one as soon as it came out. I went for the X01 version and it served a happy life on a Kona Process 153 for three years, until an unknown thief decided that it needed a new owner. It never missed a shift and worked great, with ample battery life and a comparably easy setup. I also liked the looks of ditching a cable (well two, if you also factor in wireless dropper posts). I never, never had an issue with it.
 
 ![Kona Process 153](/assets/drivetrain/IMG_1917.HEIC)
-*Sram Eagle AXS on my Kona Process 153 - still working flawlessly after 3 years of abuse.*
+*Sram Eagle AXS on my Kona Process 153 - still working flawlessly after 3 years of abuse in 2022.*
 
 Yet, I went back to cable actuated drivetrains for my next build. Not because I disliked Eagle AXS, but because I didn’t see the point of adding complexity and cost to a perfectly fine system. 
 
