@@ -1,7 +1,7 @@
 # Back to the future - drivetrain version
 
 [Photograph of 11-speed drivetrain]
-![Roval Traverse SL II 29](/assets/Rim-min.jpeg)
+![10-year old Shimano/Sram 11-speed drivetrain](/assets/drivetrain/DSC02346.jpeg)
 Words & Photos: **Nicolas Brunner (photos are self-shot)**
 
 Nobody wants to be the old-man-yelling-at-the-bike-industry. Yet, here I am, about to describe my frustration with the paths modern drivetrain manufacturers have decided to take. As an excuse for my yelling, I’ll also try to be constructive and contribute my thoughts on where I’d take a different path back in history to modify the future. And no, it’s not all about electronic shifty bits, those are only part of the equation. This is about making bikes cheaper, lighter and more robust at the same time. Sounds impossible? Well, hang on!
