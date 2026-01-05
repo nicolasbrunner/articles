@@ -9,6 +9,8 @@ While I personally don't own a time-traveling machine, my mind is full of ideas 
 
 ![Enjoying the ride](/assets/drivetrain/DSC02012.jpeg)
 
+## A little bit of modern drivetrain history
+
 To give a bit of context, I seriously started mountainbiking around 2010. At that point in time, I was a student and bought a used Lapierre Spicy with a 3x Shimano drivetrain. I didn’t really care about the drivetrain, I mean it simply kind of worked. But boy oh boy have we come far since.
 
 When Sram released their first 1x11 drivetrains, I was immediatly hooked. It made so much sense to the little engineer inside me: Reduce complexity and weight (byebye front derailleur). As a bonus, it also really improved the looks of the bike. At that point in time, I had an arrangement with the small Swiss bike manufacturer Transalpes and was quickly able to swing my leg over a test rig. I absolutely loved that drivetrain. It was reliable (I never had to adjust anything - not even cable tension), had ample range for me and was durable as fuck. The only small downside it had, was that I regularly dropped my chain. Coming from a 3x system, it was still an improvement. Over time, I owned different versions of Sram 1x drivetrains from X1 to XX1 and was very happy with all of them. So happy, that I never was really interested in the Japanese counterpart from Shimano. I rode it on various friends bikes and also liked it, but seeing how fast friends went through their chains and cassettes, I was never tempted. Yes, those higher-end Sram cassettes are eye-watering expensive, but they just never seem to wear out.
@@ -28,6 +30,8 @@ At more or less the same time, Sram blew many minds with the launch of their fir
 
 ![Kona Process 153](/assets/drivetrain/IMG_1917.HEIC)
 *Sram Eagle AXS on my Kona Process 153 - still working flawlessly after 3 years of abuse in 2022.*
+
+## Min-maxing the past and the present
 
 Yet, I went back to cable actuated drivetrains for my next build. Not because I disliked Eagle AXS, but because I didn’t see the point of adding complexity and cost to a perfectly fine system. 
 
@@ -85,6 +89,8 @@ For a short period of time, I have even used the above 11-speed drivetrain with 
 Sure, you can also go with Madrone, Vivo or others. What they are doing seems great. It’s just really hard to swallow the price tag, when you can find an XT derailleur for the price of an iPhone charger.
 
 Speaking of chargers, there’s obviously no battery to charge. Even though I never really cared about that part on my AXS drivetrains, it’s still a benefit, especially on week-long trips.
+
+## Back to the future
 
 So, next time you shop for a drivetrain, I propose you to ask yourself the following questions:
 * Can I upgrade other things first (wheels, tires, suspension, brakes, …)?
