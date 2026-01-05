@@ -2,7 +2,10 @@
 This repo contains articles written by me on various subjects of personal interest.
 
 ## Mountainbike
-* [28 vs 32 spokes](mountainbike/28vs32spokes.md)
+* [Nerding out on spoke count](mountainbike/28vs32spokes.md) - published on [NSMB](https://nsmb.com/articles/nerding-out-on-spoke-count/)
+* [Get a Grip - Schwalbe Radial tires reviewed](mountainbike/getagrip.md) - published on [NSMB](https://nsmb.com/articles/get-a-grip/)
+* [Thoughts from a carbon wheel virgin](mountainbike/plasticwheels.md)
+* [Back to the future - drivetrain version](mountainbike/backtothefuturedrivetrain.md)
 
 ## Technology
 * [Apple Security Bounty: A personal experience](https://medium.com/macoclock/apple-security-bounty-a-personal-experience-fe9a57a81943)
