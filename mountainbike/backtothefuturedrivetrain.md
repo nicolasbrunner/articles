@@ -3,7 +3,9 @@
 ![10-year old Shimano/Sram 11-speed drivetrain](/assets/drivetrain/DSC01174.jpeg)
 Words & Photos: **Nicolas Brunner (photos are self-shot)**
 
-Nobody wants to be the old-man-yelling-at-the-bike-industry. Yet, here I am, about to describe my frustration with the paths modern drivetrain manufacturers have decided to take. As an excuse for my yelling, I’ll also try to be constructive and contribute my thoughts on where I’d take a different path back in history to modify the future. And no, it’s not all about electronic shifty bits, those are only part of the equation. This is about making bikes cheaper, lighter and more robust at the same time. Sounds impossible? Well, hang on!
+In *Back to the Future*, Fox, a teenager accidentally sent to 1955 in a time-traveling car, disrupts his parents’ first meeting — threatening his own existence — and must bring them back together while finding a way to return to the future.
+
+While I personally don't own a time-traveling machine, my mind is full of ideas on how to improve the present by changing history. But heck, this is a mountainbike nerd site, so I'll stick to the design decisions modern drivetrain manufacturers have decided to take in the last 10 years. And while I'm sure that there are more relevant topics for mankind, I still think that the present could be improved a lot. This might sometimes sound like an old-man-yelling-at-the-bike-industry piece, so I’ll also try to be constructive and contribute my thoughts on where I’d love drivetrain manufacturers to have taken a different path. And no, it’s not all about electronic shifty bits, those are only part of the equation. This is about making bikes cheaper, lighter and more robust at the same time. Sounds impossible? Well, hang on!
 
 ![Enjoying the ride](/assets/drivetrain/DSC02012.jpeg)
 
@@ -92,7 +94,9 @@ So, next time you shop for a drivetrain, I propose you to ask yourself the follo
 
 I’m convinced, that the majority of us doesn’t really need an electronic drivetrain. It doesn’t even make our lives easier. So why bother with the additional complexity?
 
-And if you happen to work for a drivetrain manufacturer and have made it this far in my old-man-yelling-at-modern-drivetrains word diarrhoea: I understand that you probably earn more with fancy electronic shifting. I’m also sure you have done your market research and know, that this is what your customers want. Just note, that there are still some dinosaurs around who like a simple and robust drivetrain that doesn’t weigh a ton. At least I’m aware of one of those dinosaurs.
+Many of us could also downsize in cassette range and benefit from reduced weight, improved ground clearance and a quieter riding experience.
+
+If by any chance you happen to work for a drivetrain manufacturer and have made it this far in my old-man-yelling word diarrhea: I understand that you probably earn more with fancy electronic shifting. I’m also sure you have done your market research and know, that this is what your customers want. Just note, that there are still some dinosaurs around who like a simple and robust drivetrain that doesn’t weigh a ton. At least I’m aware of one of those dinosaurs. Now, let's get back to the future.
 
 ## About the author
 
