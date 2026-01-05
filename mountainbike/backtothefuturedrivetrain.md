@@ -94,13 +94,13 @@ Speaking of chargers, there’s obviously no battery to charge. Even though I ne
 
 So, next time you shop for a drivetrain, I propose you to ask yourself the following questions:
 * Can I upgrade other things first (wheels, tires, suspension, brakes, …)?
-* What range do you really need? Are you really using your entire cassette? Could a smaller front ring also be a solution?
-* Do you really want to spend a lot of money on a drivetrain?
-* Is weight a concern for you?
+* What range do I really need? Am I really using the entire cassette? Could a smaller front ring also be a solution?
+* Do I really want to spend a lot of money on a drivetrain?
+* Is weight a concern for me?
 
 I’m convinced, that the majority of us doesn’t really need an electronic drivetrain. It doesn’t even make our lives easier. So why bother with the additional complexity?
 
-Many of us could also downsize in cassette range and benefit from reduced weight, improved ground clearance and a quieter riding experience.
+Most riders could also downsize in cassette range and benefit from reduced weight, improved ground clearance and a quieter riding experience.
 
 If by any chance you happen to work for a drivetrain manufacturer and have made it this far in my old-man-yelling word diarrhea: I understand that you probably earn more with fancy electronic shifting. I’m also sure you have done your market research and know, that this is what your customers want. Just note, that there are still some dinosaurs around who like a simple and robust drivetrain that doesn’t weigh a ton. At least I’m aware of one of those dinosaurs. Now, let's get back to the future.
 
