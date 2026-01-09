@@ -55,7 +55,7 @@ With all that said, I decided to reconsider, what I really look for in a drivetr
 ![11-speed vs 12-speed SRAM cassette](/assets/drivetrain/DSC06714.jpeg)
 *Sram 11-speed 10-42 cassette looks tiny next to a Sram Eagle 10-50 cassette.*
 ![11-speed vs 12-speed SRAM cassette](/assets/drivetrain/DSC06712.jpeg)
-*Slighly larger cog spacing on the 11-speed cassette vs Eagle cassette (hang on for my experience with a 12-speed derailleur on the 11-speed cassette.*
+*Slighly larger cog spacing on the 11-speed cassette vs Eagle cassette (hang on if you're curious on how a 12-speed derailleur works o the 11-speed cassette).*
 
 If weight was no concern, I’d happily buy a Shimano LinkGlide drivetrain. My partner has a cheap Cues version of it on her commuter e-bike and it’s great.
 
