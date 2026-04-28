@@ -76,7 +76,7 @@ The same applies to mellower faster trails, where I do not really notice any dif
 ![Descending on the Roval wheelset](/assets/Descending1-min.jpeg)
 *... but not so much when the trail becomes chunkier*
 
-Sometimes differences can be very nuanced and it’s hard to tell if your brain is playing you tricks with placebo. This wasn’t one of those times. The contrast was very pronounced. On climbs: big win. On rowdy descents: not so much. Back-to-back testing confirmed it: My aluminum rims feel significantly more muted and comfortable. For those who have had the chance to ride the new Schwalbe Radial tires: The difference feels very similar.
+Sometimes differences can be very nuanced and it’s hard to tell if your brain is playing you tricks with placebo. This wasn’t one of those times. The contrast was very pronounced. On climbs: big win. On rowdy descents: not so much. Back-to-back testing with identical tires confirmed it: My aluminum rims feel significantly more muted and comfortable. For those who have had the chance to ride the new Schwalbe Radial tires: The difference feels very similar.
 
 I’m totally fine with this for quick lunch rides, where efficiency matters more than comfort. But for multi-day alpine epics with long descents? No way. I feel more confident dropping into a gnarly line with my good old aluminium rims. And even though they require a bit more effort to climb to the top, they will allow me to recover better on the downs.
 
