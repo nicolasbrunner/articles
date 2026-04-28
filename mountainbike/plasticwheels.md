@@ -71,7 +71,6 @@ A few rides later, my initial impressions still held up. They feel fantastic whe
 The same applies to mellower faster trails, where I do not really notice any difference to my aluminium wheels and they feel perfectly fine. But when the trail gets rowdier and you really have to focus to hold your line and sometimes simply plow through stuff, they feel harsh. My derailleur even seems to bounce around more, leading to increased chainslap and noise.
 
 ![Descending on the Roval wheelset](/assets/Descending2-min.jpeg)
-*Enjoying the Roval wheels on a smoother trail...*
 ![Descending on the Roval wheelset](/assets/BuiltFlow.jpeg)
 *Enjoying the Roval wheels on a smoother trail...*
 ![Descending on the Roval wheelset](/assets/Descending1-min.jpeg)
