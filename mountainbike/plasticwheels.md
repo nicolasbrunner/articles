@@ -7,7 +7,7 @@ Ever since I got a kid, I started to grow an aversion against anything plastic. 
 
 Speaking of the toy industry, this raises a dilemna I face for the adult toys we all love so much.
 
-See, today’s aggressive short travel bikes are so much fun. Enduro-ish geometry paired with grippy tires makes them incredibly capable. And thanks to a more energetic suspension feel they tend to shine on a wide variety of trails - especially on tamer or slower, more technical trails where today’s Enduro bikes can feel sluggish. But there’s a catch: In my experience, they don’t actually pedal significantly better than their long-travel siblings.
+Today’s aggressive short travel bikes are so much fun. Enduro-ish geometry paired with grippy tires makes them incredibly capable. And thanks to a more energetic suspension feel they tend to shine on a wide variety of trails - especially on tamer or slower, more technical trails where today’s Enduro bikes can feel sluggish. But there’s a catch: In my experience, they don’t actually pedal significantly better than their long-travel siblings.
 
 Remember those childhood nightmares where you’re trying to run away but your shoes feel glued to the ground? Okay, it’s not that bad—but you get the idea.
 
@@ -40,7 +40,7 @@ Roval Traverse SL II 29 in a nutshell:
 ![DT Swiss 240 EXP Classic hubs](/assets/Hub-min.jpeg)
 *Reliable and lightweight DT Swiss 240 EXP Classic hubs.*
 ![Packaging content](/assets/Accessories-min.jpeg)
-*Big props for including replacement spokes and nipples.*
+*Kudos for including replacement spokes and nipples.*
 ![Front wheel weight](/assets/WeightFront-min.jpeg)
 *Front wheel weight comes in at 774g (valve and rim tape included).*
 ![Back wheel weight](/assets/WeightBack-min.jpeg)
@@ -72,12 +72,16 @@ The same applies to mellower faster trails, where I do not really notice any dif
 
 ![Descending on the Roval wheelset](/assets/Descending2-min.jpeg)
 *Enjoying the Roval wheels on a smoother trail...*
+![Descending on the Roval wheelset](/assets/BuiltFlow.jpeg)
+*Enjoying the Roval wheels on a smoother trail...*
 ![Descending on the Roval wheelset](/assets/Descending1-min.jpeg)
 *... but not so much when the trail becomes chunkier*
 
 Sometimes differences can be very nuanced and it’s hard to tell if your brain is playing you tricks with placebo. This wasn’t one of those times. The contrast was very pronounced. On climbs: big win. On rowdy descents: not so much. Back-to-back testing confirmed it: My aluminum rims feel significantly more muted and comfortable. For those who have had the chance to ride the new Schwalbe Radial tires: The difference feels very similar.
 
 I’m totally fine with this for quick lunch rides, where efficiency matters more than comfort. But for multi-day alpine epics with long descents? No way. I feel more confident dropping into a gnarly line with my good old aluminium rims. And even though they require a bit more effort to climb to the top, they will allow me to recover better on the downs.
+
+I have also tried the Roval wheels on my Transition Sentinel and on two hardtails. No big surprise: The lateral harshness is even more pronounced without rear suspension and I clearly prefered my aluminium wheels on a Yeti ARC and Kona Honzo CR.
 
 ![Climbing on the Roval wheelset](/assets/BackToBackTesting-min.jpeg)
 *Heading out for back-to-back testing.*
@@ -87,6 +91,9 @@ I’m totally fine with this for quick lunch rides, where efficiency matters mor
 This might not be a very glowing write-up and yet I bet that many would really enjoy these wheels. Heck, I’ll happily grab them for most of my local rides. If your local terrain is on the mellower side or you mostly ride smoother, machine-built trails, I'm sure you will enjoy these.
 
 They are well built, comparably light and very enjoyable on tamer terrain. I’ve had absolutely zero durability issues with them and love that they come with J-Bend spokes and a 6-bolt rotor mount. They seem to be bombproof and I was never able to hear any pinging on the first rides.
+
+![Climbing on the Roval wheelset](/assets/Meandering.jpeg)
+*Lots of fun and fast acceleration in meandering terrain.*
 
 Now I’m left wondering: Can another carbon wheelset deliver the best of both worlds - lightweight efficiency and a comfortable, damped ride on chunky descents? Or can I safely return to my aluminium rims and keep my old-man-yelling at plastic attitude?
 
