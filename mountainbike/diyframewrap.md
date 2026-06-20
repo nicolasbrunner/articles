@@ -17,11 +17,16 @@ First off, you’ll need to decide on a tape. I use two different kinds of tape:
 *The mate and glossy tape I use.*
 
 ![Glossy frame with tape applied](/assets/diyframewrap/DSC06753.jpeg)
-*Glossy tape applied to my Scor 2030 - also 2 years into it’s life.*
+*Glossy tape applied to my Scor 2030 - 2 years into it’s life.*
 ![Mate frame with tape applied](/assets/diyframewrap/IMG_6817.jpeg)
-*Mate tape applied to my Transition Sentinel - 2 years into it’s life*
+*Mate tape applied to my Transition Sentinel - also 2 years into it’s life.*
 
-Once you have settled on a tape, you’ll need to decide, where you want to apply it. I rarely do a full job. For instance the inner front triangle is very unlikely to get damaged. In my experience, the inside part of the chainstays and the backside of the seat tube are the most important locations to wrap. Most mountainbike tires seem to be specifically designed to throw rocks towards those places of your precious frame and rub the paint away. The bad news is, is that this is also a very shitty place to apply tape to, because there will most likely be some bend in the frame form. See protective tape doesn’t like bends or edges in multiple dimensions and is hard to apply properly in those instances. Due to this, there are also frames that are easier to wrap than others. In general, the carbon fibre and industrial design trends are not your friends here. Simple aluminium or steel tubes on the other hand are a lot easier.
+Once you have settled on a tape, you’ll need to decide where you want to apply it. Obviously you can make you inner perfectionist happy and go all-out. However, I'm to impatient to ride a new bike and rarely do a full job. For instance the inner front triangle is very unlikely to get damaged. In my experience, the inside of the chainstays and the backside of the seat tube are the most important locations to wrap. Mountainbike tires are designed to grip perfectly onto rocks, so they'll also enjoy throwing small versions of them towards those areas of your precious frame. On quality paint it will just rub on it, but cheaper paint will chip. 
+
+![Example of paint damage](/assets/diyframewrap/IMG_3496.jpeg)
+*Proof of Murphy’s law: Impact will always happen where you have not applied tape. Also notice the paint chipped away.*
+
+The bad news is, that chainstays are also a very shitty place to apply tape to, because there will most likely be some bend in the frame surface. Protective tape doesn’t like bends or edges in multiple dimensions and is hard to apply properly in those instances. Due to this, there are also frames that are easier to wrap than others. In general, the carbon fibre and industrial design trends are not your friends here. Simple aluminium or steel tubes on the other hand are a lot easier. But there's also a big ambiguity between carbon frames. Some feature straight lines and surfaces while others make full use of carbon fibre's folding capacity.
 
 ![Example of hard frame to wrap](/assets/diyframewrap/DSC08405.jpeg)
 *While this Kona Honzo frame might look easy to wrap, it wasn't. It features curvy lines and “fancy” carbon forming.*
@@ -29,14 +34,11 @@ Once you have settled on a tape, you’ll need to decide, where you want to appl
 ![Example of easy frame to wrap](/assets/diyframewrap/IMG_3485.jpeg)
 *This Santa Cruz Chameleon frame on the other hand was a lot easier to wrap with its straight lines and surfaces.*
 
-Other places on top of the must-wrap list are the bottom bracket area, down tube, outer chainstays and everywhere a cable can rub on the frame. I often also wrap the top tube, because I will sometimes rub my shoes on it when getting on or off the bike.
+Other places on top of the must-wrap list are the bottom bracket area, down tube, outer chainstays and everywhere a cable can rub on the frame. I often also wrap the top tube, because I will sometimes rub my shoes on it when getting on or off the bike. Call me pedantic or overly cautious, but I will even apply some tape to the fork lowers, where the brake cable runs down.
 
-![Example of paint damage](/assets/diyframewrap/IMG_3496.jpeg)
-*Proof of Murphy’s law: Impact will always happen where you have not applied tape.*
+When it comes to applying the tape, you’ll absolutely need a perfectly clean frame. Your best bet is to do it on a brand new frame that has never seen dirt. Also, working on a naked frame will be easier, but at minimum you’ll need to remove the wheels. 
 
-When it comes to applying the tape, you’ll absolutely need a perfectly clean frame. Your best bet is to apply it when your bike is brand new and has never seen dirt. Also, working on a naked frame will be easier, but at minimum you’ll need to remove the wheels. 
-
-I will then start to cut the tape into a piece suitable for the area I want to cover. Again, bending the tape in one direction will work fine. But as soon, as a second direction comes into play, it’s better to use two separate pieces of tape. I will then round the edges of the pre-cut piece of tape. After a final check, that the pre-cut piece will fit well, I’ll remove the tape from the liner and spray it with soapy water (I use a drop of baby soap with water). This is key - try to skip this step and you’ll have a bad time trying to move the tape to the perfect position and moving out air bubbles trapped underneath. You can then go on and apply the tape to the frame. In my experience this works best when applying it first to one side only (if putting it in a place with a bend), moving out air bubbles (my favorite tool for this is my thumb), pressurizing the first side for a couple of seconds (so it starts adhesing well) and only then wrapping it around the edge and repeating the same process for the other side. You can take your time, as long as you applied soapy water, you’re in no rush to apply the tape.
+I will then start to cut the tape into a piece suitable for the area I want to cover. When cutting, bear in mind, that bending the tape in one direction will work fine. But as soon as a second direction comes into play, it’s better to use two separate pieces of tape. I will then round the edges of the pre-cut piece of tape. After making sure, that the pre-cut piece will fit well, I’ll remove the tape from the liner and spray it with soapy water (I use a drop of baby soap mixed with water). This is key - skip this step and you’ll have a bad time trying to move the tape to the perfect position and moving out air bubbles trapped underneath. You can then go on and apply the tape to the frame. In my experience this works best when applying it first to one side (if putting it in a place with a bend), moving out air bubbles (my favorite tool for this is my thumb), pressurizing the first side for a couple of seconds (so it starts adhesing well) and only then wrapping it around the edge and repeating the same process for the other side. As long as you applied soapy water, you can take your time and are in no rush to apply the tape. You'll still be able to move it around for a few minutes.
 
 ![Applying the tape](/assets/diyframewrap/IMG_8826.jpeg)
 *Apply one flat surface first before wrapping it around an edge.*
@@ -47,7 +49,7 @@ Piece-by-piece you will finish the puzzle. Don’t obsess with the occasional ai
 ![Detail shot of frame with tape](/assets/diyframewrap/DSC08400.jpeg)
 ![Detail shot of frame with tape](/assets/diyframewrap/DSC08381.jpeg)
 
-And then, get out and ride the damn bike. After all we buy bikes for the riding experience. Well, at least mostly for the riding experience.
+And then, get out and ride the damn bike. After all we buy bikes for the riding experience. Well, at least mostly for the riding experience. And just a little bit to stare at them too.
 
 ![Riding the finished mountainbike](/assets/diyframewrap/DSC09982.jpeg)
 
