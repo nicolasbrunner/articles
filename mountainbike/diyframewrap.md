@@ -21,7 +21,7 @@ First off, you’ll need to decide on a tape. I use two different kinds of tape:
 ![Mate frame with tape applied](/assets/diyframewrap/IMG_6817.jpeg)
 *Mate tape applied to my Transition Sentinel - also 2 years into it’s life.*
 
-Once you have settled on a tape, you’ll need to decide where you want to apply it. Obviously you can make you inner perfectionist happy and go all-out. However, I'm too impatient to ride a new bike and rarely do a full job. For instance the inner front triangle is very unlikely to get damaged. In my experience, the inside of the chainstays and the backside of the seat tube are the most important locations to wrap. Mountainbike tires are designed to grip perfectly onto rocks, so they'll also enjoy throwing small versions of them towards those areas of your precious frame. On quality paint it will just rub on it, but cheaper paint will chip. 
+Once you have settled on a tape, you’ll need to decide where you want to apply it. Obviously you can make you inner perfectionist happy and go all-out. However, I'm too impatient to ride a new bike and rarely do a full job. For instance the inner front triangle is very unlikely to get damaged. In my experience, the inside of the chainstays and the backside of the seat tube are the most important locations to wrap. Mountainbike tires are designed to grip perfectly onto rocks, so they'll also enjoy throwing small versions of them towards those areas of your precious frame. On quality paint it will just rub, but cheaper paint will chip. 
 
 ![Example of paint damage](/assets/diyframewrap/IMG_3496.jpeg)
 *Proof of Murphy’s law: Impact will always happen where you have not applied tape. Also notice the paint chipped away.*
