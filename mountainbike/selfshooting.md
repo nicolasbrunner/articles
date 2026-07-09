@@ -94,7 +94,6 @@ Note that this system relies on you telling the camera, WHEN it should focus on 
 *Out-of-focus shot during the experiment (Sony A7C II with Sony 85mm, f1.8, 1/1250s, ISO100).*
 ![Experimental image with autofocus on target](/assets/selfshooting/DSC04571.jpeg)
 *Autofocus on target and sharp image (Sony A7C II with Sony 85mm, f1.8, 1/1250s, ISO100).*
-[example images -  also good but not on target]
 
 | Focus Mode | Focus Area | Aperture | Lens | Rider's shirt color | #sharp images (round 1) | #sharp images (round 2) | Focus on target (round 1) |Focus on target (round 2) |
 | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
