@@ -1,7 +1,7 @@
 # Re-discovering mountainbiking from a photographer's perspective
 
 ![Self-shot mountainbike riding](/assets/selfshooting/DSC00442.jpeg)
-Words & Photos: **Nicolas Brunner (photos are self-shot)**
+Words & Photos: **Nicolas Brunner** (photos are self-shot)**
 
 This is a piece about combining an existing passion (riding bikes) with a long forgotten passion (photography) and rediscovering both from a new perspective along the road. Alongside being a personal story, it might also appeal to the photography nerds over here with lots of experimenting and even some pseudo-science while trying to unlock self-assisted shooting. So without further ado, let's get the time machine running and jump back in time.
 
@@ -133,4 +133,4 @@ Right now, I’m in a very happy place. Sure, this might sound very complicated.
 ## About the author
 
 I'm lucky to live in a small town at the foot of the Jura mountain range in Switzerland with lots of old hiking trails and some hand-built trails right at my doorstep. I try my best at following my passions: being a dad, working as a software developer half of the week, showing friends our beautiful mountains as a mountain bike guide in summer and coaching aspiring ski instructors in the winter. I love all aspects of cycling, but my heart will sparkle most on multi-day adventures discovering unknown alpine terrain and trails.
-![Mountainbiking in the alps](/assets/IMG_7573.jpeg)
+![Mountainbiking in the alps](/assets/selfshooting/IMG_7573.jpeg)
