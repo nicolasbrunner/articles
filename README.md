@@ -6,6 +6,8 @@ This repo contains articles written by me on various subjects of personal intere
 * [Get a Grip - Schwalbe Radial tires reviewed](mountainbike/getagrip.md) - published on [NSMB](https://nsmb.com/articles/get-a-grip/)
 * [Thoughts from a carbon wheel virgin](mountainbike/plasticwheels.md)
 * [Back to the future - drivetrain version](mountainbike/backtothefuturedrivetrain.md)
+* [DIY Frame Wrap](mountainbike/diyframewrap.md)
+* [Re-discovering mountainbiking from a photographer's perspective](mountainbike/selfshooting.md)
 
 ## Technology
 * [Apple Security Bounty: A personal experience](https://medium.com/macoclock/apple-security-bounty-a-personal-experience-fe9a57a81943)
