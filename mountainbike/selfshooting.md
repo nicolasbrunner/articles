@@ -128,4 +128,9 @@ With this issue out of the window, the thing I struggle most with today is persp
 ![Image from local trails](/assets/selfshooting/DSC07105.jpeg)
 *Enjoying the first sunny days after a long winter (Sony A7C II with Sony 24-50mm f2.8, 50mm, f2.8, 1/1000s, ISO200).*
 
-Right now, I’m in a very happy place. Sure, this might sound very complicated. But I really enjoy the new perspectives it has brought to my daily rides. Previously I would just go out and ride for the pleasure of being outside and finding flow. Whereas now, there is also the joy of discovering my local trails through a photographers eye. And the best thing is: Thanks to the change in season throughout the year and changing weather conditions, everyday is a new day.
+Right now, I’m in a very happy place. Sure, this might sound very complicated. But I really enjoy the new perspectives it has brought to my daily rides. Previously I would just go out and ride for the pleasure of being outside and finding flow. Whereas now, there is also the joy of discovering my local trails through a photographers eye. And the best thing is: With the constant change in conditions and weather, I'm learning something new every day.
+
+## About the author
+
+I'm lucky to live in a small town at the foot of the Jura mountain range in Switzerland with lots of old hiking trails and some hand-built trails right at my doorstep. I try my best at following my passions: being a dad, working as a software developer half of the week, showing friends our beautiful mountains as a mountain bike guide in summer and coaching aspiring ski instructors in the winter. I love all aspects of cycling, but my heart will sparkle most on multi-day adventures discovering unknown alpine terrain and trails.
+![Mountainbiking in the alps](/assets/IMG_7573.jpeg)
