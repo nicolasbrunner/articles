@@ -59,7 +59,7 @@ The results on the other hand were great sometimes, sometimes less so. Depending
 I decided to reach out to Sony, describe my situation and ask for a fullframe test camera. A few weeks later, I received a parcel with a Sony A7C II body and lens with low aperture. It was October at that point and we were blessed with some foggy and wet weather. This was really perfect to test the camera and lens’s low light capabilities. The first shoot was with a good friend and not self-shooting style. I would shoot him riding and vice versa. There was a very nice damp atmosphere in the forest. Back home I was eager to load the images on my computer and analyze the results. I was completely blown away. The sharpness, image quality, auto-focus and noise-handling at high iso values of the fullframe camera was just worlds better. This might not come as a surprise to the seasoned photographers but as the new kid around the block that hasn’t played with a good camera for the last 10 years, I wasn’t expecting that much of a difference. Finally I had the feeling that the camera was not holding me back anymore. If those pictures would have been crappy, I would be the one to blame. Long story short: I was hooked and knew I needed (probably rather wanted) one.
 
 ![Sharp results with a fullframe camera](/assets/selfshooting/DSC03621.jpeg)
-*First results with a modern fullframe camera: Sharp, even under difficult light (Sony A7C II with Sony 24-50mm f2.8, 25mm, f2.8, 1/1000, ISO1000). Rider: Reto Kurmann*
+*First results with a modern fullframe camera: Sharp, even under difficult light (Sony A7C II with Sony 24-50mm f2.8, 25mm, f2.8, 1/1000s, ISO1000). Rider: Reto Kurmann*
 
 A few weeks later I had my own fullframe camera in my hands together with a tripod that could support the heavier setup. The drawback was that the equipment was significantly heavier and bulkier now and it doesn’t accompany me on all of my rides anymore. Instead, I now choose whether to  just go out and enjoy the ride or have a shooting session. And more often than not, my friends will ask me to bring the camera along on rides, which I’ll often happily do.
 
@@ -82,7 +82,11 @@ Unfortunately for the case of self-shooting this would not work so well. Let’s
 
 Note that this system relies on you telling the camera, WHEN it should focus on the most important object around. In the case of self-shooting there is no way to set this up correctly. You will do your setup, when there is not yet someone to focus on in the frame. For the sake of experimenting, I went to my local pumptrack and tried different autofocus setups. I varied between Focus Mode, Focus Area, Aperture, tried two different lenses and even changed my shirt color. I did 2 rounds for each possible combination and analyzed the sharpness of the images. Each round would consist of 3 or 4 images shot in continous shooting mode. I would then check how many of those images are sharp and if the focus really was on target.
 
-[example images - autofocus good and bad, also good but not on target]
+![Experimental image with autofocus on target](/assets/selfshooting/DSC04120.jpeg)
+*Out-of-focus shot during the experiment (Sony A7C II with Sony 85mm, f1.8, 1/1250s, ISO100).*
+![Experimental image with autofocus on target](/assets/selfshooting/DSC04571.jpeg)
+*Autofocus on target and sharp image (Sony A7C II with Sony 85mm, f1.8, 1/1250s, ISO100).*
+[example images -  also good but not on target]
 
 [TODO TABLETABLE]
 
@@ -94,6 +98,7 @@ So much for the “science” part. However, those pumptrack experiment findings
 
 With this issue out of the window, the thing I struggle most with today is perspective. Perspective is the art of framing or composing an image. And while I’m still a beginner in this field, having to rely on a tripod really limits options here. I can either put it on the ground or install it on some medium-sized branches. That’s not great and a limitation I have learned to accept. Sometimes I will find an epic shooting spot, visualize the image already in my head but simply find no way to install the camera where it needs to be. This can be frustrating because it forces me to ride on without the chance to capture what I imaged. And other times, all pieces fall into place, there’s a branch exactly where I need it and I get rewarded with an image I’m happy and proud of.
 
-[some example images]
+![Image from local trails](/assets/selfshooting/DSC07105.jpeg)
+*Enjoying the first sunny days after a long winter (Sony A7C II with Sony 24-50mm f2.8, 50mm, f2.8, 1/1000s, ISO200).
 
 Right now, I’m in a very happy place. Sure, this might sound very complicated. But I really enjoy the new perspectives it has brought to my daily rides. Previously I would just go out and ride for the pleasure of being outside and finding flow. Whereas now, there is also the joy of discovering my local trails through a photographers eye. And the best thing is: Thanks to the change in season throughout the year and changing weather conditions, everyday is a new day.
