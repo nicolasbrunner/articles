@@ -11,7 +11,10 @@ In the early 2000s, shortly before photography became mostly digital and being a
 
 So with the camera in my bag, one of my roles was taking pictures of the trip. My mother taught me how to choose and set shutter speed, aperture and how to compose an interesting image. I continued to use the camera for a few years after the trip, but somehow started loosing interest. As I grew older and started to travel the world on my own and with friends, taking pictures was certainly not our main priority. One exception was a trip with a good friend to the south of Africa, where we would spend two months exploring the vast landscapes and wildlife of the Kalahari desert with a 70-year old truck from 2nd world war. We brought two DSLR cameras with us that belonged to his father and spent many days on the rooftop of our truck, trying to get pictures of the wildlife. Apart from our daily routine of slowly following our planned route, photography gave the trip another meaning and kept us motivated to wake up early.
 
-[Image of Africa shooting]
+![Author at a young age with a camera.](/assets/selfshooting/DSC_7964.jpeg)
+*15-years younger me trying to get some wildlife photographs in the Kalahari desert. Photographer: Roger Nussbaumer.*
+![Author at a young age with a camera.](/assets/selfshooting/DSC_8193.jpeg)
+*Our slightly more than 15-years old expedition vehicle. Photographer: Roger Nussbaumer.*
 
 Then again, I lost interest in photography. I mean, I never stopped taking pictures, it was just that - like most other people - I used my mobile phone as a camera. It was more about capturing some memories, than paying attention at composing a visually pleasing result. And to be honest, I still use my mobile phone a lot today for taking everyday pictures of our family life. 
 
