@@ -19,8 +19,8 @@ However, for the case of mountainbike media, 50% of the reason I like a publicat
 
 Now, in Switzerland where I live, we certainly do not have forests like you have on the northshore, but we also have beautiful landscapes. When I started to gain interest again in photography, I simply started to shoot my friends with my mobile phone during our rides. 
 
-![Having fun with a good friend while sessioning and taking photos](/assets/selfshooting/DSC07266.jpeg)
-*Even a smartphone can produce good results with good light (iPhone 11 Pro, 26mm, f1.8, 1/4274, ISO32). Rider: Reto Kurmann.*
+![Image taken with iPhone 11 Pro](/assets/selfshooting/IMG_5047.jpeg)
+*Even an older smartphone can produce good results with good light (iPhone 11 Pro, 26mm, f1.8, 1/4274, ISO32). Rider: Reto Kurmann.*
 
 In some cases, the results where quite ok, but as soon as the lightning got worse (hah - turns out, that we spend a lot of time in dark woods), image quality was really not on point. I decided to buy a Sony RX100 camera  in the hope that it would be the best compromise between image quality, weight and packability. After all I wanted to bring it along on most of my rides, so it shouldn’t be too bulky or heavy. Or too expensive. As it would later turn out, I should have followed the “buy once, cry once” philosophy. But more on that later.
 
