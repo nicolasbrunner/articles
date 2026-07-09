@@ -7,8 +7,6 @@ This is a piece about combining an existing passion (riding bikes) with a long f
 
 In the early 2000s, shortly before photography became mostly digital and being a 12-year old at the time, I was gifted an analogue mirror reflex camera for christmas. My parents certainly had ulterior motives for this gift, because that year our family would take 6 months off and travel with our bicycles from Switzerland to the Nordkap, the furthest point to the north in Europe mainland. Today, most people would probably call this bikepacking, but for us kids it was just an adventure. We loved being outside all day, finding a good camping spot every late afternoon and spending just half an hour a day with our school books.
 
-[Picture of bikepacking family trip]
-
 So with the camera in my bag, one of my roles was taking pictures of the trip. My mother taught me how to choose and set shutter speed, aperture and how to compose an interesting image. I continued to use the camera for a few years after the trip, but somehow started loosing interest. As I grew older and started to travel the world on my own and with friends, taking pictures was certainly not our main priority. One exception was a trip with a good friend to the south of Africa, where we would spend two months exploring the vast landscapes and wildlife of the Kalahari desert with a 70-year old truck from 2nd world war. We brought two DSLR cameras with us that belonged to his father and spent many days on the rooftop of our truck, trying to get pictures of the wildlife. Apart from our daily routine of slowly following our planned route, photography gave the trip another meaning and kept us motivated to wake up early.
 
 ![Author at a young age with a camera.](/assets/selfshooting/DSC_7964.jpeg)
