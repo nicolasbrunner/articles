@@ -71,6 +71,8 @@ A few weeks later I had my own fullframe camera in my hands together with a trip
 ![Complete camera equipment setup](/assets/selfshooting/IMG_9723.jpeg)
 *Complete setup. I kept the undergunned tripod for bigger alpine rides, where I really want to keep weight down. It holds the fullframe camera ok-ish.*
 
+[image of tripods]
+
 One of the first things I noted with the fullframe sensor was that it begged for a faster memory card. One image in the Raw-L-compressed format takes up around 45MB, so even the fastest cards with write speeds of up to 250MB/s would limit the continous shooting rate. After a bit of testing at home, I settled at the middle continous shooting mode rate (around 5 images/s). This allows the camera and memory card to shoot for an extended time range (typically 10s) without having to limit the rate and at the same time have a good chance of catching exactly the action shot I want.
 
 One of the features that I find incredible with this modern fullframe camera, is the autofocus performance. When I am behind the lens and shoot someone else’s riding, I would typically set the focus area to the spot on the finder where I would start shooting and then use the continous autofocus feature to track the rider. This works incredibly well, and even with sunglasses it will almost always focus right on the eye. 
