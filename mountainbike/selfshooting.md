@@ -1,7 +1,7 @@
 # Re-discovering mountainbiking from a photographer's perspective
 
 ![Self-shot mountainbike riding](/assets/selfshooting/DSC00442.jpeg)
-Words & Photos: **Nicolas Brunner** (photos are self-shot)**
+Words & Photos: **Nicolas Brunner** (photos are self-shot, unless noted)**
 
 This is a piece about combining an existing passion (riding bikes) with a long forgotten passion (photography) and rediscovering both from a new perspective along the road. Alongside being a personal story, it might also appeal to the photography nerds over here with lots of experimenting and even some pseudo-science while trying to unlock self-assisted shooting. So without further ado, let's get the time machine running and jump back in time.
 
