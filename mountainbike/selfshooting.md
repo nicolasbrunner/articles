@@ -80,7 +80,7 @@ One of the first things I noted with the fullframe sensor was that it begged for
 
 One of the features that I find incredible with this modern fullframe camera, is the autofocus performance. When I am behind the lens and shoot someone else’s riding, I would typically set the focus area to the spot on the finder where I would start shooting and then use the continous autofocus feature to track the rider. This works incredibly well, and even with sunglasses it will almost always focus right on the eye. 
 
-![Sharp results with a fullframe camera](/assets/selfshooting/DSC03621.jpeg)
+![Sharp results with a fullframe camera](/assets/selfshooting/DSC03640.jpeg)
 *Eye detection and tracking works incredibly well, even with sunglasses (Sony A7C II with Sony 24-50mm f2.8, 24mm, f2.8, 1/1000s, ISO2000). Rider: Reto Kurmann*
 
 Unfortunately for the case of self-shooting this would not work so well. Let’s take a look at how I think autofocus systems in modern cameras work:
@@ -121,11 +121,11 @@ The combination of AF-A and Wide focus area seemed to produce the best results i
 So much for the “science” part. However, those pumptrack experiment findings did not translate very well to the reality out in the woods. Depending on the light situation and the background, autofocus might work in some situations but be completely off in others. Even after all those experiments, I was not confident in the autofocus performance. I had to change my strategy. And the solution was a very low-hanging fruit. I went back to manual focus for self-shooting. While setting everything up, I will set the focus on the chunk of trail, where I want to be in-focus. Turns out, this works better than all the AI integrated in modern cameras for this very niche use-case. Simple solution to a complicated problem. Obviously, the drawback of this is, that the focus will only be right for this very specific spot.
 
 ![Image from local trails](/assets/selfshooting/DSC00804.jpeg)
-*Manual focus for the win (Sony A7C II with Sony 85mm f1.8, 85mm, f1.8, 1/1000s, ISO250).
+*Manual focus for the win (Sony A7C II with Sony 85mm f1.8, 85mm, f1.8, 1/1000s, ISO250).*
 
 With this issue out of the window, the thing I struggle most with today is perspective. Perspective is the art of framing or composing an image. And while I’m still a beginner in this field, having to rely on a tripod really limits options here. I can either put it on the ground or install it on some medium-sized branches. That’s not great and a limitation I have learned to accept. Sometimes I will find an epic shooting spot, visualize the image already in my head but simply find no way to install the camera where it needs to be. This can be frustrating because it forces me to ride on without the chance to capture what I imaged. And other times, all pieces fall into place, there’s a branch exactly where I need it and I get rewarded with an image I’m happy and proud of.
 
 ![Image from local trails](/assets/selfshooting/DSC07105.jpeg)
-*Enjoying the first sunny days after a long winter (Sony A7C II with Sony 24-50mm f2.8, 50mm, f2.8, 1/1000s, ISO200).
+*Enjoying the first sunny days after a long winter (Sony A7C II with Sony 24-50mm f2.8, 50mm, f2.8, 1/1000s, ISO200).*
 
 Right now, I’m in a very happy place. Sure, this might sound very complicated. But I really enjoy the new perspectives it has brought to my daily rides. Previously I would just go out and ride for the pleasure of being outside and finding flow. Whereas now, there is also the joy of discovering my local trails through a photographers eye. And the best thing is: Thanks to the change in season throughout the year and changing weather conditions, everyday is a new day.
