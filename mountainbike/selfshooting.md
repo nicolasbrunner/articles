@@ -90,6 +90,21 @@ Note that this system relies on you telling the camera, WHEN it should focus on 
 [example images -  also good but not on target]
 
 [TODO TABLETABLE]
+| Focus Mode | Focus Area | Aperture | Lens | Rider's shirt color | #sharp images (round 1) | #sharp images (round 2) | Focus on target (round 1) |Focus on target (round 2) |
+| -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| AF-C  | Expand Spot | 1.8 | gray | 85mm | 0/3 | 0/3 | 0/3 | 0/3 |
+| AF-C  | Spot L | 1.8 | gray | 85mm | 0/3 | 0/3 | 0/3 | 0/3 |
+| AF-C  | Wide | 1.8 | gray | Lens | 3/3 | 1/4 | 2/3 | 0/4 |
+| AF-C  | Tracking: Spot L | 1.8 | gray | Lens | 0/3 | 1/2 | 0/3 | 1/2 |
+| AF-A  | Wide | 1.8 | gray | Lens | 0/3 | 4/4 | 0/3 | 3/4 |
+| AF-A  | Expand Spot | 1.8 | gray | Lens | 1/3 | 0/3 | 0/3 | 0/3 |
+| AF-A  | Spot L | 1.8 | gray | Lens | 0/3 | 0/3 | 0/3 | 0/3 |
+| AF-A  | Wide | 1.8 | gray | Lens | 0/3 | 2/4 | 0/3 | 0/4 |
+| AF-A  | Wide | 4.5 | gray | Lens | 4/4 | 4/4 | 2/4 | 2/4 |
+| AF-A  | Expand Spot | 4.5 | gray | Lens | 0/4 | 0/3 | 0/4 | 0/3 |
+
+
+
 
 It goes without saying, that this is very much bro-science. Yet I found the results interesting.
 
