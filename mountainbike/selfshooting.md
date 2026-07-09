@@ -1,9 +1,9 @@
-# Re-discovering a passion from a photographer's perspective
+# Re-discovering mountainbiking from a photographer's perspective
 
 ![Self-shot mountainbike riding](/assets/selfshooting/DSC00442.jpeg)
 Words & Photos: **Nicolas Brunner (photos are self-shot)**
 
-This is a piece about combining an existing passion (riding bikes) with a long forgotten passion (photography) and rediscovering both from a new perspective along the road. Alongside being a personal story, it might also appeal to the photography nerds over here with lots of experimenting and even some pseudo-science. So without further ado, let us take the time machine and jump back a little in time.
+This is a piece about combining an existing passion (riding bikes) with a long forgotten passion (photography) and rediscovering both from a new perspective along the road. Alongside being a personal story, it might also appeal to the photography nerds over here with lots of experimenting and even some pseudo-science while trying to unlock self-assisted shooting. So without further ado, let's get the time machine running and jump back in time.
 
 In the early 2000s, shortly before photography became mostly digital and being a 12-year old at the time, I was gifted an analogue mirror reflex camera for christmas. My parents certainly had ulterior motives for this gift, because that year our family would take 6 months off and travel with our bicycles from Switzerland to the Nordkap, the furthest point to the north in Europe mainland. Today, most people would probably call this bikepacking, but for us kids it was just an adventure. We loved being outside all day, finding a good camping spot every late afternoon and spending just half an hour a day with our school books.
 
@@ -17,7 +17,12 @@ Then again, I lost interest in photography. I mean, I never stopped taking pictu
 
 However, for the case of mountainbike media, 50% of the reason I like a publication or website, is the photography part. They are a key aspect of the storytelling for me as a reader and one of the main reasons I come back a lot to NSMB. Those shots from the greenroom and trails you have on your beloved north shore always draw me in. And as much as video content might be easier to consume, I much prefer well-written text accompanied with images. Images that make you pause and take them in for a few moments, instead of scrolling through without remembering. Images, where you might find another interesting detail every time you stop and stare at them.
 
-Now, in Switzerland where I live, we certainly do not have forests like you have on the northshore, but we also have beautiful landscapes. When I started to gain interest again in photography, I simply started to shoot my friends with my mobile phone during our rides. In some cases, the results where quite ok, but as soon as the lightning got worse (hah - turns out, that we spend a lot of time in dark woods), image quality was really not on point. I decided to buy a Sony RX100 camera  in the hope that it would be the best compromise between image quality, weight and packability. After all I wanted to bring it along on most of my rides, so it shouldn’t be too bulky or heavy. Or too expensive. As it would later turn out, I should have followed the “buy once, cry once” philosophy. But more on that later.
+Now, in Switzerland where I live, we certainly do not have forests like you have on the northshore, but we also have beautiful landscapes. When I started to gain interest again in photography, I simply started to shoot my friends with my mobile phone during our rides. 
+
+![Having fun with a good friend while sessioning and taking photos](/assets/selfshooting/DSC07266.jpeg)
+*Even a smartphone can produce good results with good light (iPhone 11 Pro, 26mm, f1.8, 1/4274, ISO32). Rider: Reto Kurmann.*
+
+In some cases, the results where quite ok, but as soon as the lightning got worse (hah - turns out, that we spend a lot of time in dark woods), image quality was really not on point. I decided to buy a Sony RX100 camera  in the hope that it would be the best compromise between image quality, weight and packability. After all I wanted to bring it along on most of my rides, so it shouldn’t be too bulky or heavy. Or too expensive. As it would later turn out, I should have followed the “buy once, cry once” philosophy. But more on that later.
 
 My newly lit interest in photography also brought a new perspective to my mountainbike rides. I started to look out for interesting shooting spots during rides. And we also started sessioning more. For better or worse, it really slowed down our rides.
 
@@ -71,13 +76,12 @@ A few weeks later I had my own fullframe camera in my hands together with a trip
 ![Complete camera equipment setup](/assets/selfshooting/IMG_9723.jpeg)
 *Complete setup. I kept the undergunned tripod for bigger alpine rides, where I really want to keep weight down. It holds the fullframe camera ok-ish.*
 
-[image of tripods]
-
 One of the first things I noted with the fullframe sensor was that it begged for a faster memory card. One image in the Raw-L-compressed format takes up around 45MB, so even the fastest cards with write speeds of up to 250MB/s would limit the continous shooting rate. After a bit of testing at home, I settled at the middle continous shooting mode rate (around 5 images/s). This allows the camera and memory card to shoot for an extended time range (typically 10s) without having to limit the rate and at the same time have a good chance of catching exactly the action shot I want.
 
 One of the features that I find incredible with this modern fullframe camera, is the autofocus performance. When I am behind the lens and shoot someone else’s riding, I would typically set the focus area to the spot on the finder where I would start shooting and then use the continous autofocus feature to track the rider. This works incredibly well, and even with sunglasses it will almost always focus right on the eye. 
 
-[Image with green autofocus square]
+![Sharp results with a fullframe camera](/assets/selfshooting/DSC03621.jpeg)
+*Eye detection and tracking works incredibly well, even with sunglasses (Sony A7C II with Sony 24-50mm f2.8, 24mm, f2.8, 1/1000s, ISO2000). Rider: Reto Kurmann*
 
 Unfortunately for the case of self-shooting this would not work so well. Let’s take a look at how I think autofocus systems in modern cameras work:
 1. Find the object of interest in the finder at a user given point in time (when you half-press the shutter to set the focus) - this is called object detection in the AI world
@@ -91,28 +95,33 @@ Note that this system relies on you telling the camera, WHEN it should focus on 
 *Autofocus on target and sharp image (Sony A7C II with Sony 85mm, f1.8, 1/1250s, ISO100).*
 [example images -  also good but not on target]
 
-[TODO TABLETABLE]
 | Focus Mode | Focus Area | Aperture | Lens | Rider's shirt color | #sharp images (round 1) | #sharp images (round 2) | Focus on target (round 1) |Focus on target (round 2) |
 | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | AF-C  | Expand Spot | 1.8 | gray | 85mm | 0/3 | 0/3 | 0/3 | 0/3 |
 | AF-C  | Spot L | 1.8 | gray | 85mm | 0/3 | 0/3 | 0/3 | 0/3 |
-| AF-C  | Wide | 1.8 | gray | Lens | 3/3 | 1/4 | 2/3 | 0/4 |
-| AF-C  | Tracking: Spot L | 1.8 | gray | Lens | 0/3 | 1/2 | 0/3 | 1/2 |
-| AF-A  | Wide | 1.8 | gray | Lens | 0/3 | 4/4 | 0/3 | 3/4 |
-| AF-A  | Expand Spot | 1.8 | gray | Lens | 1/3 | 0/3 | 0/3 | 0/3 |
-| AF-A  | Spot L | 1.8 | gray | Lens | 0/3 | 0/3 | 0/3 | 0/3 |
-| AF-A  | Wide | 1.8 | gray | Lens | 0/3 | 2/4 | 0/3 | 0/4 |
-| AF-A  | Wide | 4.5 | gray | Lens | 4/4 | 4/4 | 2/4 | 2/4 |
-| AF-A  | Expand Spot | 4.5 | gray | Lens | 0/4 | 0/3 | 0/4 | 0/3 |
-
-
-
+| AF-C  | Wide | 1.8 | gray | 85mm | 3/3 | 1/4 | 2/3 | 0/4 |
+| AF-C  | Tracking: Spot L | 1.8 | gray | 85mm | 0/3 | 1/2 | 0/3 | 1/2 |
+| AF-A  | Wide | 1.8 | gray | 85mm | 0/3 | 4/4 | 0/3 | 3/4 |
+| AF-A  | Expand Spot | 1.8 | gray | 85mm | 1/3 | 0/3 | 0/3 | 0/3 |
+| AF-A  | Spot L | 1.8 | gray | 85mm | 0/3 | 0/3 | 0/3 | 0/3 |
+| AF-A  | Wide | 1.8 | gray | 85mm | 0/3 | 2/4 | 0/3 | 0/4 |
+| AF-A  | Wide | 4.5 | gray | 85mm | 4/4 | 4/4 | 2/4 | 2/4 |
+| AF-A  | Expand Spot | 4.5 | gray | 85mm | 0/4 | 0/3 | 0/4 | 0/3 |
+| AF-A  | Wide | 4.5 | red | 85mm | 3/3 | 1/3 | 1/3 | 1/3 |
+| AF-C  | Wide | 4.5 | red | 85mm | 0/3 | 0/3 | 0/3 | 0/3 |
+| AF-A  | Zone | 4.5 | red | 85mm | 3/3 | 3/4 | 3/3 | 3/4 |
+| AF-A  | Zone | 1.8 | red | 85mm | 2/4 | 3/4 | 2/4 | 3/4 |
+| AF-A  | Zone | 2.8 | red | 24-50mm | 1/5 | 1/4 | 1/5 | 1/4 |
+| AF-C  | Zone | 2.8 | red | 24-50mm | 2/4 | 4/4 | 2/4 | 4/4 |
 
 It goes without saying, that this is very much bro-science. Yet I found the results interesting.
 
-The combination of AF-A and Wide focus area seemed to produce the best results in this case. Also closing down aperture seemed to help. While this might seem counterintuitive, it might also be that a wide aperture simply makes minor focusing errors more visible. Interestingly, using a colored shirt also helped with autofocus performance. 
+The combination of AF-A and Wide focus area seemed to produce the best results in this case. Also closing down aperture seemed to help. While this might seem counterintuitive, it might also be that a wide aperture simply makes minor focusing errors more visible. Interestingly, using a colored shirt also helped with autofocus performance. The lens itself did not seem to have any effect in this scenario.
 
 So much for the “science” part. However, those pumptrack experiment findings did not translate very well to the reality out in the woods. Depending on the light situation and the background, autofocus might work in some situations but be completely off in others. Even after all those experiments, I was not confident in the autofocus performance. I had to change my strategy. And the solution was a very low-hanging fruit. I went back to manual focus for self-shooting. While setting everything up, I will set the focus on the chunk of trail, where I want to be in-focus. Turns out, this works better than all the AI integrated in modern cameras for this very niche use-case. Simple solution to a complicated problem. Obviously, the drawback of this is, that the focus will only be right for this very specific spot.
+
+![Image from local trails](/assets/selfshooting/DSC00804.jpeg)
+*Manual focus for the win (Sony A7C II with Sony 85mm f1.8, 85mm, f1.8, 1/1000s, ISO250).
 
 With this issue out of the window, the thing I struggle most with today is perspective. Perspective is the art of framing or composing an image. And while I’m still a beginner in this field, having to rely on a tripod really limits options here. I can either put it on the ground or install it on some medium-sized branches. That’s not great and a limitation I have learned to accept. Sometimes I will find an epic shooting spot, visualize the image already in my head but simply find no way to install the camera where it needs to be. This can be frustrating because it forces me to ride on without the chance to capture what I imaged. And other times, all pieces fall into place, there’s a branch exactly where I need it and I get rewarded with an image I’m happy and proud of.
 
