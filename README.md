@@ -7,7 +7,7 @@ This repo contains articles written by me on various subjects of personal intere
 * [Thoughts from a carbon wheel virgin](mountainbike/plasticwheels.md)
 * [Back to the future - drivetrain version](mountainbike/backtothefuturedrivetrain.md) - published on [NSMB](https://nsmb.com/articles/back-to-the-future-drivetrain-edition/)
 * [DIY Frame Wrap](mountainbike/diyframewrap.md) - published on [NSMB](https://nsmb.com/articles/diy-frame-wrap/)
-* [Re-discovering mountainbiking from a photographer's perspective](mountainbike/selfshooting.md)
+* [Re-discovering mountainbiking from a photographer's perspective](mountainbike/selfshooting.md) published on [NSMB](https://nsmb.com/articles/rediscovering-mountainbiking-through-photography/)
 
 ## Technology
 * [Apple Security Bounty: A personal experience](https://medium.com/macoclock/apple-security-bounty-a-personal-experience-fe9a57a81943)
