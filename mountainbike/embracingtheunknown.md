@@ -12,7 +12,7 @@ But do you remember the excitement and thrill when you discovered those trails f
 And while it’s hard to maintain this feeling on your local trails, it’s actually incredibly easy to trigger it wherever you go. Just bring a bike along.
 
 ![Bikes inside our camper van](/assets/unknown/DSC08530.jpeg)
-*Exploring countries by bicycle is my favorite way of travel. It doesn’t always need to be bikepacking - just bring your bike along.*
+*Exploring countries by bicycle is one of the best ways to discover more and get in touch with locals. It doesn’t always need to be bikepacking - just bring your bike along.*
 
 This spring we took the chance to travel 2 months with our little family, before our son would start his school career in summer. We loaded our camper van and headed south to the balearic islands for a few weeks of sun, food, sea, mountains and dolce far niente. For me as a first time visiter of Mallorca, I was absolutely blown away at how popular it is for road cycling. There is a very strong cycling culture there and it’s rare you’ll see a stretch of road without a group of cyclists. And it’s not hard to understand why: Perfect weather conditions most of the year, fantastic landscapes and a vast network of small side roads.
 
@@ -33,7 +33,7 @@ This naiveness and eagerness to explore will of course also cause some friction.
 On my third ride, I finally found a few meters of rideable trail, but it was far from mountainbiker’s paradise. But slowly things began to click together. We were in the incredibly beautiful mountains of Mallorca on the north part of the island. I wanted to try riding one of the main peaks of the island. Here at least I found some forum entries from hikers, so I knew there was at least a path. To my surprise, the first part of the climb was rideable. Then once again, it became a hike-a-bike. I don’t really mind, I like the slow pace that comes with it as it let’s you explore line options for the fun part later. An hour after I had started, the sun started to rise from the sea and painted the island in some fantastic orange light. 
 
 ![Sunrise over Mallorca](/assets/unknown/IMG_9366.jpeg)
-*Sunrise over Mallorca and the mediterranean sea. Early morning rides are the best!*
+*Early morning rides are the best: Sunrise over Mallorca and the mediterranean sea.*
 
 There is something really peaceful about early morning rides where you are out alone in nature and experiencing the rise of a new day. Shortly before reaching the peak I decided to leave my bike behind and continue without it. The rock formations were littered with unrideable holes and it became a mix of climbing and hiking. After taking in the views and being able to overlook the entire island, I headed back down to grab my bike. I quickly realized that luckily, this was a day where I would easily find flow. Not flow in the sense of what many of us would call a flow trail. This wasn’t terrain that called for speed. But rather a level of flow reached by connecting with the trail and the challenges it throws at you.
 
