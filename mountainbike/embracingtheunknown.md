@@ -53,6 +53,7 @@ I continued finding both, frustrating hike-a-bikes and fantastic trails along ou
 Discovering new trails and regions by intuition rather than relying on the available information on the internet might seem like a stupid idea at first glance. You will find yourself questioning *what the fuck am I doing here?* more often than not. But when your efforts get rewarded with a ride you did not expect but dreamt off, all of those thoughts fade into insignificance. In that sense: Just to get out and explore.
 
 ![10 Moving Motivators](/assets/unknown/RELATEDNESS.jpg)
-*Stolen Image from the internet: TODO.*
+*Stolen Image from the internet: The 10 Moving Motivators.*
+(https://management30.com/practice/moving-motivators/)
 
 All of this is obviously not only restricted to our funny little mountainbiking world. And while my psychological knowledge is still stuck at level 1, I still remember learning about the 10 moving motivators at work over a decade ago. It might not come as a surprise, that I identified Curiosity as one of my main motivators. So, may I propose to take a minute and ask yourself - what motivates you in your everyday life and in mountainbiking specifically?
