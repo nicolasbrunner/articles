@@ -34,7 +34,7 @@ The idea was to only change one variable at the time - the rim in this case - an
 | Measured weight (incl. tape and valve) | 898g front, 982g rear (1880g total) |  795g front, 879g rear (1674g total)| 774g front, 887g rear (1661g total) |
 
 Some facts about all three wheels...
-hookless, tire installation etc., offset rims, new DT alu rim coming soon?
+hookless, tire installation etc., offset rims, new DT alu rim coming soon? prefer design of Roval, same tires and pressures everywhere
 
 Roval Traverse SL II 29 in a nutshell:
 
@@ -75,7 +75,25 @@ Now, I sometimes also get this sensation when riding the same trail on my alumin
 
 Thankfully, they continued to perform beautifully on smoother, loamier terrain. I was also happy riding them on slower, steeper and more technical terrain, where I didn’t notice any major difference from my aluminum setup. They also tracked well through corners and felt good on the jumps.
 
-One thing I noticed, is that my brakes tended to start howling sooner on them. On one of the rather steep descents I have in my backdoor, they constantly started howling in the same spot where braking forces are highest. I have no idea, where this comes from.
+A small gripe, is that my brakes tend to start howling sooner on them. On one of the rather steep descents I have in my backdoor, the other two wheels, typically only howl for a very brief amount of time where braking forces are consistently high for a stretch of time. The Roval's start howling sooner and longer. I have no idea, where this comes from.
+
+After a few weeks of riding on the Roval wheels, it was time to switch things up and mount the wheels with the XMC 320 rims.
+
+Many of the good traits that the Roval wheels have can also be found in the XMC 320 wheels. They are exciting to ride in terrain with lots of short punchy climbs. And they are equally fun and precise to ride on flowier trails.
+
+However they feel noticeably less harsh and fatiguing on rocky and rooty terrain to me. The ride feel they offer in those situations is closer to the XM 481 aluminum wheel, which is a good thing. Less bouncing around and easier to stick to your line as a result. Speculating, maybe a faster or stronger rider would feel different?
+
+This was a bit of a surprise to me, and I guess carbon is not equal carbon. Maybe some part of the difference also originates in the butted (XMC 320 wheel) vs bladed (Traverse SL II) spokes or in the lacing pattern. Re-lacing the Roval rims with the identical spokes and lacing-pattern featured on the other wheels might be an interesting experiment for another day.
+
+Obviously, I wanted to confirm my impressions (is someone shouting confirmation bias?) with some back-to-back test laps.
+
+I headed out to the woods heavily loaded. One wheelset on the bike, the other two on our bike trailer. The lap I chose consisted of around 150m elevation gain on a fireroad, followed by a fast mellow trail that leads into a steep natural trail with lots of roots and rocks. I did two laps on each wheelset, alternating after each round.
+
+On the fireroad climbs, the difference was less obvious than I expected and remembered from other rides. Yes, the aluminum wheels felt like a bit more effort was needed to keep momentum, but it wasn't a night-and-day difference. The effect was more pronounced on short steep climbs. For the fast and mellow trail, I preferred the two carbon rim wheelsets. They just feel a touch faster to move the bike around under you when throwing it from one side to the other.
+
+The chunkier the terrain got, the more it became clear, that I like to have some vertical flex in my wheels. The XM 481 and XMC 320 performed best on this part of the trail. Part of this might also be the slightly lower spoke tension on the XMC 320 wheel.
+
+_____
 
 They feel fantastic when climbing - especially on fireroad climbs or on paved access roads. I don't know if I'm faster on them, but it feels as if a little bit less effort is needed to spin those wheels up the mountain. They also shine on techy climbs where quick bursts of acceleration are key. Traction when climbing is perfectly fine - I am unable to feel a difference to my aluminium rims. 
 
