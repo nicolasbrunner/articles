@@ -23,16 +23,18 @@ You can probably guess where this is heading by now. I finally decided to throw 
 
 The idea was to only change one variable at the time - the rim in this case - and keep the rest identical to my control wheels I know well. Same hubs, spokes, nipples and lacing-pattern. The most obvious choice for a rim was the DT Swiss XMC 320, since it's the direct plastic counterpart to my trusted DT Swiss XM 481 aluminum rims. My second choice was a set of Roval Traverse SL II wheels, since they seemed to get good praise everywhere. Unfortunately you can't buy the only the rim, so I bought a wheelset that at least shared the same hub.  
 
-<table>
-  <tr>
-    <th>Fruit</th>
-    <td>Banana</td>
-  </tr>
-  <tr>
-    <th>Vegetable</th>
-    <td>Carrot</td>
-  </tr>
-</table>
+| | DT Swiss XM 481 29 | DT Swiss XMC 320 29 | Roval Traverse SL II 29 |
+| ----------- | ----------- | ----------- | ----------- |
+| Rim weight | 553g | 454g | - |
+| Spokes | DT Swiss Competition Race (J-Bend) | DT Swiss Competition Race (J-Bend) | DT Swiss Aerolite Spokes (J-Bend) |
+| Nipples | Sapim Polyax Square Alu | Sapim Polyax Square Alu | DT Standard Alu |
+| Washers | DT Swiss | - | - |
+| Hubs | DT Swiss 240 EXP Classic hubs | DT Swiss 240 EXP Classic hubs | DT Swiss 240 EXP Classic hubs |
+| Lacing pattern | 3-cross (28 spokes) | 3-cross (28 spokes) | 2-cross (28 spokes) |
+| Measured weight (incl. tape and valve) | 898g front, 982g rear (1880g total) |  795g front, 879g rear (1674g total)| 774g front, 887g rear (1661g total) |
+
+Some facts about all three wheels...
+hookless, tire installation etc., offset rims, new DT alu rim coming soon?
 
 Roval Traverse SL II 29 in a nutshell:
 
@@ -63,18 +65,24 @@ Specialized designed a proprietary valve for their carbon wheels. Instead of a l
 
 ## Fantastic plastic?
 
-Obviously we were off to a bad start. But I’d happily forgive them, if they would ride as in my wildest fantasies.
+Let's put the number nerdery aside and jump to the heart of this experiment. How was the ride quality?
 
-My first ride was one of my favorite summer loops. On the climbs, the difference was immediate: Acceleration felt snappier and more energetic. A promising start!
+My first ride was on the Roval Traverse SL II on one of my favorite summer loops. It starts with a longish fire road climb and the difference was immediate: Keeping momentum felt a bit easier, similar to those days where your legs feel completely fresh. A promising start! The wheels also performed very well on the meandering trail that followed. This was a typical XC trail with lots of short peppy climbs and flowy loamy descents. Acceleration felt snappier and they hold the line well. The culmination of this loop is a descent through a natural canyon with lots of hand-built features. Like a natural halfpipe with drops, jumps and high-speed turns. Here again: No complaints, the wheels went where I wanted them to go.
+
+The Swiss Jura also features rockier and more technical terrain. One of the trails is especially nasty. It's not the most technical one, but it's littered with weird sharp rocks pointing in all directions, making it difficult to hold a line and not being thrown around. Typically speed is your friend here. High-Pivot Bikes for example perform very well in this sort of terrain. Unfortunately, this day I had trouble finding flow on the Roval wheels. Fatigue set in faster than usual, and holding a line took noticeably more effort. The rims felt less compliant and I struggled more to find grip and not being bounced around.
+
+Now, I sometimes also get this sensation when riding the same trail on my aluminum rims. I might not have slept well or suffer from a wandering mind this specific day. However I have come back multiple times on different days with the Roval wheels and never felt very happy with their performance in this kind of terrain.
+
+Thankfully, they continued to perform beautifully on smoother, loamier terrain. I was also happy riding them on slower, steeper and more technical terrain, where I didn’t notice any major difference from my aluminum setup. They also tracked well through corners and felt good on the jumps.
+
+One thing I noticed, is that my brakes tended to start howling sooner on them. On one of the rather steep descents I have in my backdoor, they constantly started howling in the same spot where braking forces are highest. I have no idea, where this comes from.
+
+They feel fantastic when climbing - especially on fireroad climbs or on paved access roads. I don't know if I'm faster on them, but it feels as if a little bit less effort is needed to spin those wheels up the mountain. They also shine on techy climbs where quick bursts of acceleration are key. Traction when climbing is perfectly fine - I am unable to feel a difference to my aluminium rims. 
+
+The same applies to mellower faster trails, where I do not really notice any difference to my aluminium wheels and they feel perfectly fine. But when the trail gets rowdier and you really have to focus to hold your line and sometimes simply plow through stuff, they feel harsh. My derailleur even seems to bounce around more, leading to increased chainslap and noise.
 
 ![Climbing on the Roval wheelset](/assets/Climbing-min.jpeg)
 *Fast acceleration when climbing is on the menu.*
-
-But then came the first descent - a chunky rock garden with some tight turns. I guess what many of our friends west of the atlantic ocean would call “weird euro chunk”. This is a trail where short travel high-pivot bikes like the Forbidden Druid really shine and a real test for the compliance of the rims. However this day, it did not feel great at all. Fatigue set in faster than usual, and holding a line took noticeably more effort. Thankfully, the second descent was smoother - loamy, hand-built, and with good flow. Sometimes steep, sometimes fast, sometimes slow and with the occasional drop or jump. Here, the wheels felt great again. I didn’t notice any major difference from my aluminum setup, and they tracked well through corners and felt good on the jumps.
-
-A few rides later, my initial impressions still held up. They feel fantastic when climbing - especially on fireroad climbs or on paved access roads. I don't know if I'm faster on them, but it feels as if a little bit less effort is needed to spin those wheels up the mountain. They also shine on techy climbs where quick bursts of acceleration are key. Traction when climbing is perfectly fine - I am unable to feel a difference to my aluminium rims. 
-
-The same applies to mellower faster trails, where I do not really notice any difference to my aluminium wheels and they feel perfectly fine. But when the trail gets rowdier and you really have to focus to hold your line and sometimes simply plow through stuff, they feel harsh. My derailleur even seems to bounce around more, leading to increased chainslap and noise.
 
 ![Descending on the Roval wheelset](/assets/Descending2-min.jpeg)
 ![Descending on the Roval wheelset](/assets/BuiltFlow.jpeg)
