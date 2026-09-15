@@ -67,37 +67,50 @@ Specialized designed a proprietary valve for their carbon wheels. Instead of a l
 
 Let's put the number nerdery aside and jump to the heart of this experiment. How was the ride quality?
 
-My first ride was on the Roval Traverse SL II on one of my favorite summer loops. It starts with a longish fire road climb and the difference was immediate: Keeping momentum felt a bit easier, similar to those days where your legs feel completely fresh. A promising start! The wheels also performed very well on the meandering trail that followed. This was a typical XC trail with lots of short peppy climbs and flowy loamy descents. Acceleration felt snappier and they hold the line well. The culmination of this loop is a descent through a natural canyon with lots of hand-built features. Like a natural halfpipe with drops, jumps and high-speed turns. Here again: No complaints, the wheels went where I wanted them to go.
+My first ride on the Roval Traverse SL II was on one of my favorite summer loops. It starts with a longish fire road climb and the difference was immediate: Keeping momentum felt a bit easier, similar to those days where your legs feel completely fresh. A promising start! The wheels also performed very well on the meandering trail that followed. This was a typical XC trail with lots of short peppy climbs and flowy loamy descents. Acceleration felt snappier and they hold the line well. The culmination of this loop is a descent through a natural canyon with lots of hand-built features. It's a natural halfpipe with drops, jumps and high-speed turns. Here again: No complaints, the wheels went where I wanted them to go.
 
 The Swiss Jura also features rockier and more technical terrain. One of the trails is especially nasty. It's not the most technical one, but it's littered with weird sharp rocks pointing in all directions, making it difficult to hold a line and not being thrown around. Typically speed is your friend here. High-Pivot Bikes for example perform very well in this sort of terrain. Unfortunately, this day I had trouble finding flow on the Roval wheels. Fatigue set in faster than usual, and holding a line took noticeably more effort. The rims felt less compliant and I struggled more to find grip and not being bounced around.
 
-Now, I sometimes also get this sensation when riding the same trail on my aluminum rims. I might not have slept well or suffer from a wandering mind this specific day. However I have come back multiple times on different days with the Roval wheels and never felt very happy with their performance in this kind of terrain.
+Now, I sometimes also get this sensation when riding the same trail on my aluminum rims. Some days, you just haven't slept well or are suffering from a wandering mind. However, since this initial ride, I have come back multiple times on different days with the Roval wheels and never felt very happy with their performance in this kind of terrain.
 
-Thankfully, they continued to perform beautifully on smoother, loamier terrain. I was also happy riding them on slower, steeper and more technical terrain, where I didn’t notice any major difference from my aluminum setup. They also tracked well through corners and felt good on the jumps.
+Thankfully, they continued to perform beautifully on smoother, loamier terrain. I was also happy riding them on slower, steeper and more technical terrain, where I didn’t notice any major difference from my aluminum setup. They also tracked well through corners and felt good on medium sized jumps.
 
-A small gripe, is that my brakes tend to start howling sooner on them. On one of the rather steep descents I have in my backdoor, the other two wheels, typically only howl for a very brief amount of time where braking forces are consistently high for a stretch of time. The Roval's start howling sooner and longer. I have no idea, where this comes from.
+A small gripe, is that my brakes tend to start howling sooner on them than on other wheels. On one of the rather steep descents I have on my backdoor trails, the other two wheels, will typically  howl only for a very brief amount of time where braking forces are highest. The Roval's start howling sooner and for a longer stretch of trail. I have no idea, where this comes from.
 
 After a few weeks of riding on the Roval wheels, it was time to switch things up and mount the wheels with the XMC 320 rims.
 
-Many of the good traits that the Roval wheels have can also be found in the XMC 320 wheels. They are exciting to ride in terrain with lots of short punchy climbs. And they are equally fun and precise to ride on flowier trails.
+Many of the good traits that the Roval wheels have can also be found on the XMC 320 wheels. They are exciting to ride in terrain with lots of short punchy climbs. And they are equally fun and precise to ride on flowier trails.
 
-However they feel noticeably less harsh and fatiguing on rocky and rooty terrain to me. The ride feel they offer in those situations is closer to the XM 481 aluminum wheel, which is a good thing. Less bouncing around and easier to stick to your line as a result. Speculating, maybe a faster or stronger rider would feel different?
+However they feel noticeably less harsh and fatiguing on rocky and rooty terrain to me. The ride feel they offer in those situations is closer to the XM 481 aluminum wheel, which is a good thing. Less bouncing around and easier to stick to your line as a result. Obviously, there are stronger and faster riders out there that might feel different.
 
 This was a bit of a surprise to me, and I guess carbon is not equal carbon. Maybe some part of the difference also originates in the butted (XMC 320 wheel) vs bladed (Traverse SL II) spokes or in the lacing pattern. Re-lacing the Roval rims with the identical spokes and lacing-pattern featured on the other wheels might be an interesting experiment for another day.
 
-Obviously, I wanted to confirm my impressions (is someone shouting confirmation bias?) with some back-to-back test laps.
+Being the nerd I am, I wanted to confirm my impressions (is someone shouting confirmation bias?) with some back-to-back test laps.
 
-I headed out to the woods heavily loaded. One wheelset on the bike, the other two on our bike trailer. The lap I chose consisted of around 150m elevation gain on a fireroad, followed by a fast mellow trail that leads into a steep natural trail with lots of roots and rocks. I did two laps on each wheelset, alternating after each round.
+I headed out to the woods heavily loaded. One wheelset on the bike, the other two on our bike trailer. The lap I chose consisted of around 150m of elevation gain on a fire road, followed by a fast mellow trail that leads into a steep natural section with lots of roots and rocks. I did two laps on each wheelset, alternating after each round.
 
-On the fireroad climbs, the difference was less obvious than I expected and remembered from other rides. Yes, the aluminum wheels felt like a bit more effort was needed to keep momentum, but it wasn't a night-and-day difference. The effect was more pronounced on short steep climbs. For the fast and mellow trail, I preferred the two carbon rim wheelsets. They just feel a touch faster to move the bike around under you when throwing it from one side to the other.
+On the fireroad climbs, the difference was less obvious than I expected and remembered from other rides. Yes, the aluminum wheels felt like a bit more effort was needed to keep momentum, but it wasn't a night-and-day difference. The effect was more pronounced on short steep climbs. For the fast and mellow trail, I preferred the two carbon rim wheelsets. They just felt a touch faster to move the bike around under you when throwing it from one side to the other.
 
-The chunkier the terrain got, the more it became clear, that I like to have some vertical flex in my wheels. The XM 481 and XMC 320 performed best on this part of the trail. Part of this might also be the slightly lower spoke tension on the XMC 320 wheel.
+The chunkier the terrain got, the more it became clear, that I like to have some vertical flex in my wheels. The XM 481 and XMC 320 performed best on this part of the trail. Part of the reason why the XMC 320 offers such a compliant ride, might also be in the slightly lower spoke tension I chose when building them up. The difference between the Roval wheels and the other two in terms of compliance was a bit like riding conventional tires versus radial tires.
 
-_____
+## A word on durability
 
-They feel fantastic when climbing - especially on fireroad climbs or on paved access roads. I don't know if I'm faster on them, but it feels as if a little bit less effort is needed to spin those wheels up the mountain. They also shine on techy climbs where quick bursts of acceleration are key. Traction when climbing is perfectly fine - I am unable to feel a difference to my aluminium rims. 
+Many people will claim that carbon rims are stronger and need less maintenance than aluminum rims. I might just not ride hard enough, but I've never really had bigger issues with my aluminum wheels. The only occasions, where I have dented rims were mechanic or rider error: Not enough pressure in the tires or hitting a sharp rock hard on a landing. Even in those cases, I was always able to bend the wall back and continue riding those rims without issues. From time to time I might bend a spoke due to a stick finding its way into the wheels, which is quickly repaired by replacing the spoke. But that's it. I own two sets of wheels with XM 481 rims: One is 7 years old, the other 3.
 
-The same applies to mellower faster trails, where I do not really notice any difference to my aluminium wheels and they feel perfectly fine. But when the trail gets rowdier and you really have to focus to hold your line and sometimes simply plow through stuff, they feel harsh. My derailleur even seems to bounce around more, leading to increased chainslap and noise.
+The two carbon wheel sets compared here are both about a year old. I've had two issues on the Roval Traverse SL II this year. In late spring, a spoke snapped in two pieces while riding, probably due to a stick. Interestingly, I have never had a spoke snap in two pieces like this bladed one. The butted ones I use on my wheel builds have until today only been bent by sticks. I could easily finish the ride with one spoke less and replace it back home (thanks again Roval for including replacement spokes and nipples). The second issue was more severe. I overshot a drop and landed too deep. This was almost 3 meters to flat and I remember the scene very clearly. When you realize, that you fucked up badly, time seems to slow down mid-air. I was pretty sure, that this was the end of my riding season. Somehow, I managed to not fall over the bars on impact and heard 3 loud cracks upon landing in the rear. Luckily I only bruised my right ankle from the impact but seemed fine otherwise. The rear wheel was less good. It had solid cracks side-to-side on three spots and around a third of the spokes had snapped. Interestingly, the tire did not seem to have pinch-flatted. I am absolutely not blaming the wheel here, because (a) this was absolutely outside the wheel's intended purpose and (b) I think that any of the 3 wheels might not have survived this.
+
+## Happy place
+
+This was a very interesting experiment. I learned that carbon is not equal carbon and that there can be some significant differences between seemingly similar products on paper.
+
+If I were mostly riding flowier and loamier trails, I'd happily ride either one of those wheels. Money being no issue, I'd pick one of the two carbon wheel options, because they are just a bit faster accelerating.
+
+On chunkier terrain, I'd pick either the XMC 320 or the XM 481. They offer more grip and comfort without sacrificing precision. In fact, I mostly ride the XMC 320 wheel on my Scor 2030, which I usually pick on my local trails. For more alpine riding, I'll pick the XM 481 on my Transition Sentinel. I simply trust the material a bit more and my ability to repair it.
+
+For the sake of experiment, I have also tried all wheel sets on my Kona Honzo Hardtail and two of them on a friend's Yeti ARC. No surprises: The radial harshness is even more pronounced without rear suspension.
+
+Obviously, for your riding style and terrain, you might come to entirely different conclusions. Happy experimenting!
+
 
 ![Climbing on the Roval wheelset](/assets/Climbing-min.jpeg)
 *Fast acceleration when climbing is on the menu.*
@@ -108,25 +121,15 @@ The same applies to mellower faster trails, where I do not really notice any dif
 ![Descending on the Roval wheelset](/assets/Descending1-min.jpeg)
 *... but not so much when the trail becomes chunkier*
 
-Sometimes differences can be very nuanced and it’s hard to tell if your brain is playing you tricks with placebo. This wasn’t one of those times. The contrast was very pronounced. On climbs: big win. On rowdy descents: not so much. Back-to-back testing with identical tires confirmed it: My aluminum rims feel significantly more muted and comfortable. For those who have had the chance to ride the new Schwalbe Radial tires: The difference feels very similar.
-
-I’m totally fine with this for quick lunch rides, where efficiency matters more than comfort. But for multi-day alpine epics with long descents? No way. I feel more confident dropping into a gnarly line with my good old aluminium rims. And even though they require a bit more effort to climb to the top, they will allow me to recover better on the downs.
-
-I have also tried the Roval wheels on my Transition Sentinel and on two hardtails. No big surprise: The lateral harshness is even more pronounced without rear suspension and I clearly prefered my aluminium wheels on a Yeti ARC and Kona Honzo CR.
 
 ![Climbing on the Roval wheelset](/assets/BackToBackTesting-min.jpeg)
 *Heading out for back-to-back testing.*
 
-## It all depends on the perspective
 
-This might not be a very glowing write-up and yet I bet that many would really enjoy these wheels. Heck, I’ll happily grab them for most of my local rides. If your local terrain is on the mellower side or you mostly ride smoother, machine-built trails, I'm sure you will enjoy these.
-
-They are well built, comparably light and very enjoyable on tamer terrain. I’ve had absolutely zero durability issues with them and love that they come with J-Bend spokes and a 6-bolt rotor mount. They seem to be bombproof and I was never able to hear any pinging on the first rides.
 
 ![Climbing on the Roval wheelset](/assets/Meandering.jpeg)
 *Lots of fun and fast acceleration in meandering terrain.*
 
-Now I’m left wondering: Can another carbon wheelset deliver the best of both worlds - lightweight efficiency and a comfortable, damped ride on chunky descents? Or can I safely return to my aluminium rims and keep my old-man-yelling at plastic attitude?
 
 ## About the author
 
