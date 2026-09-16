@@ -37,7 +37,7 @@ The idea was to only change one variable at the time - the rim in this case - an
 
 The first pleasant surprise with the entry in the fancy carbon world, is that you get more add-ons. Compared to DT Swiss aluminum rims, the packaging also includes black nipples (instead of silver ones), a tubeless valve, a 10 meter roll of tubeless tape and some sticker alternatives in other colors. Unfortunately only for the model naming but not the DT Swiss logo that sits on the opposite side of the rim.
 
-The rim holes are offset, allowing you to use the same spoke length for drive/non-drive side. In theory the ideal spoke length calculated in the DT Swiss online tool https://spokes-calculator.dtswiss.com/en/ is 1mm different but I decided to use the same length, making the build process and replacement spokes inventory easier to manage. More importantly, this allows for more even spoke tensions. The successor of the XM 481 rim will also feature offset holes (it is already available as part of the XM 1700 wheel set). The build process itself went very smooth and I found truing less finicky than with the XM 481 rims. I'm unsure if this is due to the more even spoke tension or to the carbon rim. Spoke tension was kept a bit lower than on aluminum builds in the hope to improve the compliance of the wheel.
+The rim holes are offset, allowing you to use the same spoke length for drive/non-drive side. In theory the ideal spoke length calculated in the DT Swiss online tool https://spokes-calculator.dtswiss.com/en/ is 1mm different but I decided to use the same length, making the build process and replacement spokes inventory easier to manage. More importantly, this allows for more even spoke tensions. The build process itself went very smooth and I found truing less finicky than with the XM 481 rims. I'm unsure if this is due to the more even spoke tension or to the carbon rim. Spoke tension was kept a bit lower than on aluminum builds in the hope to improve the compliance of the wheel.
 
 Installation of the same control tires as on the other wheel sets went well but needed slightly more effort than on the DT Swiss XM 481 rims. I'm speculating here, but part of the reason might lie in the hookless design of the XMC 320 rims.
 
@@ -60,6 +60,10 @@ Specialized designed a proprietary valve for their carbon wheels. Instead of a l
 *Front wheel weight comes in at 774g (valve and rim tape included).*
 ![Back wheel weight](/assets/WeightBack-min.jpeg)
 *Back wheel weight comes in at 887g (valve and rim tape included).*
+
+### The control rim: DT Swiss XM 481
+
+Those are currently my do-it-all rims I use for my wheel builds. The wheel set used here as a baseline is already 3 years old but is still going strong. Apparently the successor of the XM 481 rim is right around the corner and is in fact already available as part of the complete XM 1700 wheel set. It will also feature offset holes.
 
 ## Fantastic plastic?
 
