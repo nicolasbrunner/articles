@@ -21,7 +21,7 @@ You can probably guess where this is heading by now. I finally decided to throw 
 
 ## When the dopamine rush takes over - buying two sets of carbon rims
 
-The idea was to only change one variable at the time - the rim in this case - and keep the rest identical to my control wheels I know well. Same hubs, spokes, nipples and lacing-pattern. The most obvious choice for a rim was the DT Swiss XMC 320, since it's the direct plastic counterpart to my trusted DT Swiss XM 481 aluminum rims. My second choice was a set of Roval Traverse SL II wheels, since they seemed to get good praise everywhere. Unfortunately you can't buy the only the rim, so I bought a wheelset that at least shared the same hub.  
+The idea was to only change one variable at the time - the rim in this case - and keep the rest identical to my control wheels I know well. Same hubs, spokes, nipples and lacing-pattern. The most obvious choice for a rim was the DT Swiss XMC 320, since it's the direct carbon counterpart to my trusted DT Swiss XM 481 aluminum rims. As a European, I'm also happy to point out that they are actually produced in Poland. The second pick was a set of Roval Traverse SL II wheels, since they seemed to get good praise everywhere. Unfortunately you can't buy rims only from Roval, so I bought a wheel set that shared the same DT Swiss 240 hub.  
 
 | | DT Swiss XM 481 29 | DT Swiss XMC 320 29 | Roval Traverse SL II 29 |
 | ----------- | ----------- | ----------- | ----------- |
@@ -33,17 +33,24 @@ The idea was to only change one variable at the time - the rim in this case - an
 | Lacing pattern | 3-cross (28 spokes) | 3-cross (28 spokes) | 2-cross (28 spokes) |
 | Measured weight (incl. tape and valve) | 898g front, 982g rear (1880g total) |  795g front, 879g rear (1674g total)| 774g front, 887g rear (1661g total) |
 
-Some facts about all three wheels...
-hookless, tire installation etc., offset rims, new DT alu rim coming soon? prefer design of Roval, same tires and pressures everywhere
+### DT Swiss XMC 320 rim
 
-Roval Traverse SL II 29 in a nutshell:
+The first pleasant surprise with the entry in the fancy carbon world, is that you get more add-ons. Compared to DT Swiss aluminum rims, the packaging also includes black nipples (instead of silver ones), a tubeless valve, a 10 meter roll of tubeless tape and some sticker alternatives in other colors. Unfortunately only for the model naming but not the DT Swiss logo that sits on the opposite side of the rim.
 
-* 30mm internal width (40mm external)
-* 28 hole front and rear
-* DT Swiss Aerolite Spokes
-* DT Swiss 240 EXP Classic hubs
-* Proprietary tubeless valve (more on that in a minute)
-* Measured weight: 774g front, 887g rear (1661g total)
+The rim holes are offset, allowing you to use the same spoke length for drive/non-drive side. In theory the ideal spoke length calculated in the DT Swiss online tool https://spokes-calculator.dtswiss.com/en/ is 1mm different but I decided to use the same length, making the build process and replacement spokes inventory easier to manage. More importantly, this allows for more even spoke tensions. The successor of the XM 481 rim will also feature offset holes (it is already available as part of the XM 1700 wheel set). The build process itself went very smooth and I found truing less finicky than with the XM 481 rims. I'm unsure if this is due to the more even spoke tension or to the carbon rim. Spoke tension was kept a bit lower than on aluminum builds in the hope to improve the compliance of the wheel.
+
+Installation of the same control tires as on the other wheel sets went well but needed slightly more effort than on the DT Swiss XM 481 rims. I'm speculating here, but part of the reason might lie in the hookless design of the XMC 320 rims.
+
+### Roval Traverse SL II wheels
+
+Here again, a pleasant surprise to see that those came with replacement spokes and nipples. Nice! The Roval wheels also came with a quality control sheet where the spoke tensions and the worker id were specified (apparently numbers > names in the corporate world). Being the nerd I am, I didn’t immediately mount tires and ride off into the sunset. Instead, I threw the wheels in my truing stand for inspection. Now, I’m not a wheel building expert - I simply enjoy building my own wheels - but as far as I can tell, build quality was solid - spoke tension was consistent and the wheels ran true. I am also a big fan of the very minimalistic branding on these - I prefer not to be a moving advertisement. DT Swiss, please take note!
+
+When I finally tried to mount some tires, I quickly started yelling inappropriate words. There was no way I could get the tire to seal properly. Usually this is a no-brainer with my tubeless pump (Topeak JoeBlow Booster). I simply remove the valve core, pump up the container of my pump, add a little bit of soapy water to the sidewalls of the tire if I feel funny and let the air boost seat the tire. With the Roval Traverse SL wheels, I failed miserably. The issue was not the rim-tire interface but the damn valve.
+
+![Proprietary tubeless valve](/assets/Valve-min.jpeg)
+*This proprietary valve caused me a lot of troubles.*
+
+Specialized designed a proprietary valve for their carbon wheels. Instead of a locknut, the valve threads directly into the rim. It’s a clever way to save a few grams, and you can still run a traditional tubeless valve if you want. However, the presta valve body is tapered towards the top and that meant neither my pump nor a friend’s Bontrager tubeless pump could form an airtight seal with the valve core removed This is a real design flaw in my opinion - and one that could easily be fixed in a future version. An air compressor finally did the trick.
 
 ![DT Swiss 240 EXP Classic hubs](/assets/Hub-min.jpeg)
 *Reliable and lightweight DT Swiss 240 EXP Classic hubs.*
@@ -54,18 +61,9 @@ Roval Traverse SL II 29 in a nutshell:
 ![Back wheel weight](/assets/WeightBack-min.jpeg)
 *Back wheel weight comes in at 887g (valve and rim tape included).*
 
-When the wheels were delivered to my door, I was pleasantly surprised: Replacement spokes and nipples were included. I tend to bend one or two spokes a year when sticks find their way into my wheels, so it is nice to have spares ready. The wheels also came with a quality control sheet where the spoke tensions and the worker id were specified (apparently numbers > names in the corporate world). Being the nerd I am, I didn’t immediately mount tires and ride off into the sunset. Instead, I threw the wheels in my truing stand for inspection. Now, I’m not a wheel building expert - I simply enjoy building my own wheels - but as far as I can tell, build quality was solid - spoke tension was consistent and the wheels ran true. Oh, and the wheelset shaves 200g of weight where it matters most compared to my aluminium wheels with the same number of spokes. I am also a big fan of the very minimalistic branding - I prefer not to be a moving advertisement.
-
-When I finally tried to mount some tires and go for a ride, I quickly started yelling inappropriate words. There was no way I could get the tire to seal properly. Usually this is a no-brainer with my tubeless pump (Topeak JoeBlow Booster). I simply remove the valve core, pump up the container of my pump, add a little bit of soapy water to the sidewalls of the tire if I feel funny and let the air boost seat the tire. With the Roval Traverse SL wheels, I failed miserably. The issue was not the rim-tire interface but the damn valve.
-
-![Proprietary tubeless valve](/assets/Valve-min.jpeg)
-*This proprietary valve caused me a lot of troubles.*
-
-Specialized designed a proprietary valve for their carbon wheels. Instead of a locknut, the valve threads directly into the rim. It’s a clever way to save a few grams, and you can still run a traditional tubeless valve if you want. However, the presta valve body is tapered towards the top and that meant neither my pump nor a friend’s Bontrager tubeless pump could form an airtight seal with the valve core removed This is a real design flaw in my opinion - and one that could easily be fixed in a future version. An air compressor with a Schrader pump head (firmly held down) finally did the trick.
-
 ## Fantastic plastic?
 
-Let's put the number nerdery aside and jump to the heart of this experiment. How was the ride quality?
+Let's put the number nerdery aside and jump to the heart of this experiment: How was the ride quality?
 
 My first ride on the Roval Traverse SL II was on one of my favorite summer loops. It starts with a longish fire road climb and the difference was immediate: Keeping momentum felt a bit easier, similar to those days where your legs feel completely fresh. A promising start! The wheels also performed very well on the meandering trail that followed. This was a typical XC trail with lots of short peppy climbs and flowy loamy descents. Acceleration felt snappier and they hold the line well. The culmination of this loop is a descent through a natural canyon with lots of hand-built features. It's a natural halfpipe with drops, jumps and high-speed turns. Here again: No complaints, the wheels went where I wanted them to go.
 
