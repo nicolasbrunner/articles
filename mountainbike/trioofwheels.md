@@ -1,6 +1,6 @@
 # A trio of wheels
 
-![Roval Traverse SL II 29](/assets/Rim-min.jpeg)
+![Three different wheels](/assets/trioofwheels/DSC02723.jpeg)
 Words & Photos: **Nicolas Brunner (photos are self-shot)**
 
 This is a story about my attempts at turning my trail bike into a XC-rocket on the climbs while still being able to ride gnarly trails on it. It involves spending too much money, destroying parts and even partly myself along the way. And finally landing in some sort of a happy place in the end. Sounds entertaining? Well hang on, because it also might get a bit nerdy.
@@ -37,7 +37,16 @@ The idea was to only change one variable at the time - the rim in this case - an
 
 The first pleasant surprise with the entry in the fancy carbon world, is that you get more add-ons. Compared to DT Swiss aluminum rims, the packaging also includes black nipples (instead of silver ones), a tubeless valve, a 10 meter roll of tubeless tape and some sticker alternatives in other colors. Unfortunately only for the model naming but not the DT Swiss logo that sits on the opposite side of the rim.
 
-The rim holes are offset, allowing you to use the same spoke length for drive/non-drive side. In theory the ideal spoke length calculated in the DT Swiss online tool https://spokes-calculator.dtswiss.com/en/ is 1mm different but I decided to use the same length, making the build process and replacement spokes inventory easier to manage. More importantly, this allows for more even spoke tensions. The build process itself went very smooth and I found truing less finicky than with the XM 481 rims. I'm unsure if this is due to the more even spoke tension or to the carbon rim. Spoke tension was kept a bit lower than on aluminum builds in the hope to improve the compliance of the wheel.
+![DT Swiss XMC 320](/assets/trioofwheels/DSC02720b.jpeg)
+*DT Swiss XMC 320 feature offset hole drilling and are hookless.*
+![Packaging content](/assets/trioofwheels/DSC01573.jpeg)
+*Black nipples are appreciated, though I would prefer the Squorx version for easier lacing..*
+![Tubeless valve](/assets/trioofwheels/DSC02716.jpeg)
+*DT Swiss tubeless valve works well but it triggers my inner monk as it didn't sit 100% straight after installation.*
+![Wheel lacing](/assets/trioofwheels/DSC01589.jpeg)
+*Final trueing was more straightforward on the XMC 320 than on a XM 481.*
+
+The rim holes are offset, allowing you to use the same spoke length for drive/non-drive side. In theory the ideal spoke length calculated in the [DT Swiss online tool]( https://spokes-calculator.dtswiss.com/en/) is 1mm different but I decided to use the same length, making the build process and replacement spokes inventory easier to manage. More importantly, this allows for more even spoke tensions. The build process itself went very smooth and I found truing less finicky than with the XM 481 rims. I'm unsure if this is due to the more even spoke tension or to the carbon rim. Spoke tension was kept a bit lower than on aluminum builds in the hope to improve the compliance of the wheel.
 
 Installation of the same control tires as on the other wheel sets went well but needed slightly more effort than on the DT Swiss XM 481 rims. I'm speculating here, but part of the reason might lie in the hookless design of the XMC 320 rims.
 
@@ -45,25 +54,27 @@ Installation of the same control tires as on the other wheel sets went well but 
 
 Here again, a pleasant surprise to see that those came with replacement spokes and nipples. Nice! The Roval wheels also came with a quality control sheet where the spoke tensions and the worker id were specified (apparently numbers > names in the corporate world). Being the nerd I am, I didn’t immediately mount tires and ride off into the sunset. Instead, I threw the wheels in my truing stand for inspection. Now, I’m not a wheel building expert - I simply enjoy building my own wheels - but as far as I can tell, build quality was solid - spoke tension was consistent and the wheels ran true. I am also a big fan of the very minimalistic branding on these - I prefer not to be a moving advertisement. DT Swiss, please take note!
 
-When I finally tried to mount some tires, I quickly started yelling inappropriate words. There was no way I could get the tire to seal properly. Usually this is a no-brainer with my tubeless pump (Topeak JoeBlow Booster). I simply remove the valve core, pump up the container of my pump, add a little bit of soapy water to the sidewalls of the tire if I feel funny and let the air boost seat the tire. With the Roval Traverse SL wheels, I failed miserably. The issue was not the rim-tire interface but the damn valve.
 
-![Proprietary tubeless valve](/assets/Valve-min.jpeg)
-*This proprietary valve caused me a lot of troubles.*
-
-Specialized designed a proprietary valve for their carbon wheels. Instead of a locknut, the valve threads directly into the rim. It’s a clever way to save a few grams, and you can still run a traditional tubeless valve if you want. However, the presta valve body is tapered towards the top and that meant neither my pump nor a friend’s Bontrager tubeless pump could form an airtight seal with the valve core removed This is a real design flaw in my opinion - and one that could easily be fixed in a future version. An air compressor finally did the trick.
-
-![DT Swiss 240 EXP Classic hubs](/assets/Hub-min.jpeg)
-*Reliable and lightweight DT Swiss 240 EXP Classic hubs.*
+![Roval Traverse SL II](/assets/trioofwheels/DSC02721b.jpeg)
+*I'm a fan of the understated branding on the Roval Traverse SL II.*
 ![Packaging content](/assets/Accessories-min.jpeg)
 *Kudos for including replacement spokes and nipples.*
-![Front wheel weight](/assets/WeightFront-min.jpeg)
-*Front wheel weight comes in at 774g (valve and rim tape included).*
-![Back wheel weight](/assets/WeightBack-min.jpeg)
-*Back wheel weight comes in at 887g (valve and rim tape included).*
+![Proprietary tubeless valve](/assets/trioofwheels/DSC02715.jpeg)
+*This proprietary valve caused me a lot of troubles.*
+
+When I finally tried to mount some tires, I quickly started yelling inappropriate words. There was no way I could get the tire to seal properly. Usually this is a no-brainer with my tubeless pump (Topeak JoeBlow Booster). I simply remove the valve core, pump up the container of my pump, add a little bit of soapy water to the sidewalls of the tire if I feel funny and let the air boost seat the tire. With the Roval Traverse SL wheels, I failed miserably. The issue was not the rim-tire interface but the damn valve.
+
+Specialized designed a proprietary valve for their carbon wheels. Instead of a locknut, the valve threads directly into the rim. It’s a clever way to save a few grams, and you can still run a traditional tubeless valve if you want. However, the presta valve body is tapered towards the top and that meant neither my pump nor a friend’s Bontrager tubeless pump could form an airtight seal with the valve core removed This is a real design flaw in my opinion - and one that could easily be fixed in a future version. An air compressor finally did the trick.
 
 ### The control rim: DT Swiss XM 481
 
 Those are currently my do-it-all rims I use for my wheel builds. The wheel set used here as a baseline is already 3 years old but is still going strong. Apparently the successor of the XM 481 rim is right around the corner and is in fact already available as part of the complete XM 1700 wheel set. It will also feature offset holes.
+
+![DT Swiss XM 481](/assets/trioofwheels/DSC02719b.jpeg)
+*True and trusted DT Swiss XM 481 rims served as a baseline for this experiment.*
+![Tubeless valve](/assets/trioofwheels/DSC02717.jpeg)
+*I prefer this version of the DT Swiss tubeless valve.*
+
 
 ## Fantastic plastic?
 
@@ -99,7 +110,17 @@ The chunkier the terrain got, the more it became clear, that I like to have some
 
 Many people will claim that carbon rims are stronger and need less maintenance than aluminum rims. I might just not ride hard enough, but I've never really had bigger issues with my aluminum wheels. The only occasions, where I have dented rims were mechanic or rider error: Not enough pressure in the tires or hitting a sharp rock hard on a landing. Even in those cases, I was always able to bend the wall back and continue riding those rims without issues. From time to time I might bend a spoke due to a stick finding its way into the wheels, which is quickly repaired by replacing the spoke. But that's it. I own two sets of wheels with XM 481 rims: One is 7 years old, the other 3.
 
-The two carbon wheel sets compared here are both about a year old. I've had two issues on the Roval Traverse SL II this year. In late spring, a spoke snapped in two pieces while riding, probably due to a stick. Interestingly, I have never had a spoke snap in two pieces like this bladed one. The butted ones I use on my wheel builds have until today only been bent by sticks. I could easily finish the ride with one spoke less and replace it back home (thanks again Roval for including replacement spokes and nipples). The second issue was more severe. I overshot a drop and landed too deep. This was almost 3 meters to flat and I remember the scene very clearly. When you realize, that you fucked up badly, time seems to slow down mid-air. I was pretty sure, that this was the end of my riding season. Somehow, I managed to not fall over the bars on impact and heard 3 loud cracks upon landing in the rear. Luckily I only bruised my right ankle from the impact but seemed fine otherwise. The rear wheel was less good. It had solid cracks side-to-side on three spots and around a third of the spokes had snapped. Interestingly, the tire did not seem to have pinch-flatted. I am absolutely not blaming the wheel here, because (a) this was absolutely outside the wheel's intended purpose and (b) I think that any of the 3 wheels might not have survived this.
+The two carbon wheel sets compared here are both about a year old. I've had two issues on the Roval Traverse SL II this year. In late spring, a spoke snapped in two pieces while riding, probably due to a stick. Interestingly, I have never had a spoke snap in two pieces like this bladed one. The butted ones I use on my wheel builds have until today only been bent by sticks. I could easily finish the ride with one spoke less and replace it back home (thanks again Roval for including replacement spokes and nipples). 
+
+![Snapped spoke](/assets/trioofwheels/DSC01009.jpeg)
+*Can you spot the snapped spoke?.*
+
+The second issue was more severe. I overshot a drop and landed too deep. This was almost 3 meters to flat and I remember the scene very clearly. When you realize, that you fucked up badly, time seems to slow down mid-air. I was pretty sure, that this was the end of my riding season. Somehow, I managed to not fall over the bars on impact and heard 3 loud cracks upon landing in the rear. Luckily I only bruised my right ankle from the impact but seemed fine otherwise. The rear wheel was less good. It had solid cracks side-to-side on three spots and around a third of the spokes had snapped. Interestingly, the tire did not seem to have pinch-flatted. I am absolutely not blaming the wheel here, because (a) this was absolutely outside the wheel's intended purpose and (b) I think that any of the 3 wheels might not have survived this.
+
+![Destroyed carbon rim](/assets/trioofwheels/DSC02658.jpeg)
+*Blame the rider for poorly judging take-off speed. Luckily my ankle looked less bad.*
+![Destroyed carbon rim](/assets/trioofwheels/DSC02649.jpeg)
+*The drop where I misjudged my speed. I landed on the flat which you cannot see in the picture.*
 
 ## Happy place
 
