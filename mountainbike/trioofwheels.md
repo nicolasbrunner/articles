@@ -100,7 +100,7 @@ The wheels also performed very well on the meandering trail that followed. This 
 The Swiss Jura also features rockier and more technical terrain. One of the trails is especially nasty. It's not the most technical one, but it's littered with weird sharp rocks pointing in all directions, making it difficult to hold a line and not being thrown around. Typically speed is your friend here. High-Pivot Bikes for example perform very well in this sort of terrain. Unfortunately, this day I had trouble finding flow on the Roval wheels. Fatigue set in faster than usual, and holding a line took noticeably more effort. The rims felt less compliant and I struggled more to find grip and not being bounced around.
 
 ![Descending on the Roval wheelset](/assets/trioofwheels/DSC00476.jpeg)
-*On trails with rocks trying you to bounce from side to side, I struggle more to hold a line on the Roval wheels.*
+*On trails with rocks trying to bounce you from side to side, I struggle more to hold a line on the Roval wheels.*
 
 Now, I sometimes also get this sensation when riding the same trail on my aluminum rims. Some days, you just haven't slept well or are suffering from a wandering mind. However, since this initial ride, I have come back multiple times on different days with the Roval wheels and never felt very happy with their performance in this kind of terrain.
 
