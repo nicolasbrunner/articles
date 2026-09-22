@@ -104,7 +104,7 @@ The Swiss Jura also features rockier and more technical terrain. One of the trai
 
 Now, I sometimes also get this sensation when riding the same trail on my aluminum rims. Some days, you just haven't slept well or are suffering from a wandering mind. However, since this initial ride, I have come back multiple times on different days with the Roval wheels and never felt very happy with their performance in this kind of terrain.
 
-![Descending on the Roval wheelset](/assets/trioofwheels/DSC08273.jpeg)
+![Descending on the Roval wheelset](/assets/trioofwheels/DSC08237.jpeg)
 *On rocks aligned perfectly for a straight line, I did not notice major differences between the wheelsets.*
 
 Thankfully, they continued to perform beautifully on smoother, loamier terrain. I was also happy riding them on slower, steeper and more technical terrain, where I didn’t notice any major difference from my aluminum setup. They also tracked well through corners and felt good on medium sized jumps.
@@ -116,7 +116,7 @@ After a few weeks of riding on the Roval wheels, it was time to switch things up
 Many of the good traits that the Roval wheels have can also be found on the XMC 320 wheels. They are exciting to ride in terrain with lots of short punchy climbs. And they are equally fun and precise to ride on flowier trails.
 
 ![Descending on the DT Swiss XMC 320](/assets/trioofwheels/DSC02087.jpeg)
-*Good times on the XMC 320 wheels, even if I forget my sunglasses.*
+*Good times on the XMC 320 wheels, even when forgetting your sunglasses.*
 
 However they feel noticeably less harsh and fatiguing on rocky and rooty terrain to me. The ride feel they offer in those situations is closer to the XM 481 aluminum wheel, which is a good thing. Less bouncing around and easier to stick to your line as a result. Obviously, there are stronger and faster riders out there that might feel different.
 
@@ -137,7 +137,7 @@ Many people will claim that carbon rims are stronger and need less maintenance t
 The two carbon wheel sets compared here are both about a year old. I've had two issues on the Roval Traverse SL II this year. In late spring, a spoke snapped in two pieces while riding, probably due to a stick. Interestingly, I have never had a spoke snap in two pieces like this bladed one. The butted ones I use on my wheel builds have until today only been bent by sticks. I could easily finish the ride with one spoke less and replace it back home (thanks again Roval for including replacement spokes and nipples). 
 
 ![Snapped spoke](/assets/trioofwheels/DSC01009.jpeg)
-*Can you spot the snapped spoke?.*
+*Can you spot the snapped spoke?*
 
 The second issue was more severe. I overshot a drop and landed too deep. This was almost 3 meters to flat and I remember the scene very clearly. When you realize, that you fucked up badly, time seems to slow down mid-air. I was pretty sure, that this was the end of my riding season. Somehow, I managed to not fall over the bars on impact and heard 3 loud cracks upon landing in the rear. Luckily I only bruised my right ankle from the impact but seemed fine otherwise. The rear wheel was less good. It had solid cracks side-to-side on three spots and around a third of the spokes had snapped. Interestingly, the tire did not seem to have pinch-flatted. I am absolutely not blaming the wheel here, because (a) this was absolutely outside the wheel's intended purpose and (b) I think that any of the 3 wheels might not have survived this.
 
@@ -159,26 +159,6 @@ On chunkier terrain, I'd pick either the XMC 320 or the XM 481. They offer more 
 For the sake of experiment, I have also tried all wheel sets on my Kona Honzo Hardtail and two of them on a friend's Yeti ARC. No surprises: The radial harshness is even more pronounced without rear suspension.
 
 Obviously, for your riding style and terrain, you might come to entirely different conclusions. Happy experimenting!
-
-
-![Climbing on the Roval wheelset](/assets/Climbing-min.jpeg)
-*Fast acceleration when climbing is on the menu.*
-
-![Descending on the Roval wheelset](/assets/Descending2-min.jpeg)
-![Descending on the Roval wheelset](/assets/BuiltFlow.jpeg)
-*Enjoying the Roval wheels on a smoother trail...*
-![Descending on the Roval wheelset](/assets/Descending1-min.jpeg)
-*... but not so much when the trail becomes chunkier*
-
-
-![Climbing on the Roval wheelset](/assets/BackToBackTesting-min.jpeg)
-*Heading out for back-to-back testing.*
-
-
-
-![Climbing on the Roval wheelset](/assets/Meandering.jpeg)
-*Lots of fun and fast acceleration in meandering terrain.*
-
 
 ## About the author
 
