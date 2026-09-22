@@ -95,7 +95,7 @@ My first ride on the Roval Traverse SL II was on one of my favorite summer loops
 The wheels also performed very well on the meandering trail that followed. This was a typical XC trail with lots of short peppy climbs and flowy loamy descents. Acceleration felt snappier and they hold the line well. The culmination of this loop is a descent through a natural canyon with lots of hand-built features. It's a natural halfpipe with drops, jumps and high-speed turns. Here again: No complaints, the wheels went where I wanted them to go.
 
 ![Descending on the Roval wheelset](/assets/BuiltFlow.jpeg)
-*Enjoying the Roval wheels on our a smoother trail.*
+*Enjoying the Roval wheels on a smoother trail.*
 
 The Swiss Jura also features rockier and more technical terrain. One of the trails is especially nasty. It's not the most technical one, but it's littered with weird sharp rocks pointing in all directions, making it difficult to hold a line and not being thrown around. Typically speed is your friend here. High-Pivot Bikes for example perform very well in this sort of terrain. Unfortunately, this day I had trouble finding flow on the Roval wheels. Fatigue set in faster than usual, and holding a line took noticeably more effort. The rims felt less compliant and I struggled more to find grip and not being bounced around.
 
