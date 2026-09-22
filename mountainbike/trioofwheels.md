@@ -80,7 +80,7 @@ Specialized designed a proprietary valve for their carbon wheels. Instead of a l
 
 Those are currently my do-it-all rims I use for my wheel builds. The wheel set used here as a baseline is already 3 years old but is still going strong. Apparently the successor of the XM 481 rim is right around the corner and is in fact already available as part of the complete XM 1700 wheel set. It will also feature offset holes.
 
-![Spoke Tension](/assets/trioofwheels/TraverseSL.jpeg)
+![Spoke Tension](/assets/trioofwheels/XM481.jpeg)
 *No offset drilling on the XM 481 means less even spoke tensions between drive and non-drive side.*
 
 ## Fantastic plastic?
