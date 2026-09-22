@@ -38,7 +38,7 @@ The idea was to only change one variable at the time - the rim in this case - an
 The first pleasant surprise with the entry in the fancy carbon world, is that you get more add-ons. Compared to DT Swiss aluminum rims, they came with black nipples (instead of silver ones), a tubeless valve, a 10 meter roll of tubeless tape and some decal alternatives in other colors.
 
 ![DT Swiss XMC 320](/assets/trioofwheels/DSC02720b.jpeg)
-*The DT Swiss XMC 320 rims features offset hole drilling and are hookless.*
+*The DT Swiss XMC 320 rims feature offset hole drilling and are hookless.*
 ![Packaging content](/assets/trioofwheels/DSC01573.jpeg)
 *Black nipples are appreciated, though I would prefer the Squorx version for easier lacing.*
 ![Tubeless valve](/assets/trioofwheels/DSC02716.jpeg)
