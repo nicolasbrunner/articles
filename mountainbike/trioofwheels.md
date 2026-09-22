@@ -48,12 +48,12 @@ The first pleasant surprise with the entry in the fancy carbon world, is that yo
 
 The rim holes are offset, allowing you to use the same spoke length for drive/non-drive side. In theory the ideal spoke length calculated in the [DT Swiss online tool]( https://spokes-calculator.dtswiss.com/en/) is 1mm different but I decided to use the same length, making the build process and replacement spokes inventory easier to manage. More importantly, this allows for more even spoke tensions. The build process itself went very smooth and I found truing less finicky than with the XM 481 rims. I'm unsure if this is due to the more even spoke tension or to the carbon rim. Spoke tension was kept a bit lower than on aluminum builds in the hope to improve the compliance of the wheel.
 
+![Spoke Tension](/assets/trioofwheels/XMC320.jpeg)
+*Offset rim allows for almost even tensions between drive and non-drive side spokes. Nice!*
+
 Installation of the same control tires as on the other wheel sets went well but needed slightly more effort than on the DT Swiss XM 481 rims. I'm speculating here, but part of the reason might lie in the hookless design of the XMC 320 rims.
 
 ### Roval Traverse SL II wheels
-
-Here again, a pleasant surprise to see that those came with replacement spokes and nipples. Nice! The Roval wheels also came with a quality control sheet where the spoke tensions and the worker id were specified (apparently numbers > names in the corporate world). Being the nerd I am, I didn’t immediately mount tires and ride off into the sunset. Instead, I threw the wheels in my truing stand for inspection. Now, I’m not a wheel building expert - I simply enjoy building my own wheels - but as far as I can tell, build quality was solid - spoke tension was consistent and the wheels ran true. I am also a big fan of the very minimalistic branding on these - I prefer not to be a moving advertisement. DT Swiss, please take note!
-
 
 ![Roval Traverse SL II](/assets/trioofwheels/DSC02721b.jpeg)
 *I'm a fan of the understated branding on the Roval Traverse SL II.*
@@ -62,19 +62,26 @@ Here again, a pleasant surprise to see that those came with replacement spokes a
 ![Proprietary tubeless valve](/assets/trioofwheels/DSC02715.jpeg)
 *This proprietary valve caused me a lot of troubles.*
 
+Here again, a pleasant surprise to see that those came with replacement spokes and nipples. Nice! The Roval wheels also came with a quality control sheet where the spoke tensions and the worker id were specified (apparently numbers > names in the corporate world). Being the nerd I am, I didn’t immediately mount tires and ride off into the sunset. Instead, I threw the wheels in my truing stand for inspection. Now, I’m not a wheel building expert - I simply enjoy building my own wheels - but as far as I can tell, build quality was solid - spoke tension was consistent and the wheels ran true. I am also a big fan of the very minimalistic branding on these - I prefer not to be a moving advertisement. DT Swiss, please take note!
+
+![Spoke Tension](/assets/trioofwheels/TraverseSL.jpeg)
+*Traverse SL rims are also offset allowing for almost even tensions. Build quality is solid.*
+
 When I finally tried to mount some tires, I quickly started yelling inappropriate words. There was no way I could get the tire to seal properly. Usually this is a no-brainer with my tubeless pump (Topeak JoeBlow Booster). I simply remove the valve core, pump up the container of my pump, add a little bit of soapy water to the sidewalls of the tire if I feel funny and let the air boost seat the tire. With the Roval Traverse SL wheels, I failed miserably. The issue was not the rim-tire interface but the damn valve.
 
 Specialized designed a proprietary valve for their carbon wheels. Instead of a locknut, the valve threads directly into the rim. It’s a clever way to save a few grams, and you can still run a traditional tubeless valve if you want. However, the presta valve body is tapered towards the top and that meant neither my pump nor a friend’s Bontrager tubeless pump could form an airtight seal with the valve core removed This is a real design flaw in my opinion - and one that could easily be fixed in a future version. An air compressor finally did the trick.
 
 ### The control rim: DT Swiss XM 481
 
-Those are currently my do-it-all rims I use for my wheel builds. The wheel set used here as a baseline is already 3 years old but is still going strong. Apparently the successor of the XM 481 rim is right around the corner and is in fact already available as part of the complete XM 1700 wheel set. It will also feature offset holes.
-
 ![DT Swiss XM 481](/assets/trioofwheels/DSC02719b.jpeg)
 *True and trusted DT Swiss XM 481 rims served as a baseline for this experiment.*
 ![Tubeless valve](/assets/trioofwheels/DSC02717.jpeg)
 *I prefer this version of the DT Swiss tubeless valve.*
 
+Those are currently my do-it-all rims I use for my wheel builds. The wheel set used here as a baseline is already 3 years old but is still going strong. Apparently the successor of the XM 481 rim is right around the corner and is in fact already available as part of the complete XM 1700 wheel set. It will also feature offset holes.
+
+![Spoke Tension](/assets/trioofwheels/TraverseSL.jpeg)
+*No offset drilling on the XM 481 means less even spoke tensions between drive and non-drive side.*
 
 ## Fantastic plastic?
 
