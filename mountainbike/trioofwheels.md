@@ -25,7 +25,7 @@ The idea was to only change one variable at the time - the rim in this case - an
 
 | | DT Swiss XM 481 29 | DT Swiss XMC 320 29 | Roval Traverse SL II 29 |
 | ----------- | ----------- | ----------- | ----------- |
-| Rim weight | 553g | 454g | - |
+| Rim weight | 553g | 454g | unknown |
 | Spokes | DT Swiss Competition Race (J-Bend) | DT Swiss Competition Race (J-Bend) | DT Swiss Aerolite Spokes (J-Bend) |
 | Nipples | Sapim Polyax Square Alu | Sapim Polyax Square Alu | DT Standard Alu |
 | Washers | DT Swiss | - | - |
