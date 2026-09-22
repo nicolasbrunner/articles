@@ -9,7 +9,7 @@ This is a story about my attempts at turning my trail bike into a XC-rocket on t
 
 Ever since I got a kid, I started to grow an aversion against anything plastic. See, every time we go to the toy library ("Ludothek" is the very nice german word for it) he is magically drawn to those shiny plastic toys and ignores the "beautiful" wooden toys. Now, this is fine and I don't try to influence him. Still, the old man inside me grumbles at the toy industry. Those plastic toys will eventually break and end up as food for our maritime friends. And yes, of course LEGO is an exception.
 
-Speaking of the toy industry, this raises a dilemna I face for the adult toys we all love so much.
+Speaking of the toy industry, this raises a dilemma I face for the adult toys we all love so much.
 
 Those toys have become a lot heavier over the years and they might become even portlier now that there's a new wheel size around the block. On one hand this is great news, since they will break less often and generally last longer. Yet, it also means pedaling or throwing around more heft.
 
@@ -17,7 +17,7 @@ Building an aggressive short-travel bike is all about compromise: Making it as l
 
 I’ve mostly tried shaving weight on the unsprung side [by reducing the number and thickness of spokes](https://nsmb.com/articles/nerding-out-on-spoke-count/) and by [going back in time on the drivetrain side](https://nsmb.com/articles/back-to-the-future-drivetrain-edition/). But until now, I have always stuck to aluminium rims. I’ve never had issues with them, like the ride feel they offer and can repair them if damaged. 
 
-You can probably guess where this is heading by now. I finally decided to throw my principles over board and jump into the very expensive rabbit hole of carbon rims. In my best-case fantasy, they’d make me climb like Nino Schurter while still offering a similar ride feel to aluminum on the downs.
+You can probably guess where this is heading by now. I finally decided to throw my principles over board and jump into the very expensive rabbit hole of carbon rims. In my best-case fantasy, they’d make me climb like good old Nino while still offering a similar ride feel to aluminum on the downs.
 
 ## When the dopamine rush takes over - buying two sets of carbon rims
 
@@ -85,7 +85,7 @@ Those are my do-it-all rims for wheel builds since quite some time. The wheel se
 
 ## Riding Impressions
 
-Let's put the number nerdery aside and jump to the heart of this experiment: How was the ride quality?
+Let's put the number crunching aside and jump to the heart of this experiment: How is the ride quality?
 
 My first ride on the **Roval Traverse SL II** was on one of my favorite summer loops. It starts with a longish fire road climb. Here, the difference was noticeable: Keeping momentum felt a bit easier. Comparable to those days where your legs feel completely fresh. A promising start! 
 
@@ -107,7 +107,7 @@ Now, this sensation is not unknown when riding the same trail on my aluminum rim
 ![Descending on the Roval wheelset](/assets/trioofwheels/DSC08237.jpeg)
 *On rocks aligned perfectly for straight-lining, the differences are more nuanced.*
 
-Thankfully, they continued to perform beautifully on smoother, loamier terrain. I was also happy riding them on slower, steeper and more technical terrain, where I didn’t notice any major difference from my aluminum setup. They also tracked well through corners and felt good on medium sized jumps.
+Thankfully, they continued to perform beautifully on smooth, loamy terrain. I was also happy riding them on slower, steeper and more technical terrain, where I didn’t notice any major difference from my aluminum setup. They also tracked well through corners and felt good on medium sized jumps.
 
 A small gripe, is that my brakes tend to start howling sooner on them than on other wheels. On one of the rather steep descents I have on my backdoor trails, the other two wheels will typically  howl only for a very brief amount of time where braking forces are highest. The Roval's start howling sooner and for a longer stretch of trail. I have no idea, where this comes from.
 
@@ -124,9 +124,9 @@ This was a bit of a surprise to me, and I guess carbon is not equal carbon. Mayb
 
 Being the nerd I am, I wanted to confirm my impressions (is someone shouting confirmation bias?) with some back-to-back test laps.
 
-I headed out to the woods heavily loaded. One wheelset on the bike, the other two on our kids bike trailer. The lap I chose consisted of around 150m of elevation gain on a fire road, followed by a fast mellow trail that leads into a steep natural section with lots of roots and rocks. I did two laps on each wheelset, alternating after each round.
+I headed out to the woods heavily loaded. One wheel set on the bike, the other two on our kids bike trailer. The lap I chose consisted of around 150m of elevation gain on a fire road, followed by a fast mellow trail that leads into a steep natural section with lots of roots and rocks. I did two laps on each wheel set, alternating after each round.
 
-On the fireroad climbs, the difference was less obvious than I expected and remembered from other rides. Yes, the aluminum wheels felt like a bit more effort was needed to keep momentum, but it wasn't a night-and-day difference. The effect was more pronounced on short steep climbs. For the fast and mellow trail, I preferred the two carbon rim wheelsets. They just felt a touch faster to move the bike around under you when throwing it from one side to the other.
+On the fire road climbs, the difference was less obvious than I expected and remembered from other rides. Yes, the aluminum wheels felt like a bit more effort was needed to keep momentum, but it wasn't a night-and-day difference. The effect was more pronounced on short steep climbs. For the fast and mellow trail, I preferred the two carbon rim wheel sets. They just felt a touch faster to move the bike around under you when throwing it from one side to the other.
 
 The chunkier the terrain got, the more it became clear, that I like to have some flex in my wheels. The XM 481 and XMC 320 performed best on this part of the trail. Part of the reason why the XMC 320 offers such a compliant ride, might also be in the slightly lower spoke tension I chose when building them up. The difference between the Roval wheels and the other two in terms of compliance was a bit like riding conventional tires versus radial tires.
 
@@ -154,14 +154,13 @@ The best rides are always the ones where you become one with everything, not thi
 
 I still don't know if the differences I felt are more related to the rims themselves or to the spokes and/or lacing pattern. However, I learnt, that there can be some significant differences in ride feel between seemingly similar products on paper.
 
-If I were mostly riding flowier and loamier trails, I'd happily ride either one of those wheels. Money being no issue, I'd pick one of the two carbon wheel options, because they are accelerating just a bit faster.
+If I were mostly riding flowy and loamy trails, I'd happily ride either one of those wheels. Money being no issue, I'd pick one of the two carbon wheel options, because they are accelerating just a bit faster.
 
 On chunkier terrain, I'd pick either the XMC 320 or the XM 481. They offer more grip and comfort without sacrificing precision. In fact, I mostly ride the XMC 320 wheel on my Scor 2030, which I usually pick on my local trails. For more alpine riding, I'll pick the XM 481 on my Transition Sentinel. I simply trust the material a bit more and my ability to repair it.
 
 For the sake of experiment, I have also tried all wheel sets on my Kona Honzo Hardtail and two of them on a friend's Yeti ARC. No surprises: The differences in compliance are even more pronounced without rear suspension.
 
-Obviously as with everything mountainbiking, you might come to entirely different conclusions for your terrain and riding style. Happy experimenting!
-
+Obviously as with everything, you might come to entirely different conclusions for your terrain and riding style. Happy experimenting!
 
 ## About the author
 
