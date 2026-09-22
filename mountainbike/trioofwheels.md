@@ -5,7 +5,7 @@ Words & Photos: **Nicolas Brunner (photos are self-shot)**
 
 This is a story about my attempts at turning my trail bike into a XC-rocket on the climbs while still being able to ride gnarly trails on it. It involves spending too much money, destroying parts and even partly myself along the way. And finally landing in some sort of a happy place in the end. Sounds entertaining? Well hang on, because it also might get a bit nerdy.
 
-![Some image](/assets/Rim-min.jpeg)
+![Some image](/assets/trioofwheels/DSC02222.jpeg)
 
 Ever since I got a kid, I started to grow an aversion against anything plastic. See, every time we go to the toy library ("Ludothek" is the very nice german word for it) he is magically drawn to those shiny plastic toys and ignores the "beautiful" wooden toys. Now, this is fine and I don't try to influence him. Still, the old man inside me grumbles at the toy industry. Those plastic toys will eventually break and end up as food for our maritime friends. And yes, of course LEGO is an exception.
 
@@ -87,11 +87,25 @@ Those are currently my do-it-all rims I use for my wheel builds. The wheel set u
 
 Let's put the number nerdery aside and jump to the heart of this experiment: How was the ride quality?
 
-My first ride on the Roval Traverse SL II was on one of my favorite summer loops. It starts with a longish fire road climb and the difference was immediate: Keeping momentum felt a bit easier, similar to those days where your legs feel completely fresh. A promising start! The wheels also performed very well on the meandering trail that followed. This was a typical XC trail with lots of short peppy climbs and flowy loamy descents. Acceleration felt snappier and they hold the line well. The culmination of this loop is a descent through a natural canyon with lots of hand-built features. It's a natural halfpipe with drops, jumps and high-speed turns. Here again: No complaints, the wheels went where I wanted them to go.
+My first ride on the Roval Traverse SL II was on one of my favorite summer loops. It starts with a longish fire road climb and the difference was immediate: Keeping momentum felt a bit easier, similar to those days where your legs feel completely fresh. A promising start! 
+
+![Climbing on the Roval wheelset](/assets/Climbing-min.jpeg)
+*Fast acceleration when climbing is on the menu.*
+
+The wheels also performed very well on the meandering trail that followed. This was a typical XC trail with lots of short peppy climbs and flowy loamy descents. Acceleration felt snappier and they hold the line well. The culmination of this loop is a descent through a natural canyon with lots of hand-built features. It's a natural halfpipe with drops, jumps and high-speed turns. Here again: No complaints, the wheels went where I wanted them to go.
+
+![Descending on the Roval wheelset](/assets/BuiltFlow.jpeg)
+*Enjoying the Roval wheels on our a smoother trail.*
 
 The Swiss Jura also features rockier and more technical terrain. One of the trails is especially nasty. It's not the most technical one, but it's littered with weird sharp rocks pointing in all directions, making it difficult to hold a line and not being thrown around. Typically speed is your friend here. High-Pivot Bikes for example perform very well in this sort of terrain. Unfortunately, this day I had trouble finding flow on the Roval wheels. Fatigue set in faster than usual, and holding a line took noticeably more effort. The rims felt less compliant and I struggled more to find grip and not being bounced around.
 
+![Descending on the Roval wheelset](/assets/trioofwheels/DSC00476.jpeg)
+*On trails with rocks trying you to bounce from side to side, I struggle more to hold a line on the Roval wheels.*
+
 Now, I sometimes also get this sensation when riding the same trail on my aluminum rims. Some days, you just haven't slept well or are suffering from a wandering mind. However, since this initial ride, I have come back multiple times on different days with the Roval wheels and never felt very happy with their performance in this kind of terrain.
+
+![Descending on the Roval wheelset](/assets/trioofwheels/DSC08273.jpeg)
+*On rocks aligned perfectly for a straight line, I did not notice major differences between the wheelsets.*
 
 Thankfully, they continued to perform beautifully on smoother, loamier terrain. I was also happy riding them on slower, steeper and more technical terrain, where I didn’t notice any major difference from my aluminum setup. They also tracked well through corners and felt good on medium sized jumps.
 
@@ -100,6 +114,9 @@ A small gripe, is that my brakes tend to start howling sooner on them than on ot
 After a few weeks of riding on the Roval wheels, it was time to switch things up and mount the wheels with the XMC 320 rims.
 
 Many of the good traits that the Roval wheels have can also be found on the XMC 320 wheels. They are exciting to ride in terrain with lots of short punchy climbs. And they are equally fun and precise to ride on flowier trails.
+
+![Descending on the DT Swiss XMC 320](/assets/trioofwheels/DSC02087.jpeg)
+*Good times on the XMC 320 wheels, even if I forget my sunglasses.*
 
 However they feel noticeably less harsh and fatiguing on rocky and rooty terrain to me. The ride feel they offer in those situations is closer to the XM 481 aluminum wheel, which is a good thing. Less bouncing around and easier to stick to your line as a result. Obviously, there are stronger and faster riders out there that might feel different.
 
@@ -111,7 +128,7 @@ I headed out to the woods heavily loaded. One wheelset on the bike, the other tw
 
 On the fireroad climbs, the difference was less obvious than I expected and remembered from other rides. Yes, the aluminum wheels felt like a bit more effort was needed to keep momentum, but it wasn't a night-and-day difference. The effect was more pronounced on short steep climbs. For the fast and mellow trail, I preferred the two carbon rim wheelsets. They just felt a touch faster to move the bike around under you when throwing it from one side to the other.
 
-The chunkier the terrain got, the more it became clear, that I like to have some vertical flex in my wheels. The XM 481 and XMC 320 performed best on this part of the trail. Part of the reason why the XMC 320 offers such a compliant ride, might also be in the slightly lower spoke tension I chose when building them up. The difference between the Roval wheels and the other two in terms of compliance was a bit like riding conventional tires versus radial tires.
+The chunkier the terrain got, the more it became clear, that I like to have some flex in my wheels. The XM 481 and XMC 320 performed best on this part of the trail. Part of the reason why the XMC 320 offers such a compliant ride, might also be in the slightly lower spoke tension I chose when building them up. The difference between the Roval wheels and the other two in terms of compliance was a bit like riding conventional tires versus radial tires.
 
 ## A word on durability
 
@@ -130,6 +147,8 @@ The second issue was more severe. I overshot a drop and landed too deep. This wa
 *The drop where I misjudged my speed. I landed on the flat which you cannot see in the picture.*
 
 ## Happy place
+
+![Riding](/assets/trioofwheels/DSC00905.jpeg)
 
 This was a very interesting experiment. I learned that carbon is not equal carbon and that there can be some significant differences between seemingly similar products on paper.
 
