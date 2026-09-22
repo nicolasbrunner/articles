@@ -15,7 +15,7 @@ Those toys have become a lot heavier over the years and they might become even p
 
 Building an aggressive short-travel bike is all about compromise. I want it as light as possible but without sacrificing too much downhill performance. Slap on faster-rolling tires and you gain speed, but lose grip and confidence.
 
-I’ve mostly tried shaving weight on the unsprung side [by reducing the number and thickness of spokes](https://nsmb.com/articles/nerding-out-on-spoke-count/) and by [going back in time on the driveside front](https://nsmb.com/articles/back-to-the-future-drivetrain-edition/). But until now I have always stuck to aluminium rims. I’ve never had issues with them and like the ride feel they offer. 
+I’ve mostly tried shaving weight on the unsprung side [by reducing the number and thickness of spokes](https://nsmb.com/articles/nerding-out-on-spoke-count/) and by [going back in time on the drivetrain side](https://nsmb.com/articles/back-to-the-future-drivetrain-edition/). But until now I have always stuck to aluminium rims. I’ve never had issues with them and like the ride feel they offer. 
 
 You can probably guess where this is heading by now. I finally decided to throw my principles over board and jump into the very expensive rabbit hole of plastic rims and decide for myself whether they really can improve my riding experience. In my best-case fantasy, they’d make me climb like Nino Schurter while still offering a similar ride feel to aluminum on the downs.
 
