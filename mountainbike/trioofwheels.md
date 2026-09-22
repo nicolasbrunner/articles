@@ -3,7 +3,7 @@
 ![Three different wheels](/assets/trioofwheels/DSC02723.jpeg)
 Words & Photos: **Nicolas Brunner (photos are self-shot)**
 
-This is a story about my attempts at turning my trail bike into a XC-rocket on the climbs while still being able to ride gnarly trails on it. It involves spending too much money, destroying parts and even partly myself along the way. And finally landing in some sort of a happy place in the end. Sounds entertaining? Well hang on, because this will also get a bit nerdy.
+This is a story about my attempts at turning my trail bike into a XC-rocket on the climbs while still being able to ride gnarly trails on it. It involves spending too much money, destroying parts and even partly myself along the way. All while landing in some sort of a happy place in the end. Sounds entertaining? Well hang on, because this will also get a bit nerdy.
 
 ![Some image](/assets/trioofwheels/DSC02222.jpeg)
 
