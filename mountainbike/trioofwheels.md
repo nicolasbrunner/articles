@@ -148,9 +148,9 @@ The second issue was more severe. I overshot a drop and landed too deep. This wa
 
 ## Happy place
 
-![Riding](/assets/trioofwheels/DSC00905.jpeg)
-
 The best rides are always the ones where you become one with everything, not thinking about the terrain or material. Luckily I've had many moments like these on all three wheel sets.
+
+![Riding](/assets/trioofwheels/DSC00905.jpeg)
 
 I still don't know if the differences I felt are more related to the rims themselves or to the spokes and/or lacing pattern. However, I learnt, that there can be some significant differences in ride feel between seemingly similar products on paper.
 
