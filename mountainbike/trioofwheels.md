@@ -7,15 +7,9 @@ This is a story about my attempts at turning my trail bike into a XC-rocket on t
 
 ![Some image](/assets/trioofwheels/DSC02222.jpeg)
 
-Ever since I got a kid, I started to grow an aversion against anything plastic. See, every time we go to the toy library ("Ludothek" is the very nice german word for it) he is magically drawn to those shiny plastic toys and ignores the "beautiful" wooden toys. Now, this is fine and I don't try to influence him. Still, the old man inside me grumbles at the toy industry. Those plastic toys will eventually break and end up as food for our maritime friends. And yes, of course LEGO is an exception.
-
-Speaking of the toy industry, this raises a dilemma I face for the adult toys we all love so much.
-
-Those toys have become a lot heavier over the years and they might become even portlier now that there's a new wheel size around the block. On one hand this is great news, since they will break less often and generally last longer. Yet, it also means pedaling or throwing around more heft.
-
 Building an aggressive short-travel bike is all about compromise: Making it as light as possible without sacrificing too much downhill performance. Slap on faster-rolling tires and you gain speed, but lose grip and confidence.
 
-I’ve mostly tried shaving weight on the unsprung side [by reducing the number and thickness of spokes](https://nsmb.com/articles/nerding-out-on-spoke-count/) and by [going back in time on the drivetrain side](https://nsmb.com/articles/back-to-the-future-drivetrain-edition/). But until now, I have always stuck to aluminium rims. I’ve never had issues with them, like the ride feel they offer and can repair them if damaged. 
+I’ve mostly tried shaving weight on the unsprung side [by reducing the number and thickness of spokes](https://nsmb.com/articles/nerding-out-on-spoke-count/) and by [going back in time on the drivetrain side](https://nsmb.com/articles/back-to-the-future-drivetrain-edition/). But until now, I have always stuck to aluminium rims. I’ve never had issues with them, I like the ride feel they offer and I can repair them if damaged. 
 
 You can probably guess where this is heading by now. I finally decided to throw my principles over board and jump into the very expensive rabbit hole of carbon rims. In my best-case fantasy, they’d make me climb like good old Nino while still offering a similar ride feel to aluminum on the downs.
 
@@ -134,7 +128,7 @@ The chunkier the terrain got, the more it became clear, that I like to have some
 
 Many people will claim that carbon rims are stronger and need less maintenance than aluminum rims. I might just not ride hard enough, but I've never really had bigger issues with my aluminum rims. The only occasions, where I have dented rims were mechanic or rider error: Not enough pressure in the tires or hitting a sharp rock hard on a landing. Even in those cases, I was always able to bend the rim wall back and continue riding them without issues. From time to time I might bend a spoke due to a stick finding its way into the wheels, which is quickly repaired by replacing the spoke. But that's it. I currently own two sets of wheels with XM 481 rims: One is 7 years old, the other 3.
 
-The two carbon wheel sets compared here are both about a year old. No issues so far on the XMC 320 wheel. On the Roval Traverse SL II I've had two issues. In late spring, a spoke snapped in two pieces while riding, probably due to a stick. Interestingly, I have never had a spoke snap in two pieces like this bladed one. The butted ones I use on my wheel builds have until today only been bent by sticks. I could easily finish the ride with one spoke less and replace it back home. Thanks again Roval for including replacement spokes and nipples. 
+The two carbon wheel sets compared here are both about a year old. No issues so far on the XMC 320 wheel. On the Roval Traverse SL II I've had two issues. In late spring, a spoke snapped in two pieces while riding, probably due to a stick. Interestingly, I have never had a spoke snap in two pieces like this bladed one. The butted ones I use on my wheel builds have until today only been bent by sticks. Of course, breaking a spoke out on the trail is not a big issue, I could easily finish the ride with and replace it back home. Thanks again Roval for including replacement spokes and nipples. 
 
 ![Snapped spoke](/assets/trioofwheels/DSC01009.jpeg)
 *Can you spot the snapped spoke?*
@@ -156,7 +150,7 @@ I still don't know if the differences I felt are more related to the rims themse
 
 If I were mostly riding flowy and loamy trails, I'd happily ride either one of those wheels. Money being no issue, I'd pick one of the two carbon wheel options, because they are accelerating just a bit faster.
 
-On chunkier terrain, I'd pick either the XMC 320 or the XM 481. They offer more grip and comfort without sacrificing precision. In fact, I mostly ride the XMC 320 wheel on my Scor 2030, which I usually pick on my local trails. For more alpine riding, I'll pick the XM 481 on my Transition Sentinel. I simply trust the material a bit more and my ability to repair it.
+On chunkier terrain, I'd pick either the XMC 320 or the XM 481. They offer more grip and comfort without sacrificing precision. In fact, I mostly ride the XMC 320 wheel on my Scor 2030, which is my go-to bike on local trails. For more alpine riding, I'll pick the XM 481 on my Transition Sentinel. I simply trust the material a bit more and my ability to repair it.
 
 For the sake of experiment, I have also tried all wheel sets on my Kona Honzo Hardtail and two of them on a friend's Yeti ARC. No surprises: The differences in compliance are even more pronounced without rear suspension.
 
