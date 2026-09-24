@@ -7,7 +7,7 @@ This is a story about my attempts at turning my trail bike into a XC-rocket on t
 
 ![Some image](/assets/trioofwheels/DSC02222.jpeg)
 
-Building an aggressive short-travel bike is all about compromise: Making it as light as possible without sacrificing too much downhill performance. Slap on faster-rolling tires and you gain speed, but lose grip and confidence.
+Building an aggressive short-travel bike is all about compromises: Making it as light as possible without sacrificing too much downhill performance. Slap on faster-rolling tires and you gain speed, but lose grip and confidence.
 
 I’ve mostly tried shaving weight on the unsprung side [by reducing the number and thickness of spokes](https://nsmb.com/articles/nerding-out-on-spoke-count/) and by [going back in time on the drivetrain side](https://nsmb.com/articles/back-to-the-future-drivetrain-edition/). But until now, I have always stuck to aluminium rims. I’ve never had issues with them, I like the ride feel they offer and I can repair them if damaged. 
 
