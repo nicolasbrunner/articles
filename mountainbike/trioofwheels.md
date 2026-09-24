@@ -11,7 +11,7 @@ Building an aggressive short-travel bike is all about compromises: Making it as 
 
 I’ve mostly tried shaving weight on the unsprung side [by reducing the number and thickness of spokes](https://nsmb.com/articles/nerding-out-on-spoke-count/) and by [going back in time on the drivetrain side](https://nsmb.com/articles/back-to-the-future-drivetrain-edition/). But until now, I have always stuck to aluminium rims. I’ve never had issues with them, I like the ride feel they offer and I can repair them if damaged. 
 
-You can probably guess where this is heading by now. I finally decided to throw my principles over board and jump into the very expensive rabbit hole of carbon rims. In my best-case fantasy, they’d make me climb like good old Nino while still offering a similar ride feel to aluminum on the downs.
+You can probably guess where this is heading by now. I finally decided to throw my principles over board and jump into the very expensive rabbit hole of carbon rims. In my best-case fantasy, they’d make me climb like good old Nino, offer a similar ride feel to aluminum on the downs and not end as food for our maritime friends anytime soon.
 
 ## When the dopamine rush takes over - buying two sets of carbon rims
 
