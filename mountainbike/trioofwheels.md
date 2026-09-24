@@ -72,7 +72,7 @@ Specialized designed a proprietary valve for their carbon wheels. Instead of a l
 ![Tubeless valve](/assets/trioofwheels/DSC02717.jpeg)
 *I prefer this version of the DT Swiss tubeless valve.*
 
-Those are my do-it-all rims for wheel builds since quite some time. The wheel set used as a baseline in this experiment is already 3 years old but still going strong. The successor of the XM 481 rim is right around the corner and already available as part of the complete XM 1700 wheel set. It does also feature offset holes.
+Those are my do-it-all rims for wheel builds since quite some time. The wheel set used as a baseline in this experiment is already 3 years old but still going strong. DT Swiss announced its successor just a few days ago. It does also feature offset holes.
 
 ![Spoke Tension](/assets/trioofwheels/XM481.jpeg)
 *No offset drilling on the XM 481 means less even spoke tensions between drive and non-drive side.*
