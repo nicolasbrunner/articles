@@ -8,8 +8,8 @@ This repo contains articles written by me on various subjects of personal intere
 * [Back to the future - drivetrain version](mountainbike/backtothefuturedrivetrain.md) - published on [NSMB](https://nsmb.com/articles/back-to-the-future-drivetrain-edition/)
 * [DIY Frame Wrap](mountainbike/diyframewrap.md) - published on [NSMB](https://nsmb.com/articles/diy-frame-wrap/)
 * [Re-discovering mountainbiking from a photographer's perspective](mountainbike/selfshooting.md) published on [NSMB](https://nsmb.com/articles/rediscovering-mountainbiking-through-photography/)
-* [Get a Grip - Schwalbe Radial tires reviewed](mountainbike/getagrip.md) - published on [NSMB](https://nsmb.com/articles/get-a-grip/)
 * [Embracing the unknown](mountainbike/embracingtheunknown.md) - published on [NSMB](https://nsmb.com/articles/embracing-the-unknown/)
+* [A trio of wheels](mountainbike/trioofwheels.md) - published on [NSMB](https://nsmb.com/articles/a-trio-of-wheels/)
 
 ## Technology
 * [Apple Security Bounty: A personal experience](https://medium.com/macoclock/apple-security-bounty-a-personal-experience-fe9a57a81943)
