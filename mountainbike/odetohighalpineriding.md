@@ -59,7 +59,7 @@ With the peak just a few steps away, I start experiencing an overwhelming feelin
 
 And then there’s obviously the cherry on top: The descent. The excitement that the less fun part is behind us and that we’re about to descend 3000 vertical meters of epic singletrack is hard to describe. This thrill of anticipation is paired with some respect for the technicality of the terrain. There are days where I’ll easily find my flow and days where I’ll struggle a bit more to get into the zone. Being in such remote places always means, that I’m not riding on my limit and that I keep speeds low. Not having to worry about your friends either and trusting them to judge their abilities is essential.
 
-![Riding in the alps](/assets/odehighalpine/DSC03940.jpeg)
+![Riding in the alps](/assets/odehighalpine/DSC03951.jpeg)
 *Dropping in for a long descent.*
 
 Today the terrain will change quite a bit from top to bottom. We’re starting in a steepish rocky scree slope, playing with our brakes and finding the balance between our tires not washing out under us and keeping speed in check. Since we’re not exactly Gee Atherton, it’s more about the joy of riding in such landscapes than the riding experience itself. The terrain is not very exposed today, but we still don’t want to fall in this steep rocky terrain.
