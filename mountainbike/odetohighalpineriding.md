@@ -1,8 +1,8 @@
 # An Ode to High Alpine Riding
 
 ![Material needed to wrap your bike frame](/assets/odehighalpine/DSC04106.jpeg)
-Words & Photos: *Nicolas Brunner *
-Rider: *Reto Kurmann *
+Words & Photos: **Nicolas Brunner**
+Rider: **Reto Kurmann**
 
 Mountainbiking season in the Alps climaxes very high during the last beautiful fall days. Those days where the colours of nature are the most intense with yellow, orange and even red tones. The skies are very clear and the air is fresh but does not make you freeze. And the mountains are not yet covered with heavy piles of snow. Those days, are simply put the best days of the riding season.
 
