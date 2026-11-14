@@ -8,8 +8,8 @@ Mountainbiking season in the Alps climaxes very high during the last beautiful f
 
 As I’m writing this, I’m on the train bringing me back home from an unforgettable riding day. It’s already dark outside and from time to time you can see the lights from our civilization passing by. I just had a beer together with a friend, soaking in memories and sharing emotions that we experienced during the last 12 hours. He’s now happily simmering away while I enjoy the silence to bring my thoughts to paper.
 
-![Mate and glossy tape of choice](/assets/diyframewrap/TODO_map.jpeg)
-*Preparing adventures for the next year*
+![Swiss Topo Map](/assets/odehighalpine/Screenshot.png)
+*Preparing adventures for the next year. Swiss Topo Maps for the win.*
 
 A day like today typically starts the winter before. When the early darkness of the night makes me stay at home in the evenings, I will sit in front of my computer looking at maps, photographs and reports from hiking forums. Sometimes, the topography and terrain drawn on a map will draw my attention and spark my imagination. It’s always hard to tell if a trail or terrain is rideable just by looking at a map or photographs. But it can catch my curiosity to go out there and see if it’s a great riding experience.
 
