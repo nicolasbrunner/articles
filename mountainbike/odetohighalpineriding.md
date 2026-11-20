@@ -19,6 +19,9 @@ So, during those long winter nights, I will collect ideas, take notes and prepar
 
 With a handful of ideas in my back pocket, we will block a few days in our calendar, where we could set out for adventure if the weather forecast is looking good a few days ahead. Higher up in altitude, it’s not just about sunshine and temperature, wind can become a huge factor too. Just as the exposition of a mountain does as well. If everything is looking good a few days ahead, it’s time to book the train and bus tickets for us and our bikes. Yes, we are very lucky with the public transport system in Switzerland. Don’t tell everyone, but there is basically a bus route up to every pass and valley. You could also call it a public shuttle system for cyclists. Apart from the environmental advantages of not having to rely on a car, there’s also the benefit of not limiting your route to end where it started.
 
+![Mountainbikes on a Swiss Train](/assets/odehighalpine/IMG_9965.jpeg)
+*Bike Shuttling Swiss Style.*
+
 I prefer to keep group size small. Just me and a dear friend that shares the same passion is best. With a bigger group you are slower and it’s harder to take decisions that work for everyone.. When preparing our packs, we will align and make sure not to carry equipment twice. Typically this means that my friend will carry repair and first-aid equipment while I bring the camera along.
 
 This particular morning, we are eating our breakfast in the train and discussing the route options. Then, we take the bus up a small valley. The bus is crowded with hikers looking to enjoy this beautiful autumn day. After an hour, we reach the end of the valley and heft our bikes from the rack on the back of the bus. As the sun has not yet touched the valley floor this morning, we are quite happy to pedal a bit. 
