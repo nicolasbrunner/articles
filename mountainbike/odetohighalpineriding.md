@@ -1,6 +1,6 @@
 # An Ode to High Alpine Riding
 
-![Material needed to wrap your bike frame](/assets/odehighalpine/DSC04106.jpeg)
+![Riding in the alps](/assets/odehighalpine/DSC04106.jpeg)
 Words & Photos: **Nicolas Brunner**
 Rider: **Reto Kurmann**
 
@@ -31,7 +31,7 @@ By the time the sun appears and starts to warm our bodies, we are already above 
 ![Easy uphill trail 1](/assets/odehighalpine/DSC03876.jpeg)
 *Rideable uphill sections are not the norm in the alps.*
 ![Easy uphill trail 2](/assets/odehighalpine/DSC03892.jpeg)
-*Especially not if they're so smooth as today, that there's enough time to soak in the landscapes.*
+*But today we got lucky and there's even enough time to soak in the landscapes.*
 
 After a few hours, we reach a mountain hut. There are many high mountain “bewirtet” huts like this in the Alps. Most of them were built a century ago with alpinists in mind, so they could start very early in the morning with their ascent. Today, they’re also a great option for multi-day adventures on a mountainbike and you’ll meet many like-minded people (though not many on a mountainbike). However this particular day, the hut is already closed for the winter season.
 
@@ -73,11 +73,13 @@ After a while, we reach a small emerald blue lake and the nature of the trail st
 
 ![Riding in the alps](/assets/odehighalpine/DSC04168.jpeg)
 *Finally the terrain invites us to let go our brakes more.*
+![Riding in the alps](/assets/odehighalpine/IMG_0414.jpeg)
+*Good to see some vegetation again.*
 
 Then, we hit the tree-line and there’s another shift in riding terrain. It’s not without reason that forests are one of our favorite playgrounds. The trail gets loamier and there are roots inviting us to get some airtime after every corner. This is not a trail that sees a lot of usage and the bushes are brushing on the skin of our legs. The feeling of riding down a narrow trail that rarely sees any mountainbike tires but seems to be built for this sole purpose combined with the wild orange and yellow colors of the trees around us is quite incredible. In terms of pure riding, this is where it’s at its best.
 
-![Riding in the alps](/assets/odehighalpine/DSC07262.jpeg)
-*Different vibes below the tree line. You might notice the different bike. This image is from another day, since we were in a hurry to catch our bus.*
+![Riding in the alps](/assets/odehighalpine/IMG_0421.jpeg)
+*Concentration is becoming harder to maintain towards the end of a long day.*
 
 Completely washed but flooded with endorphins we reach the valley floor and pedal down to the nearest bus station. The local bakery is still open and we can grab some local pastries before loading our bikes on the bus.
 
